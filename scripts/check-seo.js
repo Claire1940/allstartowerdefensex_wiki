@@ -58,6 +58,7 @@ function checkRobotsAndSitemap() {
 
   // 检查 robots.txt
   const robotsPath = path.join(projectRoot, 'public', 'robots.txt')
+  const robotsRoutePath = path.join(projectRoot, 'src', 'app', 'robots.ts')
   if (fs.existsSync(robotsPath)) {
     const content = fs.readFileSync(robotsPath, 'utf-8')
     if (content.includes('Sitemap:')) {
@@ -65,14 +66,19 @@ function checkRobotsAndSitemap() {
     } else {
       addResult('warnings', 'Robots', '⚠ robots.txt 缺少 Sitemap 引用')
     }
+  } else if (fs.existsSync(robotsRoutePath)) {
+    addResult('passed', 'Robots', '✓ 使用 Next.js metadata route (src/app/robots.ts) 生成 robots.txt')
   } else {
     addResult('errors', 'Robots', '✗ robots.txt 不存在')
   }
 
   // 检查 sitemap.xml
   const sitemapPath = path.join(projectRoot, 'public', 'sitemap.xml')
+  const sitemapRoutePath = path.join(projectRoot, 'src', 'app', 'sitemap.ts')
   if (fs.existsSync(sitemapPath)) {
     addResult('passed', 'Sitemap', '✓ sitemap.xml 存在')
+  } else if (fs.existsSync(sitemapRoutePath)) {
+    addResult('passed', 'Sitemap', '✓ 使用 Next.js metadata route (src/app/sitemap.ts) 生成 sitemap.xml')
   } else {
     addResult('warnings', 'Sitemap', '⚠ sitemap.xml 不存在（Next.js 可能动态生成）')
   }

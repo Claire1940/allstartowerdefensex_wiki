@@ -1,933 +1,1186 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "All Star Tower Defense X Wiki - Codes, Tier List & Units",
+      "description": "Obtén la última All Star Tower Defense X Wiki con Codes, Tier Lists de Units, Traits, Banners, objetos, Modes y guías de progresión para jugadores de Roblox.",
+      "keywords": "All Star Tower Defense X, All Star Tower Defense X wiki, All Star Tower Defense X Codes, All Star Tower Defense X Tier List, All Star Tower Defense X Units, All Star Tower Defense X Traits",
+      "ogTitle": "All Star Tower Defense X Wiki - Codes, Tier List & Units",
+      "ogDescription": "Rastrea Codes de All Star Tower Defense X, actualizaciones de Tier List, guías de Units, Banners de invocación y recursos de progresión en un solo lugar.",
+      "twitterTitle": "All Star Tower Defense X Wiki - Codes, Tier List & Units",
+      "twitterDescription": "Sigue los Codes de All Star Tower Defense X, rankings de Units, builds de Traits y guías de Modes para una progresión más rápida en Roblox."
     }
   },
   "nav": {
     "codes": "Codes",
     "tier": "Tier",
     "units": "Units",
-    "guide": "Guide",
+    "guide": "Guía",
     "farming": "Farming",
-    "summon": "Summon",
+    "summon": "Invocación",
     "modes": "Modes"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
-    "switchLanguage": "Cambiar idioma",
-    "switchTheme": "Cambiar tema",
-    "lightMode": "Modo claro",
-    "darkMode": "Modo oscuro",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar Idioma",
+    "switchTheme": "Cambiar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Oscuro",
     "notFound": "Página no encontrada",
-    "notFoundDescription": "La página que buscas no existe.",
-    "backToHome": "Volver al inicio",
-    "relatedArticles": "Artículos relacionados",
+    "notFoundDescription": "La página que estás buscando no existe.",
+    "backToHome": "Volver al Inicio",
+    "relatedArticles": "Artículos Relacionados",
     "readMore": "Leer más",
     "articlesComingSoon": "Artículos próximamente"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Experiencia de Tower Defense de Anime en Roblox",
+    "title": "All Star Tower Defense X Wiki",
+    "description": "Rastrea Codes, Units, Tier Lists, Traits, Banners, objetos y game Modes de All Star Tower Defense X para jugadores de Roblox que buscan una progresión más rápida y equipos más fuertes.",
+    "getFreeCodesCTA": "Jugar All Star Tower Defense X en Roblox",
+    "playOnRobloxCTA": "Unirse al Discord de All Star Tower Defense X",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "940.7M+",
+        "label": "Visitas Totales"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "373K+",
+        "label": "Favoritos"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "475",
+        "label": "Jugadores Activos"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "600K",
+        "label": "Siguiente Meta de Codes"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad de All Star Tower Defense X",
+    "description": "Mira el tráiler de personajes de All Star Tower Defense X y planifica tus Codes, invocaciones, tiradas de Traits y rutas de progresión de Modes."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "All Star Tower Defense X",
+    "titleHighlight": "Herramientas de Inicio",
+    "subtitle": "Navega por cada módulo de la página principal de All Star Tower Defense X, desde Codes hasta enlaces oficiales",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Codes de All Star Tower Defense X",
+        "description": "Codes de canje activos, paquetes de recompensas y pasos para reclamar"
       },
       {
         "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "title": "Tier List de All Star Tower Defense X",
+        "description": "Tiers del meta por rol, tipo de posicionamiento y valor de progresión"
       },
       {
         "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
+        "title": "Units de All Star Tower Defense X",
+        "description": "Categorías de Units por rareza, grupo de lanzamiento y rol de equipo"
       },
       {
         "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
+        "title": "Guía para Principiantes de All Star Tower Defense X",
+        "description": "Hoja de ruta inicial para invocaciones, completar la historia y mejoras"
       },
       {
         "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
+        "title": "Banner de Invocación de All Star Tower Defense X",
+        "description": "Tiempos de actualización de Banners X/Y, tasas, costos y planificación de pity"
       },
       {
         "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
+        "title": "Traits de All Star Tower Defense X",
+        "description": "Probabilidades de Traits, puntos de ruptura de pity y prioridades de conservar o relanzar"
       },
       {
         "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
+        "title": "Guía de Gemas de All Star Tower Defense X",
+        "description": "Rutas de Codes, Historia, Infinito y Portales para el Farming de Gemas"
       },
       {
         "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
+        "title": "Story Mode de All Star Tower Defense X",
+        "description": "Orden de áreas de historia, recompensas de Arco, jefes y estrategia de preparación"
       },
       {
         "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
+        "title": "Infinite Mode de All Star Tower Defense X",
+        "description": "Hitos de oleadas, escalado de HP de 1P-4P y puntos de control de Gemas"
       },
       {
         "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
+        "title": "Guía de Trials de All Star Tower Defense X",
+        "description": "Niveles de Trial, recompensas de Estratega, Trial Coins y notas de jefes"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
+        "title": "Guía de Portales de All Star Tower Defense X",
+        "description": "Vidas de portal, mejoras de tier, modificadores y ruta Unbound"
       },
       {
         "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "title": "Elementos de All Star Tower Defense X",
+        "description": "Tabla de contraataques, multiplicadores de daño y ejemplos de Units elementales"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "title": "Hidden Potential de All Star Tower Defense X",
+        "description": "Reglas de bloqueo de árbol, costos de Skill Orb y decisiones de objetos de reinicio"
       },
       {
         "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "title": "Objetos de All Star Tower Defense X",
+        "description": "Categorías de objetos, usos principales y dónde se obtiene cada recurso"
       },
       {
         "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "title": "Actualizaciones de All Star Tower Defense X",
+        "description": "Nuevas Units, mecánicas de lanzamiento, instantánea de Trials y entrada oficial al juego"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Enlaces Oficiales de All Star Tower Defense X",
+        "description": "Página oficial de Roblox, servidor de Discord y centro de wiki de ASTDX"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+      "title": "Codes de All Star Tower Defense X",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "Canjea Codes activos de All Star Tower Defense X para obtener Gemas, Trait Burners, Bounded Cubes, Stat Dice y recursos de progresión adicionales antes de realizar un summon o reroll.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Code de All Star Tower Defense X: LIMITEDTIMECODEX",
+          "description": "Paquete de recompensas: 2,500 Gemas, 85 Trait Burners y 20 Bounded Cubes. Ideal para summons de alto valor y rerolls de Traits."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Code de All Star Tower Defense X: THANKYOUFORPLAYINGLOVE",
+          "description": "Paquete de recompensas: 2,500 Gemas, 85 Trait Burners y 20 Bounded Cubes. Ideal para la preparación de summons y rerolls."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Code de All Star Tower Defense X: UPDATE9",
+          "description": "Paquete de recompensas: 2,500 Gemas, 85 Trait Burners y 20 Bounded Cubes. Ideal para la progresión en la semana de actualización."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Code de All Star Tower Defense X: SPRINGOWEENRELEASED",
+          "description": "Paquete de recompensas: 2,500 Gemas, 85 Trait Burners y 20 Bounded Cubes. Ideal para el reabastecimiento de recursos del ciclo de eventos."
+        },
+        {
+          "title": "Code de All Star Tower Defense X: NEWUPDATESTUFF",
+          "description": "Paquete de recompensas: 1,500 Gemas, 50 Trait Burners y 20 Bounded Cubes. Ideal para sesiones de summon adicionales."
+        },
+        {
+          "title": "Code de All Star Tower Defense X: SORRY4BREAK",
+          "description": "Paquete de recompensas: 2,000 Gemas, 150 Trait Burners y 50 Bounded Cubes. Ideal para rerolls de Traits agresivos."
+        },
+        {
+          "title": "Code de All Star Tower Defense X: UPDATE7ORISIT8",
+          "description": "Paquete de recompensas: 2,000 Gemas, 100 Trait Burners y 40 Bounded Cubes. Ideal para la reconstrucción de alineaciones."
+        },
+        {
+          "title": "Code de All Star Tower Defense X: THANKYOUFOR570KLIKES",
+          "description": "Paquete de recompensas: 3,000 Gemas, 40 Trait Burners, 20 Stat Dice, 3 Bounded Cubes y 1 Fruta Roka. Requisito: nivel 8+."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Abre All Star Tower Defense X, toca el ícono del pájaro, pega el Code y presiona Canjear.",
+        "Canjea todos los Codes activos antes de tirar en los Banners para que el pity y los recursos coincidan.",
+        "Si un Code falla, verifica la ortografía y los requisitos de nivel, luego reintenta en un nuevo lobby.",
+        "Usa los paquetes grandes primero cuando planees hacer summon y reroll en la misma sesión."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
+      "title": "Tier List de All Star Tower Defense X",
       "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+      "intro": "Las clasificaciones de la Tier List de All Star Tower Defense X están agrupadas por rol de posicionamiento y utilidad de modo para que puedas invertir en Units que mantengan su valor en Story, Infinite y Trials.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Tier All Star de All Star Tower Defense X",
+          "description": "Selecciones con el valor general más alto: Kosuke (Eternal), Zaruto (Beast Cloak II), Crow, Flaming Tiger, Enraged-Swordman y Frost Moon."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Tier Meta General de All Star Tower Defense X",
+          "description": "Units universales fuertes para progresión en múltiples Modes: Maniac, Blood Queen, Tomi, Meduka, Paper Beauty, Shirtless Devil y Etri."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Tier de Juego Temprano de All Star Tower Defense X",
+          "description": "Units de inicio rápido que estabilizan las victorias iniciales: Shirtless Devil, Zaruto (Beast Cloak II), Crow, Frost Moon y Maniac."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "Tier de Soporte de All Star Tower Defense X",
+          "description": "Valor central de soporte y economía: Bellma (Money Corp), Ramen Grill-Master, Toad Sage, Paper Beauty y Star Boy."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "Selecciones Meta Hybrid y Ground de All Star Tower Defense X para cobertura de carriles",
+        "Selecciones Meta Hill de All Star Tower Defense X para mapas con mucha elevación",
+        "Selecciones Sub Meta de All Star Tower Defense X para rellenos de alineación flexibles"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+      "title": "Units de All Star Tower Defense X",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "Usa este resumen de la base de datos de Units de All Star Tower Defense X para filtrar por rareza, grupo de lanzamiento y prioridad de mejora antes de armar tu equipo principal.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "Nuevas Units Primal de All Star Tower Defense X",
+          "type": "Primal",
+          "description": "Las últimas adiciones Primal incluyen a Zaruto (Beast Cloak II) para un escalado de daño de alto nivel."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "Nuevas Units Unbound de All Star Tower Defense X",
+          "type": "Unbound",
+          "description": "Las adiciones Unbound recientes incluyen a Crow para alineaciones de progresión de élite."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "Nuevas Units de 5 Estrellas de All Star Tower Defense X",
+          "type": "5 Star",
+          "description": "Las adiciones recientes de 5 estrellas incluyen a Bellma (Money Corp), Kosuke (Eternal), Paper Beauty y Snake Assistant."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "Units Primal de All Star Tower Defense X",
+          "type": "Primal",
+          "description": "La alineación Primal principal incluye actualmente a Flaming Tiger y Zaruto (Beast Cloak II)."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "Units Unbound de All Star Tower Defense X",
+          "type": "Unbound",
+          "description": "El grupo Unbound incluye a Crow, Etri, Michishibo, Supreme Leader, Spider Boss y Magma Marine."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "Units Exclusivas y de Team-Up de All Star Tower Defense X",
+          "type": "Exclusive / Team-Up",
+          "description": "Las selecciones exclusivas incluyen a Frost Moon, Flower Trainer y Patternine, con múltiples combinaciones de Team-Up para builds de sinergia."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+      "title": "Guía para Principiantes de All Star Tower Defense X",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "Sigue este flujo para principiantes de All Star Tower Defense X para comenzar con recursos gratuitos, armar una alineación lista para summons y progresar eficientemente a través de los Modes de Story y farming.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "Paso 1 de All Star Tower Defense X: Ingresa a la Experiencia Oficial de Roblox",
+          "role": "Paso Inicial",
+          "description": "Comienza dentro de All Star Tower Defense X y aprende sobre posicionamiento, mejoras y ritmo de oleadas antes de gastar recursos premium."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "Paso 2 de All Star Tower Defense X: Canjea Codes antes de hacer Summon",
+          "role": "Configuración de Recursos",
+          "description": "Reclama primero los Codes activos para que tu primer ciclo de Banners tenga suficientes Gemas, Trait Burners y Stat Dice."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "Paso 3 de All Star Tower Defense X: Haz Summon y construye espacios principales",
+          "role": "Construcción de Alineación",
+          "description": "Usa las ventanas de actualización de Banners y el progreso de pity para asegurar opciones confiables de 5 estrellas y soporte desde temprano."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "Paso 4 de All Star Tower Defense X: Avanza en el Mode Story y farmea",
+          "role": "Ciclo de Progresión",
+          "description": "Usa las victorias en Story para obtener recompensas estables, luego expándete a las rutas de farming de Infinite, Trials y Portales."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Sigue el tiempo de actualización de los Banners de All Star Tower Defense X antes de gastar Gemas.",
+        "Mezcla Units de daño, soporte y economía en lugar de acumular un solo rol.",
+        "Usa Traits y potencial oculto en tus Units principales de mayor valor primero.",
+        "Mantén un equipo de farming y un equipo de avance para diferentes objetivos de Modes."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
+      "title": "Banner de Invocación de All Star Tower Defense X",
       "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
+      "intro": "La invocación es la forma principal de obtener la mayoría de las Units en All Star Tower Defense X. Usa los horarios, tasas y cálculos de pity del Banner X y Banner Y para planificar cada sesión de Gemas.",
       "cards": [
         {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
+          "name": "Horario de Actualización de Banners de All Star Tower Defense X",
+          "description": "El Banner X se actualiza a las XX:00 y el Banner Y se actualiza a las XX:30 cada hora, ofreciendo dos ventanas de invocación en cada ciclo."
         },
         {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
+          "name": "Tasas de los Banners de All Star Tower Defense X",
+          "description": "El grupo visible usa 1 de Cinco Estrellas (1%), 2 de Cuatro Estrellas (8%) y 3 de Tres Estrellas (27%), mientras que Unbound sigue siendo una búsqueda oculta del 0.01%."
         },
         {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
+          "name": "Costos de Invocación de All Star Tower Defense X",
+          "description": "Las invocaciones individuales cuestan 50 Gemas, mientras que las de 10x cuestan 450 Gemas y reducen el pity total de 5 Estrellas a 4,500 Gemas."
         },
         {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
+          "name": "Objetivos de Pity y Unbound de All Star Tower Defense X",
+          "description": "El pity de 5 Estrellas se activa a las 100 invocaciones y el pity de Unbound a las 2,000 invocaciones, con Spider Boss en el Banner X y Michishibo en el Banner Y."
         }
       ],
       "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
+        "Revisa el Banner X y el Banner Y de All Star Tower Defense X antes de cada sesión de invocación",
+        "Trata las invocaciones Unbound de All Star Tower Defense X como metas de pity a largo plazo, no como probabilidades a corto plazo",
+        "Usa las invocaciones 10x de All Star Tower Defense X para ahorrar Gemas durante los ciclos completos de pity",
+        "Haz coincidir las Units destacadas de All Star Tower Defense X con las carencias de tu equipo actual antes de gastar"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
+      "title": "Traits de All Star Tower Defense X",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
+      "intro": "Los Traits pueden cambiar el rol de una unidad en All Star Tower Defense X al mejorar el daño, rango, velocidad, economía, durabilidad, límite de colocación y efectos especiales.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
+          "name": "Traits de Daño Principal de All Star Tower Defense X",
+          "type": "Prioridad de Carry",
+          "description": "Zenkai, Dexterity, Sharpshooter y Tempest mejoran el rendimiento del carry y son excelentes opciones cuando tus Units de DPS ya tienen una colocación y tiempo de actividad estables."
         },
         {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
+          "name": "Traits de Utilidad y Economía de All Star Tower Defense X",
+          "type": "Valor de Soporte",
+          "description": "Midas, Companion, Tank y Perception mejoran la consistencia del farmeo, la flexibilidad de colocación o la estabilidad de la línea frontal en mapas largos."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
+          "name": "Pity de Traits Raros de All Star Tower Defense X",
+          "type": "Rerolls de Alto Nivel",
+          "description": "Bloodlust (pity de 500), Corrupted (pity de 450), Genesis (pity de 650) y All Star (pity de 1000) son resultados que definen builds y valen un presupuesto planificado de rerolls."
         },
         {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
+          "name": "Orden de Reroll de All Star Tower Defense X",
+          "type": "Ruta de Mejora",
+          "description": "Haz reroll a tu carry principal primero, luego a las Units de ruptura de escudo o soporte, y evita gastar Trait Burners en espacios temporales de tu equipo."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
+      "title": "Guía de Gemas de All Star Tower Defense X",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
+      "intro": "Las Gemas son la moneda principal de invocación en All Star Tower Defense X. Comienza con recompensas únicas y luego pasa a los ciclos repetibles de farmeo en Story, Infinite y Portales.",
       "creatures": [
         {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
+          "name": "Ruta de Canje de Codes de All Star Tower Defense X",
+          "role": "Gemas Inmediatas",
+          "description": "Codes como THANKYOUFOR570KLIKES, DELAYYY5 y SORRY4BREAK otorgan Gemas rápidas además de Trait Burners, Stat Dice y Bounded Cubes."
         },
         {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
+          "name": "Completado de Story en Casual y Hard de All Star Tower Defense X",
+          "role": "Ingresos por Primera Victoria",
+          "description": "Las primeras victorias en Casual dan 60 Gemas por Arc y en Hard dan 70, mientras que ambas rutas desbloquean mapas más difíciles y mejores opciones de farmeo."
         },
         {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
+          "name": "Hitos de Oleadas en Infinite de All Star Tower Defense X",
+          "role": "Farmeo Repetible",
+          "description": "Las recompensas de Gemas en Infinite escalan por puntos de control de oleadas, desde unas 14-15 en la oleada 10 hasta unas 99 en la oleada 50 para un ingreso repetible estable."
         },
         {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
+          "name": "Valor de Classic y Void Bag en All Star Tower Defense X",
+          "role": "Eficiencia de Recursos",
+          "description": "Classic Infinite mejora la eficiencia de Gemas para equipos base fuertes, y las Void Bags añaden Trait Burners, Stat Dice, Bounded Cubes y Summon Tickets."
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
+          "name": "Planificación de Portales y Pity de All Star Tower Defense X",
+          "role": "Ruta de Juego Tardío",
+          "description": "Los Portales cuestan 250 Gemas y pueden devolver 235 Gemas por victoria más drops especiales, así que combina las incursiones en portales con la planificación de pity de invocación 10x."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
+      "title": "Story Mode de All Star Tower Defense X",
       "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
+      "intro": "Story Mode es la ruta de progresión principal en All Star Tower Defense X. Cada área tiene 6 Arcs con 15 oleadas, presión de jefes y recompensas por primera victoria.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
+          "name": "Resumen del Sistema de Story de All Star Tower Defense X",
+          "type": "Estructura del Modo",
+          "description": "Cada área de Story tiene 6 Arcs con 15 oleadas cada uno, y completarlos desbloquea la siguiente área además del acceso a Endless para esa región."
         },
         {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
+          "name": "De Innovation a Voldstandig en All Star Tower Defense X",
+          "type": "Ruta Inicial",
+          "description": "Innovation Island (Azul, débil ante Verde) y City of Voldstandig (Púrpura, débil ante Naranja) establecen la progresión inicial y la planificación elemental."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
+          "name": "Future City y Hidden Storm en All Star Tower Defense X",
+          "type": "Ruta Intermedia",
+          "description": "Future City (Naranja, débil ante Rojo) y Hidden Storm Village (Verde, débil ante Púrpura) añaden mecánicas de jefes más difíciles y comprobaciones de equipo más estrictas."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
+          "name": "Giant Island y City of York en All Star Tower Defense X",
+          "type": "Ruta Tardía",
+          "description": "Giant Island (Rojo, débil ante Azul) y City of York (Verde, débil ante Púrpura) exigen daño de ráfaga para comportamientos complejos de jefes y presión en la oleada final."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
+          "name": "Planificación de Recompensas de Story de All Star Tower Defense X",
+          "type": "Camino de Recompensas",
+          "description": "Las victorias en Casual y Hard otorgan Gemas, Oro, comida, drops de mapa y recompensas de monturas o VFX, así que planifica tus victorias tanto por progresión como por valor de farmeo."
         }
       ],
       "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
+        "Ruta de Gemas por primera victoria en Story Arc de All Star Tower Defense X",
+        "Momento de transición de Casual a Hard en All Star Tower Defense X",
+        "Preparación de equipos de contraataque elemental en All Star Tower Defense X",
+        "Planificación de mecánicas de jefes del Arc 6 de All Star Tower Defense X"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
+      "title": "Recompensas de Oleadas y Escalamiento de HP en Infinite Mode de All Star Tower Defense X",
+      "displayType": "table",
+      "subtitle": "Sigue los hitos de Infinite Mode de All Star Tower Defense X, los picos de HP de los enemigos, el escalamiento multijugador y los puntos de control de recompensas de Gemas para decidir cuándo reiniciar.",
+      "intro": "En All Star Tower Defense X, el Infinite Mode envía oleadas interminables de enemigos hasta que el HP de la base se agota. El modo regular mantiene activos los Traits, Hidden Potential y estadísticas, mientras que Classic desactiva esos bonos para un ligero aumento en la ganancia de Gemas. El HP de los enemigos escala según el número de jugadores a +0.9x de HP por cada jugador adicional, por lo que las partidas de 2P a 4P se vuelven mucho más pesadas que las de un solo jugador.",
+      "items": [
         {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
+          "wave": 1,
+          "health_1p": "67",
+          "health_2p": "127",
+          "health_3p": "188",
+          "health_4p": "248",
+          "gems": "0",
+          "note": "Oleada inicial y comprobación de HP base."
         },
         {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
+          "wave": 10,
+          "health_1p": "439",
+          "health_2p": "834",
+          "health_3p": "1,229",
+          "health_4p": "1,624",
+          "gems": "14-15",
+          "note": "Primer punto de control de recompensas de Gemas listado."
         },
         {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
+          "wave": 20,
+          "health_1p": "1,723",
+          "health_2p": "3,274",
+          "health_3p": "4,824",
+          "health_4p": "6,375",
+          "gems": "34-36",
+          "note": "Punto de control de farmeo inicial con baja presión de HP."
         },
         {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
+          "wave": 30,
+          "health_1p": "14,745",
+          "health_2p": "28,016",
+          "health_3p": "41,286",
+          "health_4p": "54,557",
+          "gems": "56-57",
+          "note": "El HP de los enemigos comienza a subir mucho más rápido aquí."
+        },
+        {
+          "wave": 40,
+          "health_1p": "664,614",
+          "health_2p": "1,262,767",
+          "health_3p": "1,860,919",
+          "health_4p": "2,459,072",
+          "gems": "77-78",
+          "note": "Punto de control de alto esfuerzo donde el escalamiento del equipo es muy visible."
+        },
+        {
+          "wave": 45,
+          "health_1p": "5,046,267",
+          "health_2p": "9,587,907",
+          "health_3p": "14,129,548",
+          "health_4p": "18,671,186",
+          "gems": "No checkpoint",
+          "note": "Gran muro de HP antes de la desaceleración post-45."
+        },
+        {
+          "wave": 46,
+          "health_1p": "5,096,197",
+          "health_2p": "9,682,774",
+          "health_3p": "14,269,352",
+          "health_4p": "18,855,927",
+          "gems": "No checkpoint",
+          "note": "El escalamiento se ralentiza después del pico de la Oleada 45."
+        },
+        {
+          "wave": 50,
+          "health_1p": "5,328,290",
+          "health_2p": "10,123,752",
+          "health_3p": "14,919,213",
+          "health_4p": "19,714,674",
+          "gems": "99",
+          "note": "Punto de control de Gemas más alto listado en la tabla."
+        },
+        {
+          "wave": 58,
+          "health_1p": "5,834,145",
+          "health_2p": "11,084,875",
+          "health_3p": "16,335,605",
+          "health_4p": "21,586,335",
+          "gems": "No checkpoint",
+          "note": "Referencia de oleada profunda para equipos de alto nivel."
         }
       ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
+      "highlights": [
+        "Las Void Bags de All Star Tower Defense X pueden soltar objetos de EXP, Trait Burners, Stat Dice, Bounded Cubes, Summon Tickets y Kujo.",
+        "El límite de inventario de Void Bags en All Star Tower Defense X es 199, así que vacía o abre bolsas regularmente durante sesiones largas.",
+        "El escalamiento de 2P a 4P en All Star Tower Defense X es pronunciado, así que elige tus objetivos de oleada por eficiencia de recompensa, no solo por ambición de oleada máxima."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
+      "title": "Recompensas de Pruebas de All Star Tower Defense X, Modes Strategist, Monedas y Notas de Victoria",
+      "displayType": "accordion",
+      "subtitle": "Revisa las Pruebas de All Star Tower Defense X por requisito de nivel, grupo de recompensas, elemento, obtención de monedas y mecánicas de jefes en Regular y Strategist.",
+      "intro": "Las Pruebas de All Star Tower Defense X se desbloquean por niveles y recompensan con Oro, Gemas, monedas específicas de la prueba, materiales y obtención de Units. Las victorias en Regular suelen tener un 5% de probabilidad de Units, mientras que Strategist suele tener un 25% de probabilidad de Units y mejor obtención de monedas, pero elimina el Potencial Oculto, Traits y Estadísticas de las Units.",
+      "items": [
         {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
+          "title": "Cartas de Pruebas en el juego de All Star Tower Defense X",
+          "meta": "Reglas del Sistema",
+          "summary": "Las cartas aparecen al principio de las oleadas 4, 8 y 12 para que los jugadores puedan cambiar seguridad por mayores bonos de recompensa.",
+          "details": [
+            "Las cartas verdes otorgan efectos beneficiosos como velocidad, daño o alcance y añaden un 0% de bono de recompensa.",
+            "Las cartas azules fortalecen a los enemigos con efectos como velocidad, HP o escudos y añaden un 20% de bono de recompensa.",
+            "Las cartas rojas aplican efectos negativos más severos, como eliminar todos los Traits, y añaden un 40% de bono de recompensa.",
+            "Los bonos de recompensa se acumulan tras una victoria exitosa y aumentan la probabilidad de obtención de Units."
+          ]
         },
         {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
+          "title": "Tienda de Pruebas y Monedas de Prueba de All Star Tower Defense X",
+          "meta": "Ruta de Economía",
+          "summary": "Las Monedas de Prueba se gastan en la Tienda de Pruebas junto a la entrada amarilla de Pruebas, y cada Prueba usa un tipo de moneda diferente.",
+          "details": [
+            "Las victorias en Regular suelen soltar de 5 a 8 monedas de prueba; las victorias en Strategist suelen soltar de 10 a 14.",
+            "Las tiendas incluyen Star Scrolls, Roka Fruit, Doma Fruit, Luck Boosters, Star Statue (Gold), Trait Burners, Stat Dice, Bounded Cubes y Summon Tickets.",
+            "Los Star Scrolls se consumen desde el inventario para obtener automáticamente al personaje vinculado.",
+            "La Prueba 1 usa Etri Coins y la Prueba 2 usa Magma Coins."
+          ]
         },
         {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
+          "title": "Prueba 1 de All Star Tower Defense X",
+          "meta": "Nivel 25+ • Elemento Azul",
+          "summary": "La Prueba 1 recompensa el progreso de Etri e introduce una presión intensa de aturdimiento.",
+          "regularRewards": "Etri (5%), Etri's Rapier (50%), 5-8 Etri Coins",
+          "strategistRewards": "Etri (25%), Etri's Rapier (100%), 10-14 Etri Coins",
+          "bossHp": "1,000,000",
+          "details": [
+            "Lleva un rompeescudos; la Forma Titán de Airren es una opción recomendada.",
+            "Los aturdimientos del jefe pueden interrumpir a los atacantes, así que coloca Units que no sean de DPS para absorber los aturdimientos lejos del daño principal.",
+            "En la oleada final, aparecen dos jefes invencibles en los carriles laterales; enfócate en el jefe del carril central."
+          ]
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
+          "title": "Prueba 2 de All Star Tower Defense X",
+          "meta": "Nivel 35+ • Elemento Rojo",
+          "summary": "La Prueba 2 refleja la estructura de recompensas de la Prueba 1 pero cambia a la ruta de Magma Coins.",
+          "regularRewards": "Magma Marine (5%), Spade Hat (50%), 5-8 Magma Coins",
+          "strategistRewards": "Magma Marine (25%), Spade Hat (100%), 10-14 Magma Coins",
+          "bossHp": "1,750,000",
+          "details": [
+            "Lleva un rompeescudos porque los enemigos de la Oleada 5 regeneran escudos.",
+            "Los invasores y jefes pueden aturdir con frecuencia, así que prioriza eliminarlos rápidamente.",
+            "Las recompensas siguen los patrones de la Prueba 1 pero usan Magma Coins."
+          ]
         },
         {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
+          "title": "Prueba 3 de All Star Tower Defense X - Arco 1",
+          "meta": "Nivel 40+ • Elemento Naranja",
+          "summary": "El Arco 1 es una prueba de presión contrarreloj con fuertes controles de escudo.",
+          "regularRewards": "3-5 Supreme Coins",
+          "strategistRewards": "6-8 Supreme Coins",
+          "bossHp": "2,500,000",
+          "details": [
+            "El jefe de la Oleada 11 tiene 100 escudos, lo que hace obligatorio el uso de rompeescudos.",
+            "Después de que comience la Oleada 15, los jugadores tienen 5 minutos para eliminar a todos los enemigos o fallarán.",
+            "Los aturdimientos frecuentes reducen el tiempo de actividad, y el jefe final aparece dentro de un domo donde no se pueden colocar Units."
+          ]
         },
         {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
+          "title": "Prueba 3 de All Star Tower Defense X - Arco 2",
+          "meta": "Nivel 40+ • Mapa de Tres Carriles",
+          "summary": "El Arco 2 enfatiza la distribución de carriles y el tiempo de control de jefes.",
+          "regularRewards": "Supreme Leader (5%), Supreme Helmet (50%), 5-8 Supreme Coins",
+          "strategistRewards": "Supreme Leader (25%), Supreme Helmet (100%), 10-14 Supreme Coins",
+          "bossHp": "1,750,000 jefe central; 650,000 jefes izquierdo y derecho",
+          "details": [
+            "Divide la cobertura de Units en tres carriles, o asigna un jugador a cada carril en partidas de equipo.",
+            "Los jefes aparecen en las Oleadas 5, 10 y 15, con un jefe muy rápido en la Oleada 10.",
+            "El jefe final puede eliminar torres mientras también aparecen jefes más fáciles en los caminos laterales."
+          ]
+        },
+        {
+          "title": "Prueba 3 de All Star Tower Defense X - Arco 3",
+          "meta": "Nivel 40+ • Elemento Púrpura",
+          "summary": "El Arco 3 combina rutas contrarreloj con presión de oleadas de doble jefe.",
+          "regularRewards": "Supreme Leader (5%), Freezer (20%), Freezer Mask (50%), 5-8 Supreme Coins",
+          "strategistRewards": "Supreme Leader (25%), Freezer (35%), Freezer Mask (100%), 10-14 Supreme Coins",
+          "bossHp": "1,500,000 x2",
+          "details": [
+            "El mapa tiene tres caminos con un temporizador de victoria de 16 minutos.",
+            "Supreme Leader aparece en la Oleada 6, Freezer en la Oleada 11, y ambos en la Oleada 15.",
+            "En la Oleada 15, Supreme Leader es invencible por un tiempo, así que enfócate primero en Freezer."
+          ]
+        },
+        {
+          "title": "Prueba 4 de All Star Tower Defense X - Arco 1",
+          "meta": "Nivel 40+ • Elemento Neutral",
+          "summary": "El elemento neutral significa que esta prueba favorece un DPS estable y control más que los contraataques elementales.",
+          "regularRewards": "Flaming Tiger (5%), Flame Cape (50%), 5-8 Flame Coins",
+          "strategistRewards": "Flaming Tiger (25%), Flame Cape (100%), 10-14 Flame Coins",
+          "details": [
+            "Los enfrentamientos neutrales reducen el valor del daño de contraataque elemental.",
+            "Prioriza el DPS puro, una cobertura de camino limpia y un control de jefes confiable."
+          ]
+        },
+        {
+          "title": "Prueba 5 de All Star Tower Defense X - Arco 1",
+          "meta": "Nivel 40+ • Elemento Verde",
+          "summary": "La Prueba 5 es una ruta de progreso clave para los objetivos de Crow y Limiter Switch.",
+          "regularRewards": "Crow (5%), Assistant Glasses (50%), 5-8 Reanimation Coins, Limiter Switch (50%)",
+          "strategistRewards": "Crow (25%), Assistant Glasses (100%), 10-14 Reanimation Coins, Limiter Switch (100%)",
+          "details": [
+            "Las alineaciones de elemento verde deberían contrarrestar a los enemigos Azules y evitar los caminos con desventaja Púrpura.",
+            "Las recompensas de Crow y Limiter Switch hacen que esta prueba sea valiosa para el crecimiento del equipo a largo plazo."
+          ]
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
+      "title": "Guía de Portales de All Star Tower Defense X desde el Nivel 1 hasta Unbound",
+      "displayType": "step-by-step",
+      "subtitle": "Sigue la ruta de Portales de All Star Tower Defense X: compra un portal, completa niveles, gestiona vidas y esfuérzate por obtener las recompensas especiales de Unbound.",
+      "intro": "Los Portales de All Star Tower Defense X se introdujeron en la Actualización 6 y se compran al NPC Nakime cerca de la entrada de Trials. Cada portal tiene 3 vidas y desaparece tras tres derrotas. Las incursiones de portales usan dificultad por niveles y modificadores, con la ruta a largo plazo subiendo del Nivel 1 al Nivel 5 y luego buscando Unbound.",
+      "steps": [
         {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
+          "step": 1,
+          "title": "All Star Tower Defense X Comprar un Portal",
+          "action": "Compra un portal del NPC Nakime cerca de la entrada de Trials.",
+          "details": "Costo: 250 Gemas.",
+          "result": "Recibes un portal con 3 vidas."
         },
         {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
+          "step": 2,
+          "title": "All Star Tower Defense X Comenzar en el Nivel 1",
+          "action": "Comienza con la dificultad de portal más baja y genera consistencia.",
+          "details": "Ruta de niveles: Nivel 1 > Nivel 2 > Nivel 3 > Nivel 4 > Nivel 5 > Unbound.",
+          "result": "El Nivel 1 es el más fácil, mientras que Unbound es el mayor desafío."
         },
         {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
+          "step": 3,
+          "title": "All Star Tower Defense X Completar con Modificadores",
+          "action": "Lee los modificadores activos antes de fijar tu alineación.",
+          "details": "Los modificadores de portal pueden mejorar o debilitar elementos de forma similar a los Challenges.",
+          "result": "Los cambios de elementos pueden variar qué Units son más seguras para cada incursión."
         },
         {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
+          "step": 4,
+          "title": "All Star Tower Defense X Mejorar el Portal",
+          "action": "Completa una incursión de portal para obtener el resultado del siguiente nivel.",
+          "details": "Antes del Nivel 5, las victorias tienen un 90% de probabilidad de mejorar y un 10% de probabilidad de quedarse en el mismo nivel.",
+          "result": "La mayoría de las victorias exitosas avanzan hacia arriba hasta el Nivel 5."
         },
         {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
+          "step": 5,
+          "title": "All Star Tower Defense X Proteger tus 3 Vidas",
+          "action": "Evita intentos fallidos repetidos en el mismo portal.",
+          "details": "Cada portal tiene 3 vidas y desaparece tras tres derrotas.",
+          "result": "Una racha fallida obliga a reiniciar con un nuevo portal comprado."
+        },
+        {
+          "step": 6,
+          "title": "All Star Tower Defense X Farmear el Nivel 5 para Unbound",
+          "action": "Sigue completando portales de Nivel 5 tras alcanzar el Nivel 5.",
+          "details": "El Nivel 5 se mantiene en Nivel 5 al 100%.",
+          "extra": "Cada victoria en el Nivel 5 tiene un 2% de probabilidad de otorgar un Portal Unbound.",
+          "result": "Los portales Unbound son el objetivo raro de alto nivel para la progresión de portales."
+        },
+        {
+          "step": 7,
+          "title": "All Star Tower Defense X Reclamar Recompensas de Portal",
+          "action": "Completa portales para obtener recompensas base y objetivos de Units Unbound.",
+          "details": "La recompensa base por completar es 235 Gemas y 25 de Oro.",
+          "extra": "El Portal Unbound de Frost Moon otorga a Frost Moon; el Portal Unbound de Patternine otorga a Patternine.",
+          "result": "El farmeo de portales combina moneda constante con objetivos raros de Units para el juego tardío."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
+      "title": "Contrarrestos de Elementos, Multiplicadores de Daño y Ejemplos de Units de All Star Tower Defense X",
+      "displayType": "table",
+      "subtitle": "Usa la tabla de elementos de All Star Tower Defense X para elegir contrarrestos antes de Story, Endless, Trials e incursiones de Portales con modificadores.",
+      "intro": "En All Star Tower Defense X, la ventaja de elemento inflige 2x de daño, mientras que la desventaja de elemento inflige 0.25x de daño. Los elementos coincidentes, enemigos neutrales, enemigos sin elemento y pares de elementos no relacionados usan daño estándar.",
+      "items": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "element": "Azul",
+          "strongAgainst": "Rojo",
+          "weakAgainst": "Verde",
+          "advantageDamage": "2x contra Rojo",
+          "disadvantageDamage": "0.25x contra Verde",
+          "storyExamples": [
+            "Innovation Island"
+          ],
+          "trialExamples": [
+            "Trial 1"
+          ],
+          "sampleUnits": [
+            "Etri",
+            "Frost Moon",
+            "Patternine",
+            "Sky God",
+            "Tony Stark",
+            "Underwater God"
+          ]
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "element": "Verde",
+          "strongAgainst": "Azul",
+          "weakAgainst": "Morado",
+          "advantageDamage": "2x contra Azul",
+          "disadvantageDamage": "0.25x contra Morado",
+          "storyExamples": [
+            "Hidden Storm Village"
+          ],
+          "trialExamples": [
+            "Trial 5 - Arc 1"
+          ],
+          "sampleUnits": [
+            "Spider Boss",
+            "Flower Trainer",
+            "Airren",
+            "Dark Wing",
+            "Kuroma (Yoko)",
+            "Onwin"
+          ]
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "element": "Rojo",
+          "strongAgainst": "Naranja",
+          "weakAgainst": "Azul",
+          "advantageDamage": "2x contra Naranja",
+          "disadvantageDamage": "0.25x contra Azul",
+          "storyExamples": [
+            "Giant Island"
+          ],
+          "trialExamples": [
+            "Trial 2"
+          ],
+          "sampleUnits": [
+            "Magma Marine",
+            "Devil",
+            "Flaming Tiger",
+            "Cyber Psycho",
+            "Blood Commander",
+            "Kujo"
+          ]
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
+          "element": "Naranja",
+          "strongAgainst": "Morado",
+          "weakAgainst": "Rojo",
+          "advantageDamage": "2x contra Morado",
+          "disadvantageDamage": "0.25x contra Rojo",
+          "storyExamples": [
+            "Future City (Ruins)"
+          ],
+          "trialExamples": [
+            "Trial 3 - Arc 1"
+          ],
+          "sampleUnits": [
+            "Supreme Leader",
+            "Alligator",
+            "Expert Sorcerer (Serious)",
+            "Fire Officer",
+            "Red Servant",
+            "Venus"
+          ]
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
+          "element": "Morado",
+          "strongAgainst": "Verde",
+          "weakAgainst": "Naranja",
+          "advantageDamage": "2x contra Verde",
+          "disadvantageDamage": "0.25x contra Naranja",
+          "storyExamples": [
+            "City of Voldstandig"
+          ],
+          "trialExamples": [
+            "Trial 3 - Arc 3"
+          ],
+          "sampleUnits": [
+            "Michishibo",
+            "Blackstache",
+            "Freezer (Final Form)",
+            "Jin Sung",
+            "Killer (Serious)",
+            "Super God Vegu"
+          ]
         },
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "element": "Neutral",
+          "strongAgainst": "Ninguno",
+          "weakAgainst": "Ninguno",
+          "advantageDamage": "Daño estándar",
+          "disadvantageDamage": "Daño estándar",
+          "storyExamples": [
+            "Enemigos de City of York Endless"
+          ],
+          "trialExamples": [
+            "Trial 4 - Arc 1"
+          ],
+          "sampleUnits": [
+            "MiniYou"
+          ]
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
+      "title": "Potencial Oculto de All Star Tower Defense X",
       "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
+      "intro": "El Potencial Oculto de All Star Tower Defense X es un sistema de crecimiento avanzado para Units de 5 Estrellas y Unbound. Úsalo para bloquear un árbol de construcción, gastar Orbes de Habilidad y nodos duplicados, y llevar el escalamiento de estadísticas a largo plazo más allá de las mejoras base.",
       "faqs": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "question": "¿Cómo accedo al Potencial Oculto de All Star Tower Defense X?",
+          "answer": "El Potencial Oculto de All Star Tower Defense X está disponible para Units de 5 Estrellas y Unbound. Ábrelo desde el Gurú en el Edificio del Gran Anciano o desde el menú de tres puntos en la pantalla de la unidad."
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "question": "¿Cuál es la regla de elección de árbol del Potencial Oculto de All Star Tower Defense X?",
+          "answer": "Cada unidad de All Star Tower Defense X puede comprometerse con un solo árbol: Poder, Alcance o Velocidad. Una vez que inviertes en un árbol, los otros dos árboles se bloquean para esa unidad."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "question": "¿Qué proporciona el Árbol de Poder de All Star Tower Defense X?",
+          "answer": "El Árbol de Poder de All Star Tower Defense X otorga +15% de daño, +5% de alcance y -5% de velocidad. Incluye Crítico, Marcador, Potenciador de Elemento e Interrupción, y utiliza costos de Orbe de Habilidad I y Orbe de Habilidad II para la progresión."
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
+          "question": "¿Qué proporciona el Árbol de Alcance de All Star Tower Defense X?",
+          "answer": "El Árbol de Alcance de All Star Tower Defense X otorga +5% de daño, +12.5% de alcance y -5% de velocidad. Sus habilidades incluyen Asesino, Sobrecarga, Rebote y Oleada para cobertura del mapa y presión multiobjetivo."
         },
         {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "question": "¿Qué proporciona el Árbol de Velocidad de All Star Tower Defense X?",
+          "answer": "El Árbol de Velocidad de All Star Tower Defense X otorga +5% de daño, +5% de alcance y -10% de velocidad. Añade Adicional, Esquiva, Empleo y Resistencia Elemental para valor de ritmo, utilidad y economía del equipo."
+        },
+        {
+          "question": "¿En qué se diferencia el Potencial Oculto de All Star Tower Defense X de los Traits?",
+          "answer": "Los Traits de All Star Tower Defense X son modificadores basados en giros que consumen Quemadores de Traits, mientras que el Potencial Oculto es una inversión permanente en un árbol que utiliza Orbes de Habilidad y nodos duplicados. Ambos sistemas se acumulan para el rendimiento final de la unidad."
+        },
+        {
+          "question": "¿Qué objetos de reinicio se usan en el Potencial Oculto de All Star Tower Defense X?",
+          "answer": "La Fruta Roka de All Star Tower Defense X reinicia el progreso general del Potencial Oculto, mientras que la Fruta Doma reinicia solo los nodos especiales. Usa objetos de reinicio cuando un árbol ya no encaje en el rol de tu plantilla."
+        },
+        {
+          "question": "¿A qué Units de All Star Tower Defense X debería darles Potencial Oculto primero?",
+          "answer": "Prioriza el Potencial Oculto de All Star Tower Defense X en tu carry principal y en tu unidad de soporte más utilizada, luego expándelo a Units secundarias después de que tu equipo principal esté estable."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
+      "title": "Objetos de All Star Tower Defense X",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
+      "intro": "La ruta de objetos de All Star Tower Defense X abarca materiales de NPC, botines de Historia, recompensas de Trials, moneda de Mazmorra, recursos de Desafío, comida de XP, potenciadores y accesorios. Usa este módulo como una base de datos compacta de objetos para decisiones de uso y farmeo.",
       "settings": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "name": "Materiales de NPC de All Star Tower Defense X",
+          "type": "Ruta de Evolución",
+          "description": "Objetos como Equipo de Espada Omni, Fruta Terremoto, Collar de Borul y Daga de Jin se usan para la evolución y ascensión, y se obtienen de misiones de NPC en el lobby principal."
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "name": "Objetos de Historia de All Star Tower Defense X",
+          "type": "Progresión de Historia",
+          "description": "Bota Flotante, Sombrero de Oficial Q, Bola Z, Banda Ninja, Capa de Reconocimiento, Ojo Escarlata y Esfera de Bestia provienen de misiones de Historia y materiales de progresión de soporte."
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "name": "Botines de Historia Difícil de All Star Tower Defense X",
+          "type": "Dificultad Alta",
+          "description": "Jugo de Mímico, Espada de Ikki, Espada Kai, Shuriken Ninja, Lanza de Reconocimiento y Pendiente de Cazador provienen de rutas de Historia en dificultad difícil para requisitos de progresión más fuertes."
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "name": "Objetos de Portal de All Star Tower Defense X",
+          "type": "Recompensas de Portal",
+          "description": "Las recompensas exclusivas de portal, como el Sombrero de Luna de Escarcha, están vinculadas a limpiezas de portales específicos, con tasas de aparición listadas y valor de farmeo para el juego tardío."
+        },
+        {
+          "name": "Objetos de Trials de All Star Tower Defense X",
+          "type": "Recompensas de Trials",
+          "description": "Estoque de Etri, Sombrero de Espada, Casco Supremo, Máscara de Freezer y Capa de Llama provienen de rutas de Trials, con diferencias de recompensa entre regular y Estratega."
+        },
+        {
+          "name": "Tienda de Trials de All Star Tower Defense X",
+          "type": "Economía de Monedas",
+          "description": "Las Monedas de Trials se gastan en Pergaminos Estelares, Fruta Roka, Fruta Doma, Potenciador de Suerte, Quemador de Traits, Dado de Estadísticas, Cubo Vinculado y Ticket de Invocación en la Tienda de Trials."
+        },
+        {
+          "name": "Objetos de Mazmorra de All Star Tower Defense X",
+          "type": "Moneda de Mazmorra",
+          "description": "La Moneda de Mazmorra, el Botín de Mazmorra, la Esencia de Agua y la Esencia de Maso sirven para compras en la tienda de mazmorras, giros de recompensa y planificación de materiales de ascensión."
+        },
+        {
+          "name": "Objetos de Desafío de All Star Tower Defense X",
+          "type": "Recursos de Potencial Oculto",
+          "description": "Orbe de Habilidad I y II, recompensas de Fantasma, Fruta del Demonio y materiales específicos del mapa son recursos obtenidos en desafíos para el Potencial Oculto, evolución y ascensión."
+        },
+        {
+          "name": "Objetos de XP y Comida de All Star Tower Defense X",
+          "type": "Nivelación de Unidades",
+          "description": "Los niveles de EXP y los objetos de comida como Brocheta de Carne, Bollo Dulce, Tazón de Arroz y Ramen Sustancioso se usan para alimentar Units y acelerar la nivelación de la plantilla."
+        },
+        {
+          "name": "Bolsas, Cápsulas y Potenciadores de All Star Tower Defense X",
+          "type": "Pool de Recompensas",
+          "description": "Bolsa del Vacío, Bolsa de Orbes de Habilidad, Cápsula Básica, Cápsula Premium, Potenciador de Suerte y potenciadores shiny provienen de Infinito, misiones semanales, tiendas y rutas de mercado."
+        },
+        {
+          "name": "Accesorios de Units de All Star Tower Defense X",
+          "type": "Equipo Cosmético",
+          "description": "La Corona de Desafío y el Halo Alado son accesorios equipables que se obtienen de clasificaciones en eventos diarios y pools de recompensas de Royal Drop."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
+      "title": "Actualizaciones de All Star Tower Defense X",
       "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
+      "intro": "Sigue las nuevas Units de All Star Tower Defense X, los sistemas de lanzamiento, resúmenes de Trials y enlaces oficiales de juego para que la planificación de tu equipo se mantenga alineada con el ciclo de contenido más reciente.",
       "entries": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "title": "Nueva Unidad Primal de All Star Tower Defense X: Zaruto (Capa de Bestia II)",
+          "type": "Nuevas Units",
+          "description": "El feed de actualizaciones enumera a Zaruto (Capa de Bestia II) como una nueva unidad Primal y un candidato de construcción de alta prioridad para plantillas de juego tardío."
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "title": "Nueva Unidad Unbound de All Star Tower Defense X: Crow",
+          "type": "Nuevas Units",
+          "description": "Crow aparece como una nueva unidad Unbound y es un objetivo clave a seguir para equipos de progresión avanzada."
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "title": "Nuevo Grupo de Units de 5 Estrellas de All Star Tower Defense X",
+          "type": "Nuevas Units",
+          "description": "Bellma (Money Corp), Boulder Li (TS), Kosuke (Eterno), Belleza de Papel, Asistente de Serpiente, Sabio Sapo y Bote Amarillo están listados en el nuevo grupo de 5 Estrellas."
+        },
+        {
+          "title": "Nuevo Grupo de Units de 4 Estrellas de All Star Tower Defense X",
+          "type": "Nuevas Units",
+          "description": "Boulder Li y El Asistente están listados en el nuevo grupo de 4 Estrellas para la planificación de colecciones de juego temprano y medio."
+        },
+        {
+          "title": "Centro de Mecánicas de Lanzamiento de All Star Tower Defense X",
+          "type": "Sistemas de Juego",
+          "description": "El centro de lanzamiento mapea áreas centrales como Lobby, Invocaciones, Templo Antiguo, Historia, Infinito, Desafíos, Trials y zonas AFK."
+        },
+        {
+          "title": "Resumen de Trials de All Star Tower Defense X",
+          "type": "Trials",
+          "description": "Los primeros Trials destacan la ruta de Etri en Trial 1 al nivel 25 y la ruta de Magma en Trial 2 al nivel 35 con notas de progresión de monedas y Units."
+        },
+        {
+          "title": "Sistemas de la Pantalla Principal de All Star Tower Defense X",
+          "type": "Interfaz",
+          "description": "Los sistemas de la pantalla principal incluyen Units, Royal Drop, Arena y Actualizaciones, ayudando a los jugadores a navegar los menús de gestión y progresión más rápido."
+        },
+        {
+          "title": "Página Oficial del Juego en Roblox de All Star Tower Defense X",
+          "type": "Juego Oficial",
+          "description": "Usa la página del juego en Roblox como el destino principal para jugar y como referencia de listados en vivo para All Star Tower Defense X."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
+      "title": "Enlaces oficiales de All Star Tower Defense X",
       "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+      "intro": "Usa estos enlaces oficiales de All Star Tower Defense X para entrar directamente al juego, ver anuncios de la comunidad y acceder al centro de navegación principal de la wiki de ASTDX.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "title": "Página oficial del juego All Star Tower Defense X en Roblox",
+          "description": "Entrada principal al juego: https://www.roblox.com/games/17687504411/All-Star-Tower-Defense-X"
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "title": "Discord oficial de All Star Tower Defense X",
+          "description": "Comunidad principal y anuncios: https://discord.com/invite/allstar"
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
-        },
-        {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
-        },
-        {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Inicio de la wiki de ASTDX de All Star Tower Defense X",
+          "description": "Centro de navegación de la wiki: https://astdx.fandom.com/wiki/All_Star_Tower_Defense_X_Wiki"
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "All Star Tower Defense X",
+    "titleHighlight": "Preguntas frecuentes",
+    "subtitle": "Preguntas clave que los jugadores hacen antes de armar equipos en All Star Tower Defense X",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Cómo canjeo Codes en All Star Tower Defense X?",
+        "answer": "En All Star Tower Defense X, abre el lobby del juego, toca el ícono del pájaro, pega un Code activo y presiona Canjear para reclamar recompensas."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Cuál es la mejor ruta para principiantes en All Star Tower Defense X?",
+        "answer": "Para All Star Tower Defense X, canjea Codes primero, invoca según el tiempo de los Banners, luego completa el Story Mode para obtener recompensas de progresión estables."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Cómo funciona el pity en las invocaciones de All Star Tower Defense X?",
+        "answer": "El pity de invocación de All Star Tower Defense X garantiza un 5 estrellas después de 100 tiradas, y el pity Unbound se rastrea hasta las 2,000 tiradas."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Qué recursos son los más importantes en All Star Tower Defense X?",
+        "answer": "Los recursos más importantes de All Star Tower Defense X son las Gemas para invocaciones, Trait Burners para rerolls y materiales de mejora para Units principales."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Qué Modes debería farmear después del Story Mode en All Star Tower Defense X?",
+        "answer": "Después de la historia en All Star Tower Defense X, enfócate en Infinite, Trials y Portals según la fuerza de tu equipo actual y tus objetivos de recompensa."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Cómo debería gastar las mejoras en All Star Tower Defense X?",
+        "answer": "En All Star Tower Defense X, prioriza un carry más Units de soporte clave, luego invierte Traits y potencial oculto en esas selecciones principales."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "Únete a la comunidad de All Star Tower Defense X",
+    "description": "Sigue los canales oficiales para actualizaciones, Codes de recompensa y anuncios de Banners para All Star Tower Defense X.",
+    "joinCommunity": "Únete al Discord de All Star Tower Defense X",
+    "joinGame": "Abrir All Star Tower Defense X en Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "All Star Tower Defense X Wiki",
+    "description": "Tu centro comunitario para Codes, Tier Lists, Units, Traits, Banners y guías de Modes de All Star Tower Defense X.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 All Star Tower Defense X Wiki. No afiliado con Roblox ni Top Down Games.",
     "disclaimer": "Sitio web de recursos no oficial creado por fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "codes": {
+      "title": "Codes de All Star Tower Defense X",
+      "description": "Encuentra Codes activos de All Star Tower Defense X para obtener Gemas, Trait Burners y recursos de reroll.",
+      "metaTitle": "Codes de All Star Tower Defense X - Recompensas de Gemas y Reroll",
+      "metaDescription": "Usa Codes activos de All Star Tower Defense X para reclamar Gemas, Trait Burners y recursos de reroll, con pasos claros de canje y seguimiento de actualizaciones.",
+      "categoryLabel": "CODES",
+      "whatIs": "¿Qué son los Codes de All Star Tower Defense X?",
+      "whatIsDescription": "Los Codes de All Star Tower Defense X son cadenas de canje limitado que otorgan recursos de progresión gratuitos como Gemas, Trait Burners y artículos relacionados con el reroll.",
+      "why": "¿Por qué revisar los Codes de All Star Tower Defense X?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Reclama moneda de progresión gratuita",
+        "step1Description": "Usa las recompensas de los Codes para aumentar el volumen de invocaciones y el crecimiento de tu equipo sin necesidad de farmear extra.",
+        "step2Title": "Reduce los cuellos de botella al inicio del juego",
+        "step2Description": "Convierte objetos gratuitos en mejoras más rápidas, intentos de reroll más limpios y una entrada más fluida a los Modes.",
+        "step3Title": "Anticípate a los plazos de vencimiento",
+        "step3Description": "Canjea los nuevos lanzamientos rápidamente antes de que expiren y las recompensas desaparezcan."
       },
-      "featured": "Destacado y esencial",
+      "featured": "Destacados y esenciales",
+      "all": "Todos los Codes"
+    },
+    "tier": {
+      "title": "Tier List de All Star Tower Defense X",
+      "description": "Sigue las clasificaciones de la Tier List de All Star Tower Defense X por valor de carry, impacto de utilidad y rendimiento en los Modes.",
+      "metaTitle": "Tier List de All Star Tower Defense X - Clasificaciones de Units del Meta",
+      "metaDescription": "Compara el rendimiento de las Units de All Star Tower Defense X por rol y modo, con prioridades de Tier List prácticas para la progresión inicial, media y avanzada.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "¿Qué es la Tier List de All Star Tower Defense X?",
+      "whatIsDescription": "La Tier List de All Star Tower Defense X agrupa Units por su valor real en partida para que puedas priorizar mejoras, rerolls y decisiones sobre los espacios del equipo.",
+      "why": "¿Por qué usar la Tier List de All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Prioriza Units de alto impacto",
+        "step1Description": "Enfoca tus recursos en Units que ofrezcan victorias estables y valor a largo plazo en múltiples Modes.",
+        "step2Title": "Equilibra los roles del equipo más rápido",
+        "step2Description": "Usa el contexto de la Tier List para combinar roles de carry, soporte, economía y control con menos espacios débiles.",
+        "step3Title": "Adáptate a los cambios del meta en los parches",
+        "step3Description": "Actualiza tu plan de equipo a medida que los cambios de equilibrio modifican qué Units funcionan mejor en el contenido actual."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de Tier List"
+    },
+    "units": {
+      "title": "Units de All Star Tower Defense X",
+      "description": "Revisa las Units de All Star Tower Defense X por rareza, identidad de rol y planificación de sinergia de equipo.",
+      "metaTitle": "Units de All Star Tower Defense X - Roles, Rareza y Sinergia",
+      "metaDescription": "Explora las Units de All Star Tower Defense X con desgloses de roles, contexto de rareza y guías prácticas de formación de equipos para los Modes principales.",
+      "categoryLabel": "UNITS",
+      "whatIs": "¿Qué son las Units de All Star Tower Defense X?",
+      "whatIsDescription": "Las Units de All Star Tower Defense X son las piezas centrales de tu alineación, cada una con una cobertura de rol, comportamiento de escalado y valor de colocación únicos.",
+      "why": "¿Por qué estudiar las Units de All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Construye una mejor cobertura de roles",
+        "step1Description": "Entiende qué Units se encargan del daño a jefes, control de carriles, mejoras de soporte y tareas de economía.",
+        "step2Title": "Evita inversiones innecesarias",
+        "step2Description": "Reserva las mejoras costosas para Units con valor confiable en lugar de elecciones de relleno efímeras.",
+        "step3Title": "Mejora las decisiones de invocación",
+        "step3Description": "Tira en los Banners basándote en los vacíos de tu alineación y los requisitos del equipo en lugar de solo la rareza."
+      },
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las guías de Units"
+    },
+    "guide": {
+      "title": "Guía de All Star Tower Defense X",
+      "description": "Sigue guías prácticas de All Star Tower Defense X para rutas de progresión, configuración de equipos y flujo de desbloqueo de Modes.",
+      "metaTitle": "Guía de All Star Tower Defense X - Progresión de principiante a fin del juego",
+      "metaDescription": "Usa la cobertura de la guía de All Star Tower Defense X para optimizar el nivelado, la estructura del equipo, el flujo de misiones y las prioridades de desbloqueo de Modes.",
+      "categoryLabel": "GUÍA",
+      "whatIs": "¿Qué es la categoría de Guía de All Star Tower Defense X?",
+      "whatIsDescription": "La categoría de guía de All Star Tower Defense X reúne tutoriales de juego que te ayudan a pasar de la configuración inicial a completar contenido de nivel alto de forma constante.",
+      "why": "¿Por qué leer las guías de All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Acelera la progresión inicial",
+        "step1Description": "Usa un orden de configuración claro para Codes, invocaciones, misiones y mejoras para evitar un comienzo lento.",
+        "step2Title": "Planifica un crecimiento de equipo eficiente",
+        "step2Description": "Ajusta las prioridades de mejora a tus objetivos actuales para que cada gasto de recursos impulse un progreso real.",
+        "step3Title": "Completa Modes de forma más constante",
+        "step3Description": "Aplica tácticas específicas de ruta para etapas de historia, oleadas de escalado y segmentos de jefes de alta presión."
+      },
+      "featured": "Destacados y Esenciales",
       "all": "Todas las guías"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "farming": {
+      "title": "Farming en All Star Tower Defense X",
+      "description": "Optimiza los ciclos de farming en All Star Tower Defense X para obtener EXP, Gemas, materiales y estabilidad de recursos a largo plazo.",
+      "metaTitle": "Farming en All Star Tower Defense X - EXP, Gemas y Materiales",
+      "metaDescription": "Aprende rutas eficientes de farming en All Star Tower Defense X para EXP, divisas, materiales de relanzamiento y recursos de mejora en los Modes principales.",
+      "categoryLabel": "FARMING",
+      "whatIs": "¿Qué es el Farming en All Star Tower Defense X?",
+      "whatIsDescription": "El farming en All Star Tower Defense X se centra en rutas repetibles que producen divisas, objetos de progresión y materiales de mejora con el mínimo tiempo de inactividad.",
+      "why": "¿Por qué optimizar el farming en All Star Tower Defense X?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Aumenta la eficiencia de recursos",
+        "step1Description": "Ejecuta las rutas de mayor valor para tu cuello de botella actual en lugar de dividir esfuerzos al azar.",
+        "step2Title": "Mantén el impulso de las mejoras",
+        "step2Description": "Mantén un flujo estable de materiales y divisas para que las Units clave puedan mejorarse según lo previsto.",
+        "step3Title": "Apoya el crecimiento de la alineación a largo plazo",
+        "step3Description": "Alinea los objetivos de granja con las próximas invocaciones, evoluciones y metas de progresión de Modes."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las guías de farming"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "summon": {
+      "title": "Summon en All Star Tower Defense X",
+      "description": "Rastrea los Banners de summon de All Star Tower Defense X, la planificación de pity y las prioridades de invocación para Units clave.",
+      "metaTitle": "Summon en All Star Tower Defense X - Planificación de Banners y Pity",
+      "metaDescription": "Usa la cobertura de summon de All Star Tower Defense X para evaluar Banners activos, planificar el gasto de pity y apuntar a Units que se ajusten a tu alineación.",
+      "categoryLabel": "SUMMON",
+      "whatIs": "¿Qué es la planificación de Summon en All Star Tower Defense X?",
+      "whatIsDescription": "La planificación de summon en All Star Tower Defense X te ayuda a gestionar los tiempos de los Banners, los umbrales de pity y la asignación de divisas para obtener mejores resultados.",
+      "why": "¿Por qué planificar los summons en All Star Tower Defense X?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Gasta Gemas en mejores objetivos",
+        "step1Description": "Prioriza Banners que llenen vacíos reales en tu alineación y mejoren el rendimiento inmediato.",
+        "step2Title": "Protege el progreso del Pity",
+        "step2Description": "Sigue cuidadosamente los hitos de summon para evitar reinicios ineficientes y gastos de bajo valor.",
+        "step3Title": "Alinea las invocaciones con las necesidades del equipo",
+        "step3Description": "Sincroniza las decisiones de los Banners con tus objetivos actuales de los Modes, no solo por ciclos de hype."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las guías de Summon"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "modes": {
+      "title": "Modes de All Star Tower Defense X",
+      "description": "Explora los Modes de All Star Tower Defense X con un flujo de objetivos claro, enfoque en recompensas y notas de estrategia de equipo.",
+      "metaTitle": "Modes de All Star Tower Defense X - Story, Infinite y más",
+      "metaDescription": "Comprende las diferencias de los Modes de All Star Tower Defense X, las recompensas y las prioridades estratégicas para Story, Infinite y otras rutas de progresión.",
+      "categoryLabel": "MODES",
+      "whatIs": "¿Qué son los Modes de All Star Tower Defense X?",
+      "whatIsDescription": "Los Modes de All Star Tower Defense X son rutas de juego distintas con diferentes objetivos, presión de escalado y perfiles de recompensa.",
+      "why": "¿Por qué comparar los Modes de All Star Tower Defense X?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Elige la ruta de progreso adecuada",
+        "step1Description": "Elige ejecuciones en los Modes que coincidan con tu necesidad actual de divisas, materiales o progresión de desafíos.",
+        "step2Title": "Prepara equipos específicos para cada Mode",
+        "step2Description": "Ajusta los roles y colocaciones de la alineación según el escalado de enemigos, el ritmo de las oleadas y las limitaciones del mapa.",
+        "step3Title": "Maximiza el retorno de recompensas",
+        "step3Description": "Dedica tiempo a los Modes que brinden el mayor valor para tu próximo punto de control de mejora."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
-    },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
-      "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
-      },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
-    },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
-      "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
-      },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las guías de Modes"
     }
   }
 }

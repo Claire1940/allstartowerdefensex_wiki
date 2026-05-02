@@ -1,11 +1,1186 @@
 {
+  "seo": {
+    "home": {
+      "title": "All Star Tower Defense X Wiki - Codes, Tier List & Units",
+      "description": "Dapatkan All Star Tower Defense X Wiki terbaru dengan codes, unit tier list, traits, banners, item, modes, dan panduan progresi untuk pemain Roblox.",
+      "keywords": "All Star Tower Defense X, All Star Tower Defense X wiki, All Star Tower Defense X codes, All Star Tower Defense X tier list, All Star Tower Defense X units, All Star Tower Defense X traits",
+      "ogTitle": "All Star Tower Defense X Wiki - Codes, Tier List & Units",
+      "ogDescription": "Pantau All Star Tower Defense X codes, pembaruan tier list, panduan unit, summon banners, dan sumber daya progresi di satu tempat.",
+      "twitterTitle": "All Star Tower Defense X Wiki - Codes, Tier List & Units",
+      "twitterDescription": "Ikuti All Star Tower Defense X codes, peringkat unit, build traits, dan panduan modes untuk progresi Roblox yang lebih cepat."
+    }
+  },
   "nav": {
     "codes": "Codes",
     "tier": "Tier",
     "units": "Units",
-    "guide": "Guide",
+    "guide": "Panduan",
     "farming": "Farming",
     "summon": "Summon",
     "modes": "Modes"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel segera hadir"
+  },
+  "hero": {
+    "badge": "Pengalaman Anime Tower Defense Roblox",
+    "title": "All Star Tower Defense X Wiki",
+    "description": "Pantau All Star Tower Defense X codes, units, tier lists, traits, banners, item, dan game modes untuk pemain Roblox yang menginginkan progresi lebih cepat dan tim yang lebih kuat.",
+    "getFreeCodesCTA": "Mainkan All Star Tower Defense X di Roblox",
+    "playOnRobloxCTA": "Bergabung dengan All Star Tower Defense X Discord",
+    "stats": {
+      "stat1": {
+        "value": "940.7M+",
+        "label": "Total Kunjungan"
+      },
+      "stat2": {
+        "value": "373K+",
+        "label": "Favorit"
+      },
+      "stat3": {
+        "value": "475",
+        "label": "Pemain Aktif"
+      },
+      "stat4": {
+        "value": "600K",
+        "label": "Target Codes Berikutnya"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay All Star Tower Defense X",
+    "description": "Tonton trailer karakter All Star Tower Defense X dan rencanakan codes, summon, roll traits, dan rute progresi modes Anda."
+  },
+  "tools": {
+    "title": "All Star Tower Defense X",
+    "titleHighlight": "Alat Beranda",
+    "subtitle": "Navigasi setiap modul beranda All Star Tower Defense X mulai dari codes hingga tautan resmi",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "All Star Tower Defense X Codes",
+        "description": "Codes penukaran aktif, bundel hadiah, dan langkah klaim"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "All Star Tower Defense X Tier List",
+        "description": "Meta tier berdasarkan peran, tipe penempatan, dan nilai progresi"
+      },
+      {
+        "icon": "Hammer",
+        "title": "All Star Tower Defense X Units",
+        "description": "Kategori units berdasarkan kelangkaan, grup rilis, dan peran tim"
+      },
+      {
+        "icon": "Package",
+        "title": "Panduan Pemula All Star Tower Defense X",
+        "description": "Peta jalan pemula untuk summon, menyelesaikan cerita, dan peningkatan"
+      },
+      {
+        "icon": "Home",
+        "title": "All Star Tower Defense X Summon Banners",
+        "description": "Waktu penyegaran Banners X/Y, peluang, biaya, dan perencanaan pity"
+      },
+      {
+        "icon": "Eye",
+        "title": "All Star Tower Defense X Traits",
+        "description": "Peluang traits, ambang batas pity, dan prioritas simpan-atau-reroll"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Panduan Gems All Star Tower Defense X",
+        "description": "Rute Codes, Story, Infinite, dan Portal untuk farming Gem"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "All Star Tower Defense X Story Modes",
+        "description": "Urutan area cerita, hadiah Arc, bos, dan strategi persiapan"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "All Star Tower Defense X Infinite Modes",
+        "description": "Pencapaian wave, penskalaan HP 1P-4P, dan checkpoint Gem"
+      },
+      {
+        "icon": "Star",
+        "title": "Panduan Trials All Star Tower Defense X",
+        "description": "Level Trial, hadiah Strategist, Trial Coins, dan catatan bos"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Panduan Portals All Star Tower Defense X",
+        "description": "Nyawa Portal, peningkatan tier, modifier, dan rute Unbound"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Elemen All Star Tower Defense X",
+        "description": "Bagan counter, pengganda kerusakan, dan contoh unit elemen"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "All Star Tower Defense X Hidden Potential",
+        "description": "Aturan kunci pohon, biaya Skill Orb, dan keputusan item reset"
+      },
+      {
+        "icon": "Settings",
+        "title": "Item All Star Tower Defense X",
+        "description": "Kategori item, kegunaan utama, dan tempat mendapatkan setiap sumber daya"
+      },
+      {
+        "icon": "Clock",
+        "title": "Pembaruan All Star Tower Defense X",
+        "description": "Units baru, mekanik rilis, cuplikan Trials, dan entri bermain resmi"
+      },
+      {
+        "icon": "Shield",
+        "title": "Tautan Resmi All Star Tower Defense X",
+        "description": "Halaman resmi Roblox, server Discord, dan pusat wiki ASTDX"
+      }
+    ]
+  },
+  "modules": {
+    "lucidBlocksBeginnerGuide": {
+      "title": "Codes All Star Tower Defense X",
+      "displayType": "steps",
+      "intro": "Tukarkan Codes All Star Tower Defense X yang aktif untuk mendapatkan Gems, Trait Burners, Bounded Cubes, Stat Dice, dan sumber daya progresi tambahan sebelum Anda melakukan summon atau reroll.",
+      "steps": [
+        {
+          "title": "Codes All Star Tower Defense X: LIMITEDTIMECODEX",
+          "description": "Bundel hadiah: 2.500 Gems, 85 Trait Burners, dan 20 Bounded Cubes. Terbaik untuk summon bernilai tinggi dan reroll Traits."
+        },
+        {
+          "title": "Codes All Star Tower Defense X: THANKYOUFORPLAYINGLOVE",
+          "description": "Bundel hadiah: 2.500 Gems, 85 Trait Burners, dan 20 Bounded Cubes. Terbaik untuk persiapan summon dan reroll."
+        },
+        {
+          "title": "Codes All Star Tower Defense X: UPDATE9",
+          "description": "Bundel hadiah: 2.500 Gems, 85 Trait Burners, dan 20 Bounded Cubes. Terbaik untuk progresi minggu pembaruan."
+        },
+        {
+          "title": "Codes All Star Tower Defense X: SPRINGOWEENRELEASED",
+          "description": "Bundel hadiah: 2.500 Gems, 85 Trait Burners, dan 20 Bounded Cubes. Terbaik untuk stok sumber daya siklus event."
+        },
+        {
+          "title": "Codes All Star Tower Defense X: NEWUPDATESTUFF",
+          "description": "Bundel hadiah: 1.500 Gems, 50 Trait Burners, dan 20 Bounded Cubes. Terbaik untuk sesi summon tambahan."
+        },
+        {
+          "title": "Codes All Star Tower Defense X: SORRY4BREAK",
+          "description": "Bundel hadiah: 2.000 Gems, 150 Trait Burners, dan 50 Bounded Cubes. Terbaik untuk reroll Traits yang agresif."
+        },
+        {
+          "title": "Codes All Star Tower Defense X: UPDATE7ORISIT8",
+          "description": "Bundel hadiah: 2.000 Gems, 100 Trait Burners, dan 40 Bounded Cubes. Terbaik untuk membangun kembali roster."
+        },
+        {
+          "title": "Codes All Star Tower Defense X: THANKYOUFOR570KLIKES",
+          "description": "Bundel hadiah: 3.000 Gems, 40 Trait Burners, 20 Stat Dice, 3 Bounded Cubes, dan 1 Roka Fruit. Persyaratan: level 8+."
+        }
+      ],
+      "quickTips": [
+        "Buka All Star Tower Defense X, ketuk ikon burung, tempel Codes, dan tekan Redeem.",
+        "Tukarkan semua Codes yang aktif sebelum melakukan pull pada Banners agar pity dan sumber daya selaras.",
+        "Jika Codes gagal, periksa ejaan dan persyaratan level, lalu coba lagi di lobi baru.",
+        "Gunakan bundel besar terlebih dahulu saat Anda berencana untuk melakukan summon dan reroll dalam sesi yang sama."
+      ]
+    },
+    "lucidBlocksApotheosisCrafting": {
+      "title": "Tier List All Star Tower Defense X",
+      "displayType": "cards",
+      "intro": "Peringkat Tier List All Star Tower Defense X dikelompokkan berdasarkan peran penempatan dan kegunaan Modes sehingga Anda dapat berinvestasi pada Units yang memiliki nilai di seluruh Story, Infinite, dan Trials.",
+      "cards": [
+        {
+          "name": "Tier All Star All Star Tower Defense X",
+          "description": "Pilihan nilai keseluruhan tertinggi: Kosuke (Eternal), Zaruto (Beast Cloak II), Crow, Flaming Tiger, Enraged-Swordman, dan Frost Moon."
+        },
+        {
+          "name": "Tier Meta Overall All Star Tower Defense X",
+          "description": "Units universal yang kuat untuk progresi multi-mode: Maniac, Blood Queen, Tomi, Meduka, Paper Beauty, Shirtless Devil, and Etri."
+        },
+        {
+          "name": "Tier Early Game All Star Tower Defense X",
+          "description": "Units awal yang cepat untuk menstabilkan pembersihan awal: Shirtless Devil, Zaruto (Beast Cloak II), Crow, Frost Moon, dan Maniac."
+        },
+        {
+          "name": "Tier Support All Star Tower Defense X",
+          "description": "Nilai dukungan inti dan ekonomi: Bellma (Money Corp), Ramen Grill-Master, Toad Sage, Paper Beauty, dan Star Boy."
+        }
+      ],
+      "milestones": [
+        "Pilihan Meta Hybrid dan Ground All Star Tower Defense X untuk cakupan jalur",
+        "Pilihan Meta Hill All Star Tower Defense X untuk peta dengan banyak elevasi",
+        "Pilihan Sub Meta All Star Tower Defense X untuk pengisian roster yang fleksibel"
+      ]
+    },
+    "lucidBlocksToolsAndWeapons": {
+      "title": "Units All Star Tower Defense X",
+      "displayType": "itemCards",
+      "intro": "Gunakan ringkasan database Units All Star Tower Defense X ini untuk memfilter berdasarkan kelangkaan, grup rilis, dan prioritas peningkatan sebelum membangun tim inti Anda.",
+      "items": [
+        {
+          "name": "Units Primal Baru All Star Tower Defense X",
+          "type": "Primal",
+          "description": "Penambahan primal terbaru mencakup Zaruto (Beast Cloak II) untuk penskalaan damage tingkat tinggi."
+        },
+        {
+          "name": "Units Unbound Baru All Star Tower Defense X",
+          "type": "Unbound",
+          "description": "Penambahan unbound terbaru mencakup Crow untuk roster progresi elit."
+        },
+        {
+          "name": "Units 5 Star Baru All Star Tower Defense X",
+          "type": "5 Star",
+          "description": "Penambahan 5 Star terbaru mencakup Bellma (Money Corp), Kosuke (Eternal), Paper Beauty, dan Snake Assistant."
+        },
+        {
+          "name": "Units Primal All Star Tower Defense X",
+          "type": "Primal",
+          "description": "Lini primal inti saat ini mencakup Flaming Tiger dan Zaruto (Beast Cloak II)."
+        },
+        {
+          "name": "Units Unbound All Star Tower Defense X",
+          "type": "Unbound",
+          "description": "Kumpulan Unbound mencakup Crow, Etri, Michishibo, Supreme Leader, Spider Boss, dan Magma Marine."
+        },
+        {
+          "name": "Units Eksklusif dan Team-Up All Star Tower Defense X",
+          "type": "Exclusive / Team-Up",
+          "description": "Pilihan eksklusif mencakup Frost Moon, Flower Trainer, dan Patternine, dengan beberapa kombinasi Team-Up untuk build sinergi."
+        }
+      ]
+    },
+    "lucidBlocksStorageAndInventory": {
+      "title": "Panduan Pemula All Star Tower Defense X",
+      "displayType": "solutionCards",
+      "intro": "Ikuti alur pemula All Star Tower Defense X ini untuk memulai dengan sumber daya gratis, membangun roster yang siap summon, dan maju melalui Story dan farming Modes secara efisien.",
+      "solutions": [
+        {
+          "name": "All Star Tower Defense X Langkah 1: Masuk ke Pengalaman Resmi Roblox",
+          "role": "Langkah Awal",
+          "description": "Mulai di dalam All Star Tower Defense X dan pelajari penempatan, peningkatan, dan tempo wave sebelum menghabiskan sumber daya premium."
+        },
+        {
+          "name": "All Star Tower Defense X Langkah 2: Tukarkan Codes Sebelum Summoning",
+          "role": "Pengaturan Sumber Daya",
+          "description": "Klaim Codes yang aktif terlebih dahulu agar siklus Banners pertama Anda memiliki cukup Gems, Trait Burners, dan Stat Dice."
+        },
+        {
+          "name": "All Star Tower Defense X Langkah 3: Summon dan Bangun Slot Inti",
+          "role": "Membangun Roster",
+          "description": "Gunakan jendela penyegaran Banners dan progres pity untuk mengamankan opsi 5 Star dan support yang andal sejak dini."
+        },
+        {
+          "name": "All Star Tower Defense X Langkah 4: Dorong Story Mode dan Farm",
+          "role": "Siklus Progresi",
+          "description": "Gunakan penyelesaian Story untuk hadiah yang stabil, lalu kembangkan ke rute farming Infinite, Trials, dan Portal."
+        }
+      ],
+      "managementTips": [
+        "Pantau waktu penyegaran Banners All Star Tower Defense X sebelum menggunakan Gems.",
+        "Campurkan Units damage, support, dan ekonomi alih-alih menumpuk satu peran.",
+        "Gunakan Traits dan potensi tersembunyi pada Units inti bernilai tertinggi Anda terlebih dahulu.",
+        "Simpan satu tim farming dan satu tim push untuk tujuan Modes yang berbeda."
+      ]
+    },
+    "lucidBlocksQualiaAndBaseBuilding": {
+      "title": "Banner Summon All Star Tower Defense X",
+      "displayType": "cards",
+      "intro": "Summoning adalah cara utama untuk mendapatkan sebagian besar unit di All Star Tower Defense X. Gunakan waktu Banner X dan Banner Y, peluang (rates), dan perhitungan pity untuk merencanakan setiap sesi Gem.",
+      "cards": [
+        {
+          "name": "Jadwal Pembaruan Banner All Star Tower Defense X",
+          "description": "Banner X diperbarui pada pukul XX:00 dan Banner Y diperbarui pada pukul XX:30 setiap jam, memberikan dua jendela penarikan (pull) setiap siklus."
+        },
+        {
+          "name": "Peluang (Rates) Banner All Star Tower Defense X",
+          "description": "Pool yang terlihat menggunakan 1 Bintang-Lima (1%), 2 Bintang-Empat (8%), dan 3 Bintang-Tiga (27%), sementara Unbound tetap menjadi target tersembunyi dengan peluang 0,01%."
+        },
+        {
+          "name": "Biaya Summon All Star Tower Defense X",
+          "description": "Summon tunggal berbiaya 50 Gem, sementara 10x berbiaya 450 Gem dan menurunkan pity Bintang-5 penuh menjadi 4.500 Gem."
+        },
+        {
+          "name": "Target Pity dan Unbound All Star Tower Defense X",
+          "description": "Pity Bintang-5 terpicu pada 100 summon dan pity Unbound pada 2.000 summon, dengan Spider Boss di Banner X dan Michishibo di Banner Y."
+        }
+      ],
+      "highlights": [
+        "Periksa Banner X dan Banner Y All Star Tower Defense X sebelum setiap sesi summon",
+        "Anggap penarikan Unbound All Star Tower Defense X sebagai tujuan pity jangka panjang, bukan peluang jangka pendek",
+        "Gunakan summon 10x All Star Tower Defense X untuk menghemat Gem selama siklus pity penuh",
+        "Sesuaikan unit unggulan All Star Tower Defense X dengan celah tim Anda saat ini sebelum menghabiskan biaya"
+      ]
+    },
+    "lucidBlocksWorldRegions": {
+      "title": "Traits All Star Tower Defense X",
+      "displayType": "regionCards",
+      "intro": "Traits dapat mengubah peran unit di All Star Tower Defense X dengan meningkatkan damage, jangkauan, kecepatan, ekonomi, daya tahan, jumlah penempatan, dan efek khusus.",
+      "regions": [
+        {
+          "name": "Traits Damage Inti All Star Tower Defense X",
+          "type": "Carry Priority",
+          "description": "Zenkai, Dexterity, Sharpshooter, dan Tempest meningkatkan output carry dan layak dipertahankan saat unit DPS Anda sudah memiliki penempatan dan uptime yang stabil."
+        },
+        {
+          "name": "Traits Utilitas dan Ekonomi All Star Tower Defense X",
+          "type": "Support Value",
+          "description": "Midas, Companion, Tank, dan Perception meningkatkan konsistensi farming, fleksibilitas penempatan, atau stabilitas lini depan untuk peta yang panjang."
+        },
+        {
+          "name": "Pity Trait Langka All Star Tower Defense X",
+          "type": "High-End Rerolls",
+          "description": "Bloodlust (500 pity), Corrupted (450 pity), Genesis (650 pity), dan All Star (1000 pity) adalah hasil penentu build yang layak mendapatkan anggaran reroll yang terencana."
+        },
+        {
+          "name": "Urutan Reroll All Star Tower Defense X",
+          "type": "Upgrade Route",
+          "description": "Lakukan reroll pada carry utama Anda terlebih dahulu, lalu unit pemecah perisai atau support, dan hindari membuang Trait Burner pada slot roster sementara."
+        }
+      ]
+    },
+    "lucidBlocksCreaturesAndEnemies": {
+      "title": "Panduan Gem All Star Tower Defense X",
+      "displayType": "creatureCards",
+      "intro": "Gem adalah mata uang summon inti di All Star Tower Defense X. Mulailah dengan hadiah sekali jalan, lalu beralih ke siklus farming Story, Infinite, dan Portal yang dapat diulang.",
+      "creatures": [
+        {
+          "name": "Rute Penukaran Kode All Star Tower Defense X",
+          "role": "Immediate Gems",
+          "description": "Codes seperti THANKYOUFOR570KLIKES, DELAYYY5, dan SORRY4BREAK memberikan Gem dengan cepat serta Trait Burner, Stat Dice, dan Bounded Cube."
+        },
+        {
+          "name": "Penyelesaian Story All Star Tower Defense X Casual dan Hard",
+          "role": "First-Clear Income",
+          "description": "Penyelesaian pertama Casual memberikan 60 Gem per Arc dan penyelesaian pertama Hard memberikan 70 Gem, sementara kedua rute tersebut membuka peta yang lebih kuat dan opsi farming yang lebih baik."
+        },
+        {
+          "name": "Pencapaian Wave Infinite All Star Tower Defense X",
+          "role": "Repeatable Farming",
+          "description": "Hadiah Gem Infinite meningkat berdasarkan checkpoint wave, dari sekitar 14-15 pada wave 10 hingga sekitar 99 pada wave 50 untuk pendapatan berulang yang stabil."
+        },
+        {
+          "name": "Nilai Classic dan Void Bag All Star Tower Defense X",
+          "role": "Resource Efficiency",
+          "description": "Classic Infinite meningkatkan efisiensi Gem untuk tim dasar yang kuat, dan Void Bag menambahkan Trait Burner, Stat Dice, Bounded Cube, dan Tiket Summon."
+        },
+        {
+          "name": "Perencanaan Portal dan Pity All Star Tower Defense X",
+          "role": "Late-Game Route",
+          "description": "Portal berbiaya 250 Gem dan dapat mengembalikan 235 Gem per penyelesaian ditambah drop spesial, jadi gabungkan sesi portal dengan perencanaan pity summon 10x."
+        }
+      ]
+    },
+    "lucidBlocksMobilityGear": {
+      "title": "Story Mode All Star Tower Defense X",
+      "displayType": "itemCards",
+      "intro": "Story Mode adalah rute progresi inti di All Star Tower Defense X. Setiap area memiliki 6 Arc dengan 15 wave, tekanan bos, dan hadiah penyelesaian pertama.",
+      "items": [
+        {
+          "name": "Ikhtisar Sistem Story All Star Tower Defense X",
+          "type": "Mode Structure",
+          "description": "Setiap area Story memiliki 6 Arc dengan masing-masing 15 wave, dan penyelesaian Arc akan membuka area berikutnya serta akses Endless untuk wilayah tersebut."
+        },
+        {
+          "name": "Dari Innovation ke Voldstandig All Star Tower Defense X",
+          "type": "Early Route",
+          "description": "Innovation Island (Biru, lemah terhadap Hijau) dan City of Voldstandig (Ungu, lemah terhadap Oranye) menetapkan progresi awal dan perencanaan elemen."
+        },
+        {
+          "name": "Future City dan Hidden Storm All Star Tower Defense X",
+          "type": "Mid Route",
+          "description": "Future City (Oranye, lemah terhadap Merah) dan Hidden Storm Village (Hijau, lemah terhadap Ungu) menambahkan mekanik bos yang lebih sulit dan pemeriksaan tim yang lebih ketat."
+        },
+        {
+          "name": "Giant Island dan City of York All Star Tower Defense X",
+          "type": "Late Route",
+          "description": "Giant Island (Merah, lemah terhadap Biru) dan City of York (Hijau, lemah terhadap Ungu) menuntut burst damage untuk perilaku bos yang kompleks dan tekanan wave terakhir."
+        },
+        {
+          "name": "Perencanaan Hadiah Story All Star Tower Defense X",
+          "type": "Reward Path",
+          "description": "Penyelesaian Casual dan Hard memberikan Gem, Gold, makanan, drop peta, dan hadiah mount atau VFX, jadi tentukan rute penyelesaian berdasarkan progresi dan nilai farming."
+        }
+      ],
+      "unlockMilestones": [
+        "Rute Gem penyelesaian pertama Story Arc All Star Tower Defense X",
+        "Waktu transisi Casual-ke-Hard All Star Tower Defense X",
+        "Persiapan tim counter elemen All Star Tower Defense X",
+        "Perencanaan mekanik bos Arc 6 All Star Tower Defense X"
+      ]
+    },
+    "lucidBlocksFarmingAndGrowth": {
+      "title": "Hadiah Wave dan Scaling HP Infinite Mode All Star Tower Defense X",
+      "displayType": "table",
+      "subtitle": "Lacak pencapaian Infinite Mode All Star Tower Defense X, lonjakan HP musuh, scaling multiplayer, dan checkpoint hadiah Gem untuk memutuskan kapan harus mereset.",
+      "intro": "Di All Star Tower Defense X, Infinite Mode mengirimkan wave musuh tanpa henti hingga HP markas habis. Mode reguler tetap mengaktifkan Traits, Hidden Potential, dan statistik, sementara Classic menonaktifkan bonus tersebut untuk sedikit peningkatan perolehan Gem. HP musuh meningkat berdasarkan jumlah pemain sebesar +0,9x HP per pemain tambahan, sehingga permainan 2P hingga 4P menjadi jauh lebih berat daripada penyelesaian solo.",
+      "items": [
+        {
+          "wave": 1,
+          "health_1p": "67",
+          "health_2p": "127",
+          "health_3p": "188",
+          "health_4p": "248",
+          "gems": "0",
+          "note": "Wave awal dan pemeriksaan HP dasar."
+        },
+        {
+          "wave": 10,
+          "health_1p": "439",
+          "health_2p": "834",
+          "health_3p": "1,229",
+          "health_4p": "1,624",
+          "gems": "14-15",
+          "note": "Checkpoint hadiah Gem pertama yang terdaftar."
+        },
+        {
+          "wave": 20,
+          "health_1p": "1,723",
+          "health_2p": "3,274",
+          "health_3p": "4,824",
+          "health_4p": "6,375",
+          "gems": "34-36",
+          "note": "Checkpoint farming awal dengan tekanan HP rendah."
+        },
+        {
+          "wave": 30,
+          "health_1p": "14,745",
+          "health_2p": "28,016",
+          "health_3p": "41,286",
+          "health_4p": "54,557",
+          "gems": "56-57",
+          "note": "HP musuh mulai naik jauh lebih cepat di sini."
+        },
+        {
+          "wave": 40,
+          "health_1p": "664,614",
+          "health_2p": "1,262,767",
+          "health_3p": "1,860,919",
+          "health_4p": "2,459,072",
+          "gems": "77-78",
+          "note": "Checkpoint upaya tinggi di mana scaling tim sangat terlihat."
+        },
+        {
+          "wave": 45,
+          "health_1p": "5,046,267",
+          "health_2p": "9,587,907",
+          "health_3p": "14,129,548",
+          "health_4p": "18,671,186",
+          "gems": "No checkpoint",
+          "note": "Dinding HP utama sebelum perlambatan pasca-wave 45."
+        },
+        {
+          "wave": 46,
+          "health_1p": "5,096,197",
+          "health_2p": "9,682,774",
+          "health_3p": "14,269,352",
+          "health_4p": "18,855,927",
+          "gems": "No checkpoint",
+          "note": "Scaling melambat setelah lonjakan Wave 45."
+        },
+        {
+          "wave": 50,
+          "health_1p": "5,328,290",
+          "health_2p": "10,123,752",
+          "health_3p": "14,919,213",
+          "health_4p": "19,714,674",
+          "gems": "99",
+          "note": "Checkpoint Gem tertinggi yang terdaftar dalam bagan."
+        },
+        {
+          "wave": 58,
+          "health_1p": "5,834,145",
+          "health_2p": "11,084,875",
+          "health_3p": "16,335,605",
+          "health_4p": "21,586,335",
+          "gems": "No checkpoint",
+          "note": "Tolak ukur wave dalam untuk tim kelas atas."
+        }
+      ],
+      "highlights": [
+        "Void Bag All Star Tower Defense X dapat menjatuhkan item EXP, Trait Burner, Stat Dice, Bounded Cube, Tiket Summon, dan Kujo.",
+        "Batas inventaris Void Bag All Star Tower Defense X adalah 199, jadi kosongkan atau buka tas secara teratur selama sesi yang panjang.",
+        "Scaling 2P hingga 4P All Star Tower Defense X sangat curam, jadi pilihlah target wave berdasarkan efisiensi hadiah, bukan hanya ambisi wave maksimum."
+      ]
+    },
+    "lucidBlocksBestEarlyUnlocks": {
+      "title": "Hadiah Trial All Star Tower Defense X, Mode Strategist, Koin, dan Catatan Penyelesaian",
+      "displayType": "accordion",
+      "subtitle": "Tinjau Trial All Star Tower Defense X berdasarkan persyaratan level, kumpulan hadiah, elemen, drop koin, dan mekanik bos di seluruh Regular dan Strategist.",
+      "intro": "Trial All Star Tower Defense X terbuka pada batas level tertentu dan memberikan hadiah Gold, Gems, koin khusus trial, material, dan drop unit. Penyelesaian Regular biasanya memiliki peluang unit 5%, sementara Strategist biasanya memiliki peluang unit 25% dan drop koin yang lebih baik, tetapi menghapus Hidden Potential, Traits, dan Stat unit.",
+      "items": [
+        {
+          "title": "Kartu Trial Dalam Game All Star Tower Defense X",
+          "meta": "Aturan Sistem",
+          "summary": "Kartu muncul di awal wave 4, 8, dan 12 sehingga pemain dapat menukar keselamatan dengan bonus hadiah yang lebih tinggi.",
+          "details": [
+            "Kartu hijau memberikan efek menguntungkan seperti kecepatan, damage, atau jangkauan dan menambah 0% bonus hadiah.",
+            "Kartu biru memperkuat musuh dengan efek seperti kecepatan, HP, atau perisai dan menambah 20% bonus hadiah.",
+            "Kartu merah menerapkan efek negatif yang lebih keras, seperti menghapus semua Traits, dan menambah 40% bonus hadiah.",
+            "Bonus hadiah menumpuk setelah penyelesaian yang berhasil dan meningkatkan peluang drop unit."
+          ]
+        },
+        {
+          "title": "Toko Trial dan Koin Trial All Star Tower Defense X",
+          "meta": "Rute Ekonomi",
+          "summary": "Koin Trial dihabiskan di Toko Trial di samping pintu masuk Trial berwarna kuning, dan setiap Trial menggunakan jenis koin yang berbeda.",
+          "details": [
+            "Penyelesaian Regular biasanya menjatuhkan 5-8 koin trial; penyelesaian Strategist biasanya menjatuhkan 10-14 koin.",
+            "Toko mencakup Star Scrolls, Roka Fruit, Doma Fruit, Luck Boosters, Star Statue (Gold), Trait Burners, Stat Dice, Bounded Cubes, dan Tiket Summon.",
+            "Star Scrolls dikonsumsi dari inventaris untuk mendapatkan karakter terkait secara otomatis.",
+            "Trial 1 menggunakan Koin Etri dan Trial 2 menggunakan Koin Magma."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 1",
+          "meta": "Level 25+ • Elemen Biru",
+          "summary": "Trial 1 memberikan hadiah perkembangan Etri dan memperkenalkan tekanan berat dari efek stun.",
+          "regularRewards": "Etri (5%), Etri's Rapier (50%), 5-8 Koin Etri",
+          "strategistRewards": "Etri (25%), Etri's Rapier (100%), 10-14 Koin Etri",
+          "bossHp": "1,000,000",
+          "details": [
+            "Bawa pemecah perisai; Airren's Titan Form adalah pilihan yang disarankan.",
+            "Stun dari bos dapat mengganggu carry, jadi letakkan unit non-DPS untuk menyerap stun agar menjauh dari core damage.",
+            "Pada wave terakhir, dua bos jalur samping yang tidak terkalahkan muncul; fokuslah pada bos jalur tengah."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 2",
+          "meta": "Level 35+ • Elemen Merah",
+          "summary": "Trial 2 meniru struktur hadiah Trial 1 tetapi beralih ke rute Koin Magma.",
+          "regularRewards": "Magma Marine (5%), Spade Hat (50%), 5-8 Koin Magma",
+          "strategistRewards": "Magma Marine (25%), Spade Hat (100%), 10-14 Koin Magma",
+          "bossHp": "1,750,000",
+          "details": [
+            "Bawa pemecah perisai karena musuh Wave 5 meregenerasi perisai.",
+            "Invader dan bos dapat sering memberikan stun, jadi prioritaskan untuk menghabisi mereka dengan cepat.",
+            "Hadiah mengikuti pola Trial 1 tetapi menggunakan Koin Magma."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 3 - Arc 1",
+          "meta": "Level 40+ • Elemen Oranye",
+          "summary": "Arc 1 adalah trial tekanan berwaktu dengan pengecekan perisai yang berat.",
+          "regularRewards": "3-5 Koin Supreme",
+          "strategistRewards": "6-8 Koin Supreme",
+          "bossHp": "2,500,000",
+          "details": [
+            "Bos Wave 11 memiliki 100 perisai, membuat pemecah perisai wajib ada.",
+            "Setelah Wave 15 dimulai, pemain memiliki waktu 5 menit untuk menghabisi semua musuh atau gagal.",
+            "Stun yang sering mengurangi uptime, dan bos terakhir muncul di dalam kubah di mana unit tidak dapat ditempatkan."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 3 - Arc 2",
+          "meta": "Level 40+ • Peta Tiga Jalur",
+          "summary": "Arc 2 menekankan distribusi jalur dan waktu kontrol bos.",
+          "regularRewards": "Supreme Leader (5%), Supreme Helmet (50%), 5-8 Koin Supreme",
+          "strategistRewards": "Supreme Leader (25%), Supreme Helmet (100%), 10-14 Koin Supreme",
+          "bossHp": "1.750.000 bos tengah; 650.000 bos kiri dan kanan",
+          "details": [
+            "Bagi cakupan unit di tiga jalur, atau tetapkan satu pemain untuk setiap jalur dalam permainan tim.",
+            "Bos muncul di Wave 5, 10, dan 15, dengan bos Wave 10 yang sangat cepat.",
+            "Bos terakhir dapat menghapus menara sementara bos jalur samping yang lebih mudah juga muncul."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 3 - Arc 3",
+          "meta": "Level 40+ • Elemen Ungu",
+          "summary": "Arc 3 menggabungkan rute berwaktu dengan tekanan wave bos ganda.",
+          "regularRewards": "Supreme Leader (5%), Freezer (20%), Freezer Mask (50%), 5-8 Koin Supreme",
+          "strategistRewards": "Supreme Leader (25%), Freezer (35%), Freezer Mask (100%), 10-14 Koin Supreme",
+          "bossHp": "1,500,000 x2",
+          "details": [
+            "Peta memiliki tiga jalur dengan penghitung waktu penyelesaian 16 menit.",
+            "Supreme Leader muncul di Wave 6, Freezer di Wave 11, dan keduanya di Wave 15.",
+            "Pada Wave 15, Supreme Leader tidak terkalahkan untuk sementara waktu, jadi fokuslah pada Freezer terlebih dahulu."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 4 - Arc 1",
+          "meta": "Level 40+ • Elemen Netral",
+          "summary": "Elemen netral berarti trial ini lebih mementingkan DPS yang stabil dan kontrol daripada counter elemen.",
+          "regularRewards": "Flaming Tiger (5%), Flame Cape (50%), 5-8 Koin Flame",
+          "strategistRewards": "Flaming Tiger (25%), Flame Cape (100%), 10-14 Koin Flame",
+          "details": [
+            "Pertandingan netral mengurangi nilai damage counter elemen.",
+            "Prioritaskan DPS murni, cakupan jalur yang bersih, dan kontrol bos yang andal."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 5 - Arc 1",
+          "meta": "Level 40+ • Elemen Hijau",
+          "summary": "Trial 5 adalah rute perkembangan utama untuk target Crow dan Limiter Switch.",
+          "regularRewards": "Crow (5%), Assistant Glasses (50%), 5-8 Koin Reanimation, Limiter Switch (50%)",
+          "strategistRewards": "Crow (25%), Assistant Glasses (100%), 10-14 Koin Reanimation, Limiter Switch (100%)",
+          "details": [
+            "Susunan elemen Hijau harus melawan musuh Biru dan menghindari jalur kerugian Ungu.",
+            "Hadiah Crow dan Limiter Switch membuat trial ini berharga untuk pertumbuhan roster jangka panjang."
+          ]
+        }
+      ]
+    },
+    "lucidBlocksAchievementTracker": {
+      "title": "Panduan Portal All Star Tower Defense X dari Tier 1 hingga Unbound",
+      "displayType": "step-by-step",
+      "subtitle": "Ikuti rute Portal All Star Tower Defense X: beli portal, selesaikan tier, kelola nyawa, dan kejar hadiah spesial Unbound.",
+      "intro": "Portal All Star Tower Defense X diperkenalkan pada Update 6 dan dibeli dari NPC Nakime di dekat pintu masuk Trials. Setiap portal memiliki 3 nyawa dan menghilang setelah tiga kekalahan. Sesi portal menggunakan kesulitan tier dan modifikasi, dengan rute jangka panjang mendaki dari Tier 1 ke Tier 5 dan kemudian mengejar Unbound.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "All Star Tower Defense X Beli Portal",
+          "action": "Beli portal dari NPC Nakime di dekat pintu masuk Trials.",
+          "details": "Biaya: 250 Gems.",
+          "result": "Anda menerima portal dengan 3 nyawa."
+        },
+        {
+          "step": 2,
+          "title": "All Star Tower Defense X Mulai di Tier 1",
+          "action": "Mulai dengan kesulitan portal terendah dan bangun konsistensi.",
+          "details": "Jalur tier: Tier 1 > Tier 2 > Tier 3 > Tier 4 > Tier 5 > Unbound.",
+          "result": "Tier 1 adalah yang termudah, sementara Unbound adalah tantangan tertinggi."
+        },
+        {
+          "step": 3,
+          "title": "All Star Tower Defense X Selesaikan dengan Modifikasi",
+          "action": "Baca modifikasi yang aktif sebelum mengunci lineup Anda.",
+          "details": "Modifikasi portal dapat memberikan buff atau debuff pada elemen serupa dengan Challenges.",
+          "result": "Pergeseran elemen dapat mengubah unit mana yang paling aman untuk setiap sesi."
+        },
+        {
+          "step": 4,
+          "title": "All Star Tower Defense X Tingkatkan Portal",
+          "action": "Selesaikan sesi portal untuk menentukan hasil tier berikutnya.",
+          "details": "Sebelum Tier 5, penyelesaian memiliki peluang 90% untuk meningkat dan 10% peluang untuk tetap di tier yang sama.",
+          "result": "Sebagian besar penyelesaian yang berhasil akan naik hingga Tier 5."
+        },
+        {
+          "step": 5,
+          "title": "All Star Tower Defense X Lindungi 3 Nyawa Anda",
+          "action": "Hindari kegagalan berulang pada portal yang sama.",
+          "details": "Setiap portal memiliki 3 nyawa dan menghilang setelah tiga kekalahan.",
+          "result": "Kegagalan beruntun memaksa pengulangan dengan portal baru yang dibeli."
+        },
+        {
+          "step": 6,
+          "title": "All Star Tower Defense X Farming Tier 5 untuk Unbound",
+          "action": "Terus selesaikan portal Tier 5 setelah mencapai Tier 5.",
+          "details": "Tier 5 tetap di Tier 5 sebesar 100%.",
+          "extra": "Setiap penyelesaian Tier 5 memiliki peluang 2% untuk memberikan Unbound Portal.",
+          "result": "Portal Unbound adalah target langka tingkat tinggi untuk progres portal."
+        },
+        {
+          "step": 7,
+          "title": "All Star Tower Defense X Klaim Hadiah Portal",
+          "action": "Selesaikan portal untuk hadiah dasar dan target unit Unbound.",
+          "details": "Hadiah penyelesaian dasar adalah 235 Gems dan 25 Gold.",
+          "extra": "Frost Moon Unbound Portal memberikan Frost Moon; Patternine Unbound Portal memberikan Patternine.",
+          "result": "Farming portal menggabungkan mata uang yang stabil dengan target unit akhir permainan yang langka."
+        }
+      ]
+    },
+    "lucidBlocksSingleplayerAndPlatformFAQ": {
+      "title": "Counter Elemen, Multiplier Kerusakan, dan Contoh Unit All Star Tower Defense X",
+      "displayType": "table",
+      "subtitle": "Gunakan bagan elemen All Star Tower Defense X untuk memilih counter sebelum Story, Endless, Trials, dan sesi Portal dengan banyak modifikasi.",
+      "intro": "Dalam All Star Tower Defense X, keuntungan elemen memberikan 2x kerusakan sementara kerugian elemen memberikan 0,25x kerusakan. Elemen yang cocok, musuh netral, musuh tanpa elemen, dan pasangan elemen yang tidak terkait menggunakan kerusakan standar.",
+      "items": [
+        {
+          "element": "Biru",
+          "strongAgainst": "Merah",
+          "weakAgainst": "Hijau",
+          "advantageDamage": "2x vs Merah",
+          "disadvantageDamage": "0,25x vs Hijau",
+          "storyExamples": [
+            "Innovation Island"
+          ],
+          "trialExamples": [
+            "Trial 1"
+          ],
+          "sampleUnits": [
+            "Etri",
+            "Frost Moon",
+            "Patternine",
+            "Sky God",
+            "Tony Stark",
+            "Underwater God"
+          ]
+        },
+        {
+          "element": "Hijau",
+          "strongAgainst": "Biru",
+          "weakAgainst": "Ungu",
+          "advantageDamage": "2x vs Biru",
+          "disadvantageDamage": "0,25x vs Ungu",
+          "storyExamples": [
+            "Hidden Storm Village"
+          ],
+          "trialExamples": [
+            "Trial 5 - Arc 1"
+          ],
+          "sampleUnits": [
+            "Spider Boss",
+            "Flower Trainer",
+            "Airren",
+            "Dark Wing",
+            "Kuroma (Yoko)",
+            "Onwin"
+          ]
+        },
+        {
+          "element": "Merah",
+          "strongAgainst": "Oranye",
+          "weakAgainst": "Biru",
+          "advantageDamage": "2x vs Oranye",
+          "disadvantageDamage": "0,25x vs Biru",
+          "storyExamples": [
+            "Giant Island"
+          ],
+          "trialExamples": [
+            "Trial 2"
+          ],
+          "sampleUnits": [
+            "Magma Marine",
+            "Devil",
+            "Flaming Tiger",
+            "Cyber Psycho",
+            "Blood Commander",
+            "Kujo"
+          ]
+        },
+        {
+          "element": "Oranye",
+          "strongAgainst": "Ungu",
+          "weakAgainst": "Merah",
+          "advantageDamage": "2x vs Ungu",
+          "disadvantageDamage": "0,25x vs Merah",
+          "storyExamples": [
+            "Future City (Ruins)"
+          ],
+          "trialExamples": [
+            "Trial 3 - Arc 1"
+          ],
+          "sampleUnits": [
+            "Supreme Leader",
+            "Alligator",
+            "Expert Sorcerer (Serious)",
+            "Fire Officer",
+            "Red Servant",
+            "Venus"
+          ]
+        },
+        {
+          "element": "Ungu",
+          "strongAgainst": "Hijau",
+          "weakAgainst": "Oranye",
+          "advantageDamage": "2x vs Hijau",
+          "disadvantageDamage": "0,25x vs Oranye",
+          "storyExamples": [
+            "City of Voldstandig"
+          ],
+          "trialExamples": [
+            "Trial 3 - Arc 3"
+          ],
+          "sampleUnits": [
+            "Michishibo",
+            "Blackstache",
+            "Freezer (Final Form)",
+            "Jin Sung",
+            "Killer (Serious)",
+            "Super God Vegu"
+          ]
+        },
+        {
+          "element": "Netral",
+          "strongAgainst": "Tidak ada",
+          "weakAgainst": "Tidak ada",
+          "advantageDamage": "Kerusakan standar",
+          "disadvantageDamage": "Kerusakan standar",
+          "storyExamples": [
+            "Musuh Endless City of York"
+          ],
+          "trialExamples": [
+            "Trial 4 - Arc 1"
+          ],
+          "sampleUnits": [
+            "MiniYou"
+          ]
+        }
+      ]
+    },
+    "lucidBlocksSteamDeckAndController": {
+      "title": "All Star Tower Defense X Hidden Potential",
+      "displayType": "accordion",
+      "intro": "All Star Tower Defense X Hidden Potential is an advanced growth system for 5-Star and Unbound units. Use it to lock one build tree, spend Skill Orbs and duplicate nodes, and push long-term stat scaling beyond base upgrades.",
+      "faqs": [
+        {
+          "question": "How do I access All Star Tower Defense X Hidden Potential?",
+          "answer": "All Star Tower Defense X Hidden Potential is available for 5-Star and Unbound units. Open it from the Guru in the Grand Elder Building or from the three-dot menu on the unit display."
+        },
+        {
+          "question": "What is the All Star Tower Defense X Hidden Potential tree choice rule?",
+          "answer": "Each All Star Tower Defense X unit can commit to only one tree: Power, Range, or Speed. Once you invest in one tree, the other two trees are locked for that unit."
+        },
+        {
+          "question": "What does the All Star Tower Defense X Power Tree provide?",
+          "answer": "The All Star Tower Defense X Power Tree gives +15% damage, +5% range, and -5% speed. It includes Critical, Marker, Element Boost, and Disruption, and uses Skill Orb I and Skill Orb II costs for progression."
+        },
+        {
+          "question": "What does the All Star Tower Defense X Range Tree provide?",
+          "answer": "The All Star Tower Defense X Range Tree gives +5% damage, +12.5% range, and -5% speed. Its skills include Assassin, Overload, Ricochet, and Surge for map coverage and multi-target pressure."
+        },
+        {
+          "question": "What does the All Star Tower Defense X Speed Tree provide?",
+          "answer": "The All Star Tower Defense X Speed Tree gives +5% damage, +5% range, and -10% speed. It adds Additional, Dodge, Employment, and Element Resist for tempo, utility, and team economy value."
+        },
+        {
+          "question": "How is All Star Tower Defense X Hidden Potential different from traits?",
+          "answer": "All Star Tower Defense X traits are roll-based modifiers that consume Trait Burners, while Hidden Potential is a permanent tree investment using Skill Orbs and dupe nodes. Both systems stack for final unit performance."
+        },
+        {
+          "question": "Which reset items are used in All Star Tower Defense X Hidden Potential?",
+          "answer": "All Star Tower Defense X Roka Fruit resets broad Hidden Potential progress, while Doma Fruit resets special nodes only. Use reset items when a tree no longer fits your roster role."
+        },
+        {
+          "question": "Which All Star Tower Defense X units should get Hidden Potential first?",
+          "answer": "Prioritize All Star Tower Defense X Hidden Potential on your primary carry and your most-used support unit, then expand into secondary units after your core team is stable."
+        }
+      ]
+    },
+    "lucidBlocksSettingsAndAccessibility": {
+      "title": "All Star Tower Defense X Items",
+      "displayType": "settingCards",
+      "intro": "All Star Tower Defense X item routing spans NPC materials, Story drops, Trial rewards, Dungeon currency, Challenge resources, XP food, boosters, and accessories. Use this module as a compact item database for usage and farming decisions.",
+      "settings": [
+        {
+          "name": "All Star Tower Defense X NPC Materials",
+          "type": "Evolution Path",
+          "description": "Items like Omni Sword Gear, Quake Fruit, Borul's Necklace, and Jin Dagger are used for evolution and ascension, and are obtained from NPC quests in the main lobby."
+        },
+        {
+          "name": "All Star Tower Defense X Story Items",
+          "type": "Story Progression",
+          "description": "Hover Boot, Q Officer Hat, Z Ball, Ninja Headband, Survey Cloak, Scarlet Eye, and Beast Sphere come from Story missions and support progression materials."
+        },
+        {
+          "name": "All Star Tower Defense X Hard Story Drops",
+          "type": "High Difficulty",
+          "description": "Mimic Juice, Sword Of Ikki, Kai Sword, Ninja Shuriken, Survey Spear, and Slayer Earring come from hard-difficulty Story routes for stronger progression requirements."
+        },
+        {
+          "name": "All Star Tower Defense X Portal Items",
+          "type": "Portal Rewards",
+          "description": "Portal-exclusive rewards such as Frost Moon's Hat are tied to specific portal clears, with listed drop rates and late-game farming value."
+        },
+        {
+          "name": "All Star Tower Defense X Trial Items",
+          "type": "Trial Rewards",
+          "description": "Etri's Rapier, Spade's Hat, Supreme Helmet, Freezer Mask, and Flame Cape come from Trial routes, with regular and Strategist reward differences."
+        },
+        {
+          "name": "All Star Tower Defense X Trial Shop",
+          "type": "Coin Economy",
+          "description": "Trial Coins are spent on Star Scrolls, Roka Fruit, Doma Fruit, Luck Booster, Trait Burner, Stat Dice, Bounded Cube, and Summon Ticket at the Trial Shop."
+        },
+        {
+          "name": "All Star Tower Defense X Dungeon Items",
+          "type": "Dungeon Currency",
+          "description": "Dungeon Coin, Dungeon Loot, Water Essence, and Maso Essence support dungeon shop purchases, reward rolls, and ascension material planning."
+        },
+        {
+          "name": "All Star Tower Defense X Challenge Items",
+          "type": "Hidden Potential Resources",
+          "description": "Skill Orb I and II, Ghost rewards, Demon Fruit, and map-specific materials are challenge-sourced resources for Hidden Potential, evolution, and ascension."
+        },
+        {
+          "name": "All Star Tower Defense X XP and Food Items",
+          "type": "Unit Leveling",
+          "description": "EXP tiers and food items such as Meat Stick, Sweet Bun, Rice Bowl, and Hearty Ramen are used to feed units and accelerate roster leveling."
+        },
+        {
+          "name": "All Star Tower Defense X Bags, Capsules, and Boosts",
+          "type": "Reward Pools",
+          "description": "Void Bag, Skill Orb Bag, Basic Capsule, Premium Capsule, Luck Booster, and shiny boosters come from Infinite, weekly quests, shops, and market routes."
+        },
+        {
+          "name": "All Star Tower Defense X Unit Accessories",
+          "type": "Cosmetic Gear",
+          "description": "Challenge Crown and Winged Halo are equippable accessories obtained from daily event placements and Royal Drop reward pools."
+        }
+      ]
+    },
+    "lucidBlocksUpdatesAndPatchNotes": {
+      "title": "All Star Tower Defense X Updates",
+      "displayType": "timeline",
+      "intro": "Track All Star Tower Defense X new units, release systems, Trials snapshots, and official play links so your team planning stays aligned with the latest content cycle.",
+      "entries": [
+        {
+          "title": "All Star Tower Defense X New Primal Unit: Zaruto (Beast Cloak II)",
+          "type": "New Units",
+          "description": "The update feed lists Zaruto (Beast Cloak II) as a new Primal unit and a high-priority build candidate for late-game rosters."
+        },
+        {
+          "title": "All Star Tower Defense X New Unbound Unit: Crow",
+          "type": "New Units",
+          "description": "Crow is listed as a new Unbound unit and is a key watch target for advanced progression teams."
+        },
+        {
+          "title": "All Star Tower Defense X New 5-Star Unit Group",
+          "type": "New Units",
+          "description": "Bellma (Money Corp), Boulder Li (TS), Kosuke (Eternal), Paper Beauty, Snake Assistant, Toad Sage, and Yellow Boat are listed in the new 5-Star group."
+        },
+        {
+          "title": "All Star Tower Defense X New 4-Star Unit Group",
+          "type": "New Units",
+          "description": "Boulder Li and The Assistant are listed in the new 4-Star group for early and mid-game collection planning."
+        },
+        {
+          "title": "All Star Tower Defense X Release Mechanics Hub",
+          "type": "Game Systems",
+          "description": "The release hub maps core areas such as Lobby, Summons, Ancient Temple, Story, Infinite, Challenges, Trials, and AFK zones."
+        },
+        {
+          "title": "All Star Tower Defense X Trials Snapshot",
+          "type": "Trials",
+          "description": "Early Trials highlight Trial 1 Etri routing at level 25 and Trial 2 Magma routing at level 35 with coin and unit progression notes."
+        },
+        {
+          "title": "All Star Tower Defense X Main Screen Systems",
+          "type": "Interface",
+          "description": "Main-screen systems include Units, Royal Drop, Arena, and Updates, helping players route management and progression menus faster."
+        },
+        {
+          "title": "All Star Tower Defense X Official Roblox Game Page",
+          "type": "Official Game",
+          "description": "Use the Roblox game page as the primary play destination and live listing reference for All Star Tower Defense X."
+        }
+      ]
+    },
+    "lucidBlocksCrashFixAndTroubleshooting": {
+      "title": "Tautan Resmi All Star Tower Defense X",
+      "displayType": "steps",
+      "intro": "Gunakan tautan resmi All Star Tower Defense X ini untuk langsung masuk ke dalam game, pengumuman komunitas, dan hub navigasi utama wiki ASTDX.",
+      "steps": [
+        {
+          "title": "Halaman Game Roblox Resmi All Star Tower Defense X",
+          "description": "Entri bermain utama: https://www.roblox.com/games/17687504411/All-Star-Tower-Defense-X"
+        },
+        {
+          "title": "Discord Resmi All Star Tower Defense X",
+          "description": "Komunitas utama dan pengumuman: https://discord.com/invite/allstar"
+        },
+        {
+          "title": "Beranda Wiki ASTDX All Star Tower Defense X",
+          "description": "Hub navigasi wiki: https://astdx.fandom.com/wiki/All_Star_Tower_Defense_X_Wiki"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "All Star Tower Defense X",
+    "titleHighlight": "FAQ",
+    "subtitle": "Pertanyaan kunci yang diajukan pemain sebelum membangun tim di All Star Tower Defense X",
+    "questions": [
+      {
+        "question": "Bagaimana cara menukarkan Codes di All Star Tower Defense X?",
+        "answer": "Di All Star Tower Defense X, buka lobi game, ketuk ikon burung, tempelkan kode aktif, dan tekan Redeem untuk mengklaim hadiah."
+      },
+      {
+        "question": "Apa rute pemula terbaik di All Star Tower Defense X?",
+        "answer": "Untuk All Star Tower Defense X, tukarkan Codes terlebih dahulu, lakukan summon di sekitar waktu Banners, lalu selesaikan Story Mode untuk hadiah progresi yang stabil."
+      },
+      {
+        "question": "Bagaimana cara kerja pity dalam summon All Star Tower Defense X?",
+        "answer": "Pity summon All Star Tower Defense X menjamin unit bintang 5 setelah 100 tarikan, dan pity Unbound dilacak hingga 2.000 tarikan."
+      },
+      {
+        "question": "Sumber daya mana yang paling penting di All Star Tower Defense X?",
+        "answer": "Sumber daya All Star Tower Defense X yang paling penting adalah Gems untuk summon, Trait Burners untuk reroll, dan material upgrade untuk unit inti."
+      },
+      {
+        "question": "Which Modes mana yang harus saya farm setelah Story Mode di All Star Tower Defense X?",
+        "answer": "Setelah Story di All Star Tower Defense X, fokuslah pada Infinite, Trials, dan Portals berdasarkan kekuatan roster Anda saat ini dan target hadiah."
+      },
+      {
+        "question": "Bagaimana cara saya menghabiskan upgrade di All Star Tower Defense X?",
+        "answer": "Di All Star Tower Defense X, prioritaskan satu carry ditambah unit pendukung utama, lalu investasikan Traits dan potensi tersembunyi ke dalam pilihan inti tersebut."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Bergabunglah dengan Komunitas All Star Tower Defense X",
+    "description": "Ikuti saluran resmi untuk pembaruan, reward Codes, dan pengumuman Banners untuk All Star Tower Defense X.",
+    "joinCommunity": "Bergabung dengan Discord All Star Tower Defense X",
+    "joinGame": "Buka All Star Tower Defense X di Roblox"
+  },
+  "footer": {
+    "title": "Wiki All Star Tower Defense X",
+    "description": "Hub komunitas Anda untuk Codes, Tier List, Units, Traits, Banners, dan panduan Modes All Star Tower Defense X.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Legal",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Hak Cipta",
+    "copyright": "© 2026 Wiki All Star Tower Defense X. Tidak berafiliasi dengan Roblox atau Top Down Games.",
+    "disclaimer": "Situs web sumber daya buatan penggemar tidak resmi."
+  },
+  "pages": {
+    "codes": {
+      "title": "Codes All Star Tower Defense X",
+      "description": "Temukan Codes All Star Tower Defense X yang aktif untuk Gems, Trait Burners, dan sumber daya reroll.",
+      "metaTitle": "Codes All Star Tower Defense X - Hadiah Gems dan Reroll",
+      "metaDescription": "Gunakan Codes All Star Tower Defense X yang aktif untuk mengklaim Gems, Trait Burners, dan sumber daya reroll, dengan langkah penukaran yang jelas dan pelacakan pembaruan.",
+      "categoryLabel": "CODES",
+      "whatIs": "Apa itu Codes All Star Tower Defense X?",
+      "whatIsDescription": "Codes All Star Tower Defense X adalah string penukaran terbatas yang memberikan sumber daya progresi gratis seperti Gems, Trait Burners, dan item terkait reroll.",
+      "why": "Mengapa harus memeriksa Codes All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Klaim Mata Uang Progresi Gratis",
+        "step1Description": "Gunakan hadiah kode untuk meningkatkan volume summon dan pertumbuhan roster tanpa perlu grinding ekstra.",
+        "step2Title": "Kurangi Hambatan Awal Game",
+        "step2Description": "Ubah item gratis menjadi upgrade yang lebih cepat, upaya reroll yang lebih bersih, dan entri mode yang lebih lancar.",
+        "step3Title": "Tetap Terdepan Sebelum Masa Berlaku Habis",
+        "step3Description": "Tukarkan drop baru dengan cepat sebelum kedaluwarsa dan hadiah yang tidak boleh dilewatkan menghilang."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Codes"
+    },
+    "tier": {
+      "title": "Tier List All Star Tower Defense X",
+      "description": "Lacak peringkat Tier List All Star Tower Defense X berdasarkan nilai carry, dampak utilitas, dan performa mode.",
+      "metaTitle": "Tier List All Star Tower Defense X - Peringkat Unit Meta",
+      "metaDescription": "Bandingkan performa unit All Star Tower Defense X berdasarkan peran dan mode, dengan prioritas tingkat praktis untuk progresi awal, menengah, dan akhir.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "Apa itu Tier List All Star Tower Defense X?",
+      "whatIsDescription": "Tier List All Star Tower Defense X mengelompokkan unit berdasarkan nilai pertandingan nyata sehingga Anda dapat memprioritaskan upgrade, rerolls, dan keputusan slot tim.",
+      "why": "Mengapa menggunakan Tier List All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Prioritaskan Unit Berdampak Tinggi",
+        "step1Description": "Fokuskan sumber daya pada unit yang memberikan pembersihan stabil dan nilai jangka panjang di berbagai Modes.",
+        "step2Title": "Seimbangkan Peran Tim Lebih Cepat",
+        "step2Description": "Gunakan konteks tier untuk menggabungkan peran carry, support, ekonomi, dan kontrol dengan lebih sedikit slot yang lemah.",
+        "step3Title": "Adaptasi dengan Perubahan Meta Patch",
+        "step3Description": "Perbarui rencana roster Anda saat pergeseran keseimbangan mengubah unit mana yang memiliki performa terbaik dalam konten saat ini."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Tier List"
+    },
+    "units": {
+      "title": "Units All Star Tower Defense X",
+      "description": "Tinjau Units All Star Tower Defense X berdasarkan kelangkaan, identitas peran, dan perencanaan sinergi tim.",
+      "metaTitle": "Units All Star Tower Defense X - Peran, Kelangkaan, dan Sinergi",
+      "metaDescription": "Telusuri Units All Star Tower Defense X dengan rincian peran, konteks kelangkaan, dan panduan praktis membangun tim untuk Modes inti.",
+      "categoryLabel": "UNITS",
+      "whatIs": "Apa itu Units All Star Tower Defense X?",
+      "whatIsDescription": "Units All Star Tower Defense X adalah bagian inti dari roster Anda, masing-masing dengan cakupan peran unik, perilaku penskalaan, dan nilai penempatan.",
+      "why": "Mengapa mempelajari Units All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Bangun Cakupan Peran yang Lebih Baik",
+        "step1Description": "Pahami unit mana yang menangani damage bos, kontrol jalur, buff pendukung, dan tugas ekonomi.",
+        "step2Title": "Hindari Investasi yang Sia-sia",
+        "step2Description": "Cadangkan peningkatan mahal untuk unit dengan nilai yang andal, bukan pilihan pengisi yang berumur pendek.",
+        "step3Title": "Tingkatkan Keputusan Summon",
+        "step3Description": "Tarik Banners berdasarkan celah roster dan kebutuhan tim, bukan hanya berdasarkan kelangkaan semata."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Units"
+    },
+    "guide": {
+      "title": "Panduan All Star Tower Defense X",
+      "description": "Ikuti panduan praktis All Star Tower Defense X untuk rute progresi, pengaturan tim, dan alur pembukaan kunci mode.",
+      "metaTitle": "Panduan All Star Tower Defense X - Progresi Pemula hingga Endgame",
+      "metaDescription": "Gunakan cakupan panduan All Star Tower Defense X untuk mengoptimalkan leveling, struktur tim, alur quest, dan prioritas pembukaan kunci mode.",
+      "categoryLabel": "PANDUAN",
+      "whatIs": "Apa itu kategori Panduan All Star Tower Defense X?",
+      "whatIsDescription": "Kategori panduan All Star Tower Defense X mengumpulkan walkthrough gameplay yang membantu Anda beralih dari pengaturan awal hingga penyelesaian endgame yang konsisten.",
+      "why": "Mengapa membaca panduan All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Percepat Progresi Awal",
+        "step1Description": "Gunakan urutan pengaturan yang jelas untuk Codes, summon, quest, dan peningkatan untuk menghindari awal yang lambat.",
+        "step2Title": "Rencanakan Pertumbuhan Tim yang Efisien",
+        "step2Description": "Sesuaikan prioritas peningkatan dengan tujuan Anda saat ini sehingga setiap pengeluaran sumber daya mendorong kemajuan nyata.",
+        "step3Title": "Selesaikan Modes dengan Lebih Konsisten",
+        "step3Description": "Terapkan taktik khusus rute untuk tahap cerita, gelombang penskalaan, dan segmen bos bertekanan tinggi."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan"
+    },
+    "farming": {
+      "title": "Farming All Star Tower Defense X",
+      "description": "Optimalkan putaran farming All Star Tower Defense X untuk EXP, Gems, material, dan stabilitas sumber daya jangka panjang.",
+      "metaTitle": "Farming All Star Tower Defense X - EXP, Gems, dan Material",
+      "metaDescription": "Pelajari rute farming All Star Tower Defense X yang efisien untuk EXP, mata uang, material reroll, dan sumber daya peningkatan di seluruh Modes inti.",
+      "categoryLabel": "FARMING",
+      "whatIs": "Apa itu Farming All Star Tower Defense X?",
+      "whatIsDescription": "Farming All Star Tower Defense X berfokus pada rute yang dapat diulang yang menghasilkan mata uang, item progresi, dan material peningkatan dengan waktu henti minimal.",
+      "why": "Mengapa mengoptimalkan farming All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Tingkatkan Efisiensi Sumber Daya",
+        "step1Description": "Jalankan rute dengan nilai tertinggi untuk hambatan Anda saat ini daripada membagi upaya secara acak.",
+        "step2Title": "Pertahankan Momentum Peningkatan",
+        "step2Description": "Jaga aliran material dan mata uang yang stabil sehingga unit utama dapat ditingkatkan sesuai jadwal.",
+        "step3Title": "Dukung Pertumbuhan Roster Jangka Panjang",
+        "step3Description": "Selaraskan target farm dengan summon mendatang, evolusi, dan tujuan progresi mode."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Farming"
+    },
+    "summon": {
+      "title": "Summon All Star Tower Defense X",
+      "description": "Lacak Banners summon All Star Tower Defense X, perencanaan pity, dan prioritas tarikan untuk unit utama.",
+      "metaTitle": "Summon All Star Tower Defense X - Perencanaan Banner dan Pity",
+      "metaDescription": "Gunakan cakupan summon All Star Tower Defense X untuk mengevaluasi Banners yang aktif, merencanakan pengeluaran pity, dan menargetkan unit yang sesuai dengan roster Anda.",
+      "categoryLabel": "SUMMON",
+      "whatIs": "Apa itu perencanaan Summon All Star Tower Defense X?",
+      "whatIsDescription": "Perencanaan summon All Star Tower Defense X membantu Anda mengelola waktu banner, ambang batas pity, dan alokasi mata uang untuk hasil tarikan yang lebih kuat.",
+      "why": "Mengapa merencanakan summon All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Habiskan Gems pada Target yang Lebih Baik",
+        "step1Description": "Prioritaskan Banners yang mengisi celah roster nyata dan meningkatkan performa penyelesaian segera.",
+        "step2Title": "Lindungi Progres Pity",
+        "step2Description": "Lacak pencapaian summon dengan hati-hati untuk menghindari reset yang tidak efisien dan pengeluaran bernilai rendah.",
+        "step3Title": "Selaraskan Tarikan dengan Kebutuhan Tim",
+        "step3Description": "Atur waktu keputusan banner berdasarkan tujuan mode Anda saat ini, bukan hanya siklus hype."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Summon"
+    },
+    "modes": {
+      "title": "Modes All Star Tower Defense X",
+      "description": "Jelajahi Modes All Star Tower Defense X dengan alur tujuan yang jelas, fokus hadiah, dan catatan strategi tim.",
+      "metaTitle": "Modes All Star Tower Defense X - Story, Infinite, dan Lainnya",
+      "metaDescription": "Pahami perbedaan Modes All Star Tower Defense X, hadiah, dan prioritas strategi untuk Story, Infinite, dan rute progresi lainnya.",
+      "categoryLabel": "MODES",
+      "whatIs": "Apa itu Modes All Star Tower Defense X?",
+      "whatIsDescription": "Modes All Star Tower Defense X adalah rute gameplay yang berbeda dengan tujuan, tekanan penskalaan, dan profil hadiah yang berbeda.",
+      "why": "Mengapa membandingkan Modes All Star Tower Defense X?",
+      "whySteps": {
+        "step1Title": "Pilih Rute Progres yang Tepat",
+        "step1Description": "Pilih sesi mode yang sesuai dengan kebutuhan Anda saat ini akan mata uang, material, atau progresi tantangan.",
+        "step2Title": "Siapkan Tim Khusus Mode",
+        "step2Description": "Sesuaikan peran dan penempatan roster berdasarkan penskalaan musuh, kecepatan gelombang, dan batasan peta.",
+        "step3Title": "Maksimalkan Pengembalian Hadiah",
+        "step3Description": "Fokuskan waktu pada Modes yang memberikan nilai tertinggi untuk titik pemeriksaan peningkatan Anda berikutnya."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Modes"
+    }
   }
 }

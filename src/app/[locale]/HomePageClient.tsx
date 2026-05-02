@@ -64,6 +64,11 @@ const LoadingPlaceholder = ({ height = 'h-64' }: { height?: string }) => (
   <div className={`${height} bg-white/5 border border-border rounded-xl animate-pulse`} />
 )
 
+function withLocalePrefix(locale: string, href: string): string {
+  if (!href.startsWith('/')) return href
+  return locale === 'en' ? href : `/${locale}${href}`
+}
+
 // Conditionally render text as a link or plain span
 function LinkedTitle({
   linkData,
@@ -77,7 +82,7 @@ function LinkedTitle({
   locale: string
 }) {
   if (linkData) {
-    const href = locale === 'en' ? linkData.url : `/${locale}${linkData.url}`
+    const href = withLocalePrefix(locale, linkData.url)
     return (
       <Link
         href={href}
@@ -325,22 +330,22 @@ export default function HomePageClient({
             {t.tools.cards.map((card: any, index: number) => {
               // Explicit anchor mapping keeps navigation cards aligned with section ids.
               const sectionAnchors = [
-                { id: 'beginner-guide', href: "#beginner-guide" },
-                { id: 'apotheosis-crafting', href: "#apotheosis-crafting" },
-                { id: 'tools-weapons', href: "#tools-weapons" },
-                { id: 'storage-inventory', href: "#storage-inventory" },
-                { id: 'qualia-base-building', href: "#qualia-base-building" },
-                { id: 'world-regions', href: "#world-regions" },
-                { id: 'creatures-enemies', href: "#creatures-enemies" },
-                { id: 'mobility-gear', href: "#mobility-gear" },
-                { id: 'infinite-mode', href: "#infinite-mode" },
-                { id: 'trials-guide', href: "#trials-guide" },
-                { id: 'portals-guide', href: "#portals-guide" },
-                { id: 'elements', href: "#elements" },
-                { id: 'steam-deck-controller', href: "#steam-deck-controller" },
-                { id: 'settings-accessibility', href: "#settings-accessibility" },
-                { id: 'updates-patch-notes', href: "#updates-patch-notes" },
-                { id: 'crash-fix', href: "#crash-fix" },
+                { id: 'codes', href: '#codes' },
+                { id: 'tier-list', href: '#tier-list' },
+                { id: 'units', href: '#units' },
+                { id: 'beginner-guide', href: '#beginner-guide' },
+                { id: 'summon-banner', href: '#summon-banner' },
+                { id: 'traits', href: '#traits' },
+                { id: 'gems-guide', href: '#gems-guide' },
+                { id: 'story-mode', href: '#story-mode' },
+                { id: 'infinite-mode', href: '#infinite-mode' },
+                { id: 'trials-guide', href: '#trials-guide' },
+                { id: 'portals-guide', href: '#portals-guide' },
+                { id: 'elements', href: '#elements' },
+                { id: 'hidden-potential', href: '#hidden-potential' },
+                { id: 'items', href: '#items' },
+                { id: 'updates', href: '#updates' },
+                { id: 'official-links', href: '#official-links' },
               ]
               const sectionAnchor = sectionAnchors[index]
 
@@ -380,8 +385,8 @@ export default function HomePageClient({
       {/* 广告位 4: 方形广告 300×250 */}
       <AdBanner type="banner-300x250" adKey={process.env.NEXT_PUBLIC_AD_BANNER_300X250} />
 
-      {/* Module 1: Beginner Guide */}
-      <section id="beginner-guide" className="scroll-mt-24 px-4 py-20">
+      {/* Module 1: Codes */}
+      <section id="codes" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -434,8 +439,8 @@ export default function HomePageClient({
       {/* 广告位 5: 中型横幅 468×60 */}
       <AdBanner type="banner-468x60" adKey={process.env.NEXT_PUBLIC_AD_BANNER_468X60} />
 
-      {/* Module 2: Apotheosis Crafting */}
-      <section id="apotheosis-crafting" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 2: Tier List */}
+      <section id="tier-list" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksApotheosisCrafting']} locale={locale}>{t.modules.lucidBlocksApotheosisCrafting.title}</LinkedTitle></h2>
@@ -463,8 +468,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 3: Tools and Weapons */}
-      <section id="tools-weapons" className="scroll-mt-24 px-4 py-20">
+      {/* Module 3: Units */}
+      <section id="units" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksToolsAndWeapons']} locale={locale}>{t.modules.lucidBlocksToolsAndWeapons.title}</LinkedTitle></h2>
@@ -489,8 +494,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 4: Storage and Inventory */}
-      <section id="storage-inventory" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 4: Beginner Guide */}
+      <section id="beginner-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksStorageAndInventory']} locale={locale}>{t.modules.lucidBlocksStorageAndInventory.title}</LinkedTitle></h2>
@@ -528,8 +533,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 5: Qualia and Base Building */}
-      <section id="qualia-base-building" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 5: Summon Banner */}
+      <section id="summon-banner" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksQualiaAndBaseBuilding']} locale={locale}>{t.modules.lucidBlocksQualiaAndBaseBuilding.title}</LinkedTitle></h2>
@@ -558,8 +563,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 6: World Regions */}
-      <section id="world-regions" className="scroll-mt-24 px-4 py-20">
+      {/* Module 6: Traits */}
+      <section id="traits" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksWorldRegions']} locale={locale}>{t.modules.lucidBlocksWorldRegions.title}</LinkedTitle></h2>
@@ -584,8 +589,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 7: Creatures and Enemies */}
-      <section id="creatures-enemies" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 7: Gems Guide */}
+      <section id="gems-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksCreaturesAndEnemies']} locale={locale}>{t.modules.lucidBlocksCreaturesAndEnemies.title}</LinkedTitle></h2>
@@ -609,8 +614,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 8: Mobility Gear */}
-      <section id="mobility-gear" className="scroll-mt-24 px-4 py-20">
+      {/* Module 8: Story Mode */}
+      <section id="story-mode" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksMobilityGear']} locale={locale}>{t.modules.lucidBlocksMobilityGear.title}</LinkedTitle></h2>
@@ -893,8 +898,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 13: Steam Deck and Controller */}
-      <section id="steam-deck-controller" className="scroll-mt-24 px-4 py-20">
+      {/* Module 13: Hidden Potential */}
+      <section id="hidden-potential" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <div className="flex items-center justify-center gap-3 mb-4">
@@ -922,8 +927,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 14: Settings and Accessibility */}
-      <section id="settings-accessibility" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 14: Items */}
+      <section id="items" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksSettingsAndAccessibility']} locale={locale}>{t.modules.lucidBlocksSettingsAndAccessibility.title}</LinkedTitle></h2>
@@ -948,8 +953,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 15: Updates and Patch Notes */}
-      <section id="updates-patch-notes" className="scroll-mt-24 px-4 py-20">
+      {/* Module 15: Updates */}
+      <section id="updates" className="scroll-mt-24 px-4 py-20">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksUpdatesAndPatchNotes']} locale={locale}>{t.modules.lucidBlocksUpdatesAndPatchNotes.title}</LinkedTitle></h2>
@@ -977,8 +982,8 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Module 16: Crash Fix and Troubleshooting */}
-      <section id="crash-fix" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+      {/* Module 16: Official Links */}
+      <section id="official-links" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-12 scroll-reveal">
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksCrashFixAndTroubleshooting']} locale={locale}>{t.modules.lucidBlocksCrashFixAndTroubleshooting.title}</LinkedTitle></h2>
@@ -1113,7 +1118,7 @@ export default function HomePageClient({
               <ul className="space-y-2 text-sm">
                 <li>
                   <Link
-                    href="/about"
+                    href={withLocalePrefix(locale, '/about')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.about}
@@ -1121,7 +1126,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <Link
-                    href="/privacy-policy"
+                    href={withLocalePrefix(locale, '/privacy-policy')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.privacy}
@@ -1129,7 +1134,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <Link
-                    href="/terms-of-service"
+                    href={withLocalePrefix(locale, '/terms-of-service')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.terms}
@@ -1137,7 +1142,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <Link
-                    href="/copyright"
+                    href={withLocalePrefix(locale, '/copyright')}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.copyrightNotice}
