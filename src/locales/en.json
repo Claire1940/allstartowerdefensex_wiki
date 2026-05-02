@@ -83,22 +83,22 @@
       {
         "icon": "Home",
         "title": "All Star Tower Defense X Summon Banner",
-        "description": "Banner cycles, pity planning, and pull timing strategy"
+        "description": "Banner X/Y refresh timing, rates, costs, and pity planning"
       },
       {
         "icon": "Eye",
         "title": "All Star Tower Defense X Traits",
-        "description": "Trait effects, reroll priorities, and best pairings"
+        "description": "Trait chances, pity breakpoints, and keep-or-reroll priorities"
       },
       {
         "icon": "AlertTriangle",
         "title": "All Star Tower Defense X Gems Guide",
-        "description": "Gem farming routes and weekly resource planning"
+        "description": "Codes, Story, Infinite, and Portal routes for Gem farming"
       },
       {
         "icon": "ArrowRight",
         "title": "All Star Tower Defense X Story Mode",
-        "description": "Stage progression, arc rewards, and clear route advice"
+        "description": "Story area order, Arc rewards, bosses, and prep strategy"
       },
       {
         "icon": "TrendingUp",
@@ -289,127 +289,127 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "All Star Tower Defense X Summon Banner",
       "displayType": "cards",
-      "intro": "All Star Tower Defense X summon planning depends on Banner X and Banner Y timing, pity pacing, and your target rarity path.",
+      "intro": "Summoning is the main way to obtain most units in All Star Tower Defense X. Use Banner X and Banner Y timing, rates, and pity math to plan every Gem session.",
       "cards": [
         {
-          "name": "All Star Tower Defense X Banner X",
-          "description": "Banner X rotates at XX:00 and is used for focused summon planning during each cycle."
+          "name": "All Star Tower Defense X Banner Refresh Schedule",
+          "description": "Banner X refreshes at XX:00 and Banner Y refreshes at XX:30 every hour, giving two pull windows each cycle."
         },
         {
-          "name": "All Star Tower Defense X Banner Y",
-          "description": "Banner Y rotates at XX:30 and gives a second pull window for complementary targets."
+          "name": "All Star Tower Defense X Banner Rates",
+          "description": "Visible pool uses 1 Five-Star (1%), 2 Four-Stars (8%), and 3 Three-Stars (27%), while Unbound remains a hidden 0.01% chase."
         },
         {
-          "name": "All Star Tower Defense X Summon Cost",
-          "description": "Single summon costs 50 Gems, while 10 summons cost 450 Gems for better pull efficiency."
+          "name": "All Star Tower Defense X Summon Costs",
+          "description": "Single summons cost 50 Gems, while 10x costs 450 Gems and lowers full 5-Star pity to 4,500 Gems."
         },
         {
-          "name": "All Star Tower Defense X Pity Strategy",
-          "description": "5 Star pity is guaranteed at 100 summons, and Unbound pity requires 2,000 summons."
+          "name": "All Star Tower Defense X Pity and Unbound Targets",
+          "description": "5-Star pity triggers at 100 summons and Unbound pity at 2,000 summons, with Spider Boss on Banner X and Michishibo on Banner Y."
         }
       ],
       "highlights": [
-        "Watch All Star Tower Defense X banner refresh cycles before spending",
-        "Track All Star Tower Defense X pity counts in every summon session",
-        "Prioritize All Star Tower Defense X support + carry unit combinations",
-        "Save All Star Tower Defense X Gems for target banner windows"
+        "Check All Star Tower Defense X Banner X and Banner Y before every summon session",
+        "Treat All Star Tower Defense X Unbound pulls as long-term pity goals, not short-term odds",
+        "Use All Star Tower Defense X 10x summons to save Gems during full pity cycles",
+        "Match All Star Tower Defense X featured units to your current team gaps before spending"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "All Star Tower Defense X Traits",
       "displayType": "regionCards",
-      "intro": "All Star Tower Defense X traits add major stat and utility boosts, so reroll priorities should match your carry role, mode target, and summon investment.",
+      "intro": "Traits can change a unit role in All Star Tower Defense X by improving damage, range, speed, economy, durability, placement count, and special effects.",
       "regions": [
         {
-          "name": "All Star Tower Defense X Damage Traits",
+          "name": "All Star Tower Defense X Core Damage Traits",
           "type": "Carry Priority",
-          "description": "Use high-impact damage traits on primary wave-clearing carries to maximize map pacing and boss kills."
+          "description": "Zenkai, Dexterity, Sharpshooter, and Tempest improve carry output and are strong keeps when your DPS units already have stable placement and uptime."
         },
         {
-          "name": "All Star Tower Defense X Utility Traits",
-          "type": "Support Priority",
-          "description": "Apply utility-focused traits to economy and support units when team consistency matters more than burst damage."
+          "name": "All Star Tower Defense X Utility and Economy Traits",
+          "type": "Support Value",
+          "description": "Midas, Companion, Tank, and Perception improve farming consistency, placement flexibility, or frontline stability for long maps."
         },
         {
-          "name": "All Star Tower Defense X Trait Burner Management",
-          "type": "Resource Planning",
-          "description": "Each reroll consumes one Trait Burner, so lock strong rolls and avoid waste on temporary units."
+          "name": "All Star Tower Defense X Rare Trait Pity",
+          "type": "High-End Rerolls",
+          "description": "Bloodlust (500 pity), Corrupted (450 pity), Genesis (650 pity), and All Star (1000 pity) are build-defining outcomes worth planned reroll budgets."
         },
         {
           "name": "All Star Tower Defense X Reroll Order",
           "type": "Upgrade Route",
-          "description": "Reroll your top carry first, then your key support, and only then secondary roster options."
+          "description": "Reroll your main carry first, then shield-break or support units, and avoid burning Trait Burners on temporary roster slots."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "All Star Tower Defense X Gems Guide",
       "displayType": "creatureCards",
-      "intro": "All Star Tower Defense X gem growth comes from stacking code rewards, Story clears, mode milestones, and repeatable farming routes.",
+      "intro": "Gems are the core summon currency in All Star Tower Defense X. Start with one-time rewards, then move into repeatable Story, Infinite, and Portal farming loops.",
       "creatures": [
         {
-          "name": "All Star Tower Defense X Code Gems",
-          "role": "Immediate Rewards",
-          "description": "Active code bundles provide the fastest instant Gems for summon resets and early roster upgrades."
+          "name": "All Star Tower Defense X Code Redemption Route",
+          "role": "Immediate Gems",
+          "description": "Codes like THANKYOUFOR570KLIKES, DELAYYY5, and SORRY4BREAK give fast Gems plus Trait Burners, Stat Dice, and Bounded Cubes."
         },
         {
-          "name": "All Star Tower Defense X Story First-Clear Gems",
-          "role": "Progression Rewards",
-          "description": "Story first clears provide strong baseline Gems while also unlocking additional maps and farming routes."
+          "name": "All Star Tower Defense X Story Casual and Hard Clears",
+          "role": "First-Clear Income",
+          "description": "Casual first clears give 60 Gems per Arc and Hard first clears give 70, while both routes unlock stronger maps and better farm options."
         },
         {
-          "name": "All Star Tower Defense X Story Repeat Gems",
-          "role": "Loop Farming",
-          "description": "Repeat Story clears add stable Gems and extra resources for sustainable summon planning."
+          "name": "All Star Tower Defense X Infinite Wave Milestones",
+          "role": "Repeatable Farming",
+          "description": "Infinite Gem rewards scale by wave checkpoints, from around 14-15 at wave 10 up to about 99 by wave 50 for stable repeat income."
         },
         {
-          "name": "All Star Tower Defense X Infinite and Trials Rewards",
-          "role": "Mode Farming",
-          "description": "Infinite and Trials provide scaling rewards that improve long-session gem efficiency."
+          "name": "All Star Tower Defense X Classic and Void Bag Value",
+          "role": "Resource Efficiency",
+          "description": "Classic Infinite improves Gem efficiency for strong base teams, and Void Bags add Trait Burners, Stat Dice, Bounded Cubes, and Summon Tickets."
         },
         {
-          "name": "All Star Tower Defense X Portal and Event Rewards",
-          "role": "Advanced Farming",
-          "description": "Portals and event loops can accelerate Gem growth when your team can clear higher tiers consistently."
+          "name": "All Star Tower Defense X Portal and Pity Planning",
+          "role": "Late-Game Route",
+          "description": "Portals cost 250 Gems and can return 235 Gems per clear plus special drops, so combine portal runs with 10x summon pity planning."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "All Star Tower Defense X Story Mode",
       "displayType": "itemCards",
-      "intro": "All Star Tower Defense X Story Mode is the main early progression route for unlocking maps, building teams, and collecting stable rewards.",
+      "intro": "Story Mode is the core progression route in All Star Tower Defense X. Each area has 6 Arcs with 15 waves, boss pressure, and first-clear rewards.",
       "items": [
         {
-          "name": "All Star Tower Defense X Story Arc Structure",
+          "name": "All Star Tower Defense X Story System Overview",
           "type": "Mode Structure",
-          "description": "Each story stage contains multiple arcs, and each arc ends with heavier final-wave pressure."
+          "description": "Each Story area has 6 Arcs with 15 waves each, and Arc clears unlock the next area plus Endless access for that region."
         },
         {
-          "name": "All Star Tower Defense X Stage Progression",
-          "type": "Map Route",
-          "description": "Progress through stages such as Innovation Island, City of Voldstandig, Future City, Hidden Storm Village, and Giant Island."
+          "name": "All Star Tower Defense X Innovation to Voldstandig",
+          "type": "Early Route",
+          "description": "Innovation Island (Blue, weak to Green) and City of Voldstandig (Purple, weak to Orange) establish early progression and elemental planning."
         },
         {
-          "name": "All Star Tower Defense X Casual Rewards",
+          "name": "All Star Tower Defense X Future City and Hidden Storm",
+          "type": "Mid Route",
+          "description": "Future City (Orange, weak to Red) and Hidden Storm Village (Green, weak to Purple) add harder boss mechanics and tighter team checks."
+        },
+        {
+          "name": "All Star Tower Defense X Giant Island and City of York",
+          "type": "Late Route",
+          "description": "Giant Island (Red, weak to Blue) and City of York (Green, weak to Purple) demand burst damage for complex boss behavior and final-wave pressure."
+        },
+        {
+          "name": "All Star Tower Defense X Story Reward Planning",
           "type": "Reward Path",
-          "description": "Casual first clears provide strong entry rewards, while repeats remain useful for consistent farming."
-        },
-        {
-          "name": "All Star Tower Defense X Hard Rewards",
-          "type": "Reward Path",
-          "description": "Hard clears increase challenge and upgrade your long-term reward rate for roster growth."
-        },
-        {
-          "name": "All Star Tower Defense X Team Composition",
-          "type": "Clear Strategy",
-          "description": "Use balanced teams with lane coverage, hill control, and support utility for stable progression."
+          "description": "Casual and Hard clears provide Gems, Gold, food, map drops, and mount or VFX rewards, so route clears by both progression and farm value."
         }
       ],
       "unlockMilestones": [
-        "All Star Tower Defense X Story first-clear milestones",
-        "All Star Tower Defense X Story repeat-farm efficiency",
-        "All Star Tower Defense X Stage unlock progression",
-        "All Star Tower Defense X Hard mode transition planning"
+        "All Star Tower Defense X Story Arc first-clear Gem routing",
+        "All Star Tower Defense X Casual-to-Hard transition timing",
+        "All Star Tower Defense X element counter team preparation",
+        "All Star Tower Defense X Arc 6 boss mechanic planning"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {

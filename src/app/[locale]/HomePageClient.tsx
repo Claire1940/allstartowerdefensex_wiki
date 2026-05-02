@@ -323,23 +323,39 @@ export default function HomePageClient({
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
             {t.tools.cards.map((card: any, index: number) => {
-              // 映射卡片索引到 section ID
-              const sectionIds = [
-                'beginner-guide', 'apotheosis-crafting', 'tools-weapons', 'storage-inventory',
-                'qualia-base-building', 'world-regions', 'creatures-enemies', 'mobility-gear',
-                'farming-growth', 'best-early-unlocks', 'achievement-tracker', 'singleplayer-faq',
-                'steam-deck-controller', 'settings-accessibility', 'updates-patch-notes', 'crash-fix'
+              // Explicit anchor mapping keeps navigation cards aligned with section ids.
+              const sectionAnchors = [
+                { id: 'beginner-guide', href: "#beginner-guide" },
+                { id: 'apotheosis-crafting', href: "#apotheosis-crafting" },
+                { id: 'tools-weapons', href: "#tools-weapons" },
+                { id: 'storage-inventory', href: "#storage-inventory" },
+                { id: 'qualia-base-building', href: "#qualia-base-building" },
+                { id: 'world-regions', href: "#world-regions" },
+                { id: 'creatures-enemies', href: "#creatures-enemies" },
+                { id: 'mobility-gear', href: "#mobility-gear" },
+                { id: 'farming-growth', href: "#farming-growth" },
+                { id: 'best-early-unlocks', href: "#best-early-unlocks" },
+                { id: 'achievement-tracker', href: "#achievement-tracker" },
+                { id: 'singleplayer-faq', href: "#singleplayer-faq" },
+                { id: 'steam-deck-controller', href: "#steam-deck-controller" },
+                { id: 'settings-accessibility', href: "#settings-accessibility" },
+                { id: 'updates-patch-notes', href: "#updates-patch-notes" },
+                { id: 'crash-fix', href: "#crash-fix" },
               ]
-              const sectionId = sectionIds[index]
+              const sectionAnchor = sectionAnchors[index]
 
               return (
-                <button
+                <a
                   key={index}
-                  onClick={() => scrollToSection(sectionId)}
+                  href={sectionAnchor.href}
+                  onClick={(event) => {
+                    event.preventDefault()
+                    scrollToSection(sectionAnchor.id)
+                  }}
                   className="scroll-reveal group p-6 rounded-xl border border-border
                              bg-card hover:border-[hsl(var(--nav-theme)/0.5)]
                              transition-all duration-300 cursor-pointer text-left
-                             hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+                             hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)] block"
                   style={{ animationDelay: `${index * 50}ms` }}
                 >
                   <div className="w-12 h-12 rounded-lg mb-4
@@ -354,7 +370,7 @@ export default function HomePageClient({
                   </div>
                   <h3 className="font-semibold mb-2">{card.title}</h3>
                   <p className="text-sm text-muted-foreground">{card.description}</p>
-                </button>
+                </a>
               )
             })}
           </div>
