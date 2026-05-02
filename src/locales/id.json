@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Codes",
+    "tier": "Tier",
+    "units": "Units",
+    "guide": "Guide",
+    "farming": "Farming",
+    "summon": "Summon",
+    "modes": "Modes"
+  }
+}

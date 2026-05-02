@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "codes": "Codes",
+    "tier": "Tier",
+    "units": "Units",
+    "guide": "Guide",
+    "farming": "Farming",
+    "summon": "Summon",
+    "modes": "Modes"
   },
   "common": {
     "home": "Главная",

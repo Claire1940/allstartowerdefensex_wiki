@@ -10,7 +10,15 @@
       "twitterDescription": "Follow All Star Tower Defense X codes, unit rankings, trait builds, and mode guides for faster Roblox progression."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "tier": "Tier",
+    "units": "Units",
+    "guide": "Guide",
+    "farming": "Farming",
+    "summon": "Summon",
+    "modes": "Modes"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -1034,125 +1042,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "All Star Tower Defense X Guides",
-      "description": "Complete All Star Tower Defense X guides from beginner setup to late-game team progression.",
-      "metaTitle": "All Star Tower Defense X Guides - Beginner to Advanced",
-      "metaDescription": "Master All Star Tower Defense X with beginner routes, summon planning, and progression strategies for Story, Infinite, Trials, and Portals.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are All Star Tower Defense X Guides?",
-      "whatIsDescription": "All Star Tower Defense X guides cover progression loops, mode entry routes, and team-building decisions from your first summons to late-game farming.",
-      "why": "Why read All Star Tower Defense X guides?",
+    "codes": {
+      "title": "All Star Tower Defense X Codes",
+      "description": "Find active All Star Tower Defense X codes for Gems, Trait Burners, and reroll resources.",
+      "metaTitle": "All Star Tower Defense X Codes - Gems and Reroll Rewards",
+      "metaDescription": "Use active All Star Tower Defense X codes to claim Gems, Trait Burners, and reroll resources, with clear redeem steps and update tracking.",
+      "categoryLabel": "CODES",
+      "whatIs": "What are All Star Tower Defense X Codes?",
+      "whatIsDescription": "All Star Tower Defense X codes are limited redeem strings that grant free progression resources such as Gems, Trait Burners, and reroll-related items.",
+      "why": "Why check All Star Tower Defense X codes?",
       "whySteps": {
-        "step1Title": "Build Faster Progression",
-        "step1Description": "Learn the right sequence for codes, summons, and mode unlocks",
-        "step2Title": "Reduce Resource Waste",
-        "step2Description": "Use Gems, Trait Burners, and upgrades where they have the highest value",
-        "step3Title": "Scale Into Endgame",
-        "step3Description": "Prepare your roster for Infinite, Trials, and Portal progression"
+        "step1Title": "Claim Free Progression Currency",
+        "step1Description": "Use code rewards to increase summon volume and roster growth without extra grinding.",
+        "step2Title": "Reduce Early-Game Bottlenecks",
+        "step2Description": "Convert free items into faster upgrades, cleaner reroll attempts, and smoother mode entry.",
+        "step3Title": "Stay Ahead of Expiration Windows",
+        "step3Description": "Redeem new drops quickly before they expire and missable rewards disappear."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Codes"
     },
-    "crafting": {
+    "tier": {
       "title": "All Star Tower Defense X Tier List",
-      "description": "Track All Star Tower Defense X tier rankings by carry role, support value, and mode performance.",
-      "metaTitle": "All Star Tower Defense X Tier List - Meta Rankings",
-      "metaDescription": "Compare All Star Tower Defense X units across All Star, Meta, Early Game, Support, Ground, and Hill tier groupings.",
+      "description": "Track All Star Tower Defense X tier rankings by carry value, utility impact, and mode performance.",
+      "metaTitle": "All Star Tower Defense X Tier List - Meta Unit Rankings",
+      "metaDescription": "Compare All Star Tower Defense X unit performance by role and mode, with practical tier priorities for early, mid, and late progression.",
       "categoryLabel": "TIER LIST",
       "whatIs": "What is the All Star Tower Defense X Tier List?",
-      "whatIsDescription": "The All Star Tower Defense X tier list organizes units by practical performance so you can decide who to level, reroll, and field in each mode.",
-      "why": "Why track the All Star Tower Defense X tier list?",
+      "whatIsDescription": "The All Star Tower Defense X tier list groups units by real match value so you can prioritize upgrades, rerolls, and team slot decisions.",
+      "why": "Why use the All Star Tower Defense X tier list?",
       "whySteps": {
-        "step1Title": "Prioritize Upgrade Targets",
-        "step1Description": "Invest in units that keep value across multiple modes",
-        "step2Title": "Improve Team Balance",
-        "step2Description": "Combine carry, support, and placement coverage with clearer role planning",
-        "step3Title": "Adapt to Meta Changes",
-        "step3Description": "Respond quickly to update-driven ranking shifts"
+        "step1Title": "Prioritize High-Impact Units",
+        "step1Description": "Focus resources on units that deliver stable clears and long-term value across multiple modes.",
+        "step2Title": "Balance Team Roles Faster",
+        "step2Description": "Use tier context to combine carry, support, economy, and control roles with fewer weak slots.",
+        "step3Title": "Adapt to Patch Meta Changes",
+        "step3Description": "Update your roster plan as balance shifts change which units perform best in current content."
       },
       "featured": "Featured & Essential",
       "all": "All Tier List Guides"
     },
-    "items": {
-      "title": "All Star Tower Defense X Items",
-      "description": "Reference All Star Tower Defense X consumables, currencies, and upgrade materials with practical usage priorities.",
-      "metaTitle": "All Star Tower Defense X Items - Resources & Usage",
-      "metaDescription": "Learn how to use All Star Tower Defense X Gems, Trait Burners, Stat Dice, Bounded Cubes, and related progression items effectively.",
-      "categoryLabel": "ITEMS & RESOURCES",
-      "whatIs": "What are All Star Tower Defense X Items?",
-      "whatIsDescription": "All Star Tower Defense X items include summon currency, reroll resources, and upgrade materials used to grow your roster across all major modes.",
-      "why": "Why check All Star Tower Defense X item guides?",
-      "whySteps": {
-        "step1Title": "Spend Currency Smarter",
-        "step1Description": "Align Gems and event bundles with banner objectives",
-        "step2Title": "Optimize Upgrade Materials",
-        "step2Description": "Use premium resources on your best long-term units",
-        "step3Title": "Plan Farming Loops",
-        "step3Description": "Balance Story, Infinite, Trials, and Portals for sustainable growth"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
-    },
-    "biomes": {
-      "title": "All Star Tower Defense X Modes",
-      "description": "Explore All Star Tower Defense X mode breakdowns for Story, Infinite, Trials, and Portals with reward-focused strategies.",
-      "metaTitle": "All Star Tower Defense X Modes - Story, Infinite, Trials & Portals",
-      "metaDescription": "Understand All Star Tower Defense X game modes, entry requirements, rewards, and roster planning for each progression stage.",
-      "categoryLabel": "GAME MODES",
-      "whatIs": "What are All Star Tower Defense X Modes?",
-      "whatIsDescription": "All Star Tower Defense X mode guides explain objective flow, enemy scaling, and reward efficiency so you can choose the best route for your roster.",
-      "why": "Why compare All Star Tower Defense X modes?",
-      "whySteps": {
-        "step1Title": "Choose the Right Farm Route",
-        "step1Description": "Target mode rewards that match your immediate progression goal",
-        "step2Title": "Prepare Better Teams",
-        "step2Description": "Adjust unit roles by mode difficulty and map pressure",
-        "step3Title": "Scale Progression Safely",
-        "step3Description": "Advance into harder modes only when your roster consistency is ready"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Modes"
-    },
-    "building": {
+    "units": {
       "title": "All Star Tower Defense X Units",
-      "description": "Review All Star Tower Defense X units by rarity group, role value, and team synergy pathways.",
-      "metaTitle": "All Star Tower Defense X Units - Rarity & Team Building",
-      "metaDescription": "Browse All Star Tower Defense X unit groups including Primal, Unbound, 5 Star, Exclusive, and Team-Up options for roster planning.",
-      "categoryLabel": "UNITS & TEAM BUILDING",
-      "whatIs": "What are All Star Tower Defense X Unit Guides?",
-      "whatIsDescription": "All Star Tower Defense X unit guides focus on unit categories, role fit, and investment sequencing to help you build balanced progression teams.",
+      "description": "Review All Star Tower Defense X units by rarity, role identity, and team synergy planning.",
+      "metaTitle": "All Star Tower Defense X Units - Roles, Rarity, and Synergy",
+      "metaDescription": "Browse All Star Tower Defense X units with role breakdowns, rarity context, and practical team-building guidance for core modes.",
+      "categoryLabel": "UNITS",
+      "whatIs": "What are All Star Tower Defense X Units?",
+      "whatIsDescription": "All Star Tower Defense X units are your core roster pieces, each with unique role coverage, scaling behavior, and placement value.",
       "why": "Why study All Star Tower Defense X units?",
       "whySteps": {
-        "step1Title": "Plan Role Coverage",
-        "step1Description": "Combine carries, support, and placement types for stronger clears",
-        "step2Title": "Avoid Over-Investing",
-        "step2Description": "Prioritize units with long-term value instead of short-term filler picks",
+        "step1Title": "Build Better Role Coverage",
+        "step1Description": "Understand which units handle boss damage, lane control, support buffs, and economy duties.",
+        "step2Title": "Avoid Wasteful Investment",
+        "step2Description": "Reserve expensive upgrades for units with reliable value instead of short-lived filler picks.",
         "step3Title": "Improve Summon Decisions",
-        "step3Description": "Pull banners based on roster gaps and upcoming mode goals"
+        "step3Description": "Pull banners based on roster gaps and team requirements instead of raw rarity alone."
       },
       "featured": "Featured & Essential",
       "all": "All Unit Guides"
     },
-    "support": {
-      "title": "All Star Tower Defense X Support",
-      "description": "Get All Star Tower Defense X technical help, official links, and issue-reporting resources in one section.",
-      "metaTitle": "All Star Tower Defense X Support - Help & Official Links",
-      "metaDescription": "Find All Star Tower Defense X official links, Discord support routes, and practical troubleshooting guidance for common gameplay issues.",
-      "categoryLabel": "SUPPORT & LINKS",
-      "whatIs": "What is All Star Tower Defense X Support?",
-      "whatIsDescription": "All Star Tower Defense X support resources centralize official channels, troubleshooting steps, and community help routes for faster issue resolution.",
-      "why": "Why use All Star Tower Defense X support resources?",
+    "guide": {
+      "title": "All Star Tower Defense X Guide",
+      "description": "Follow practical All Star Tower Defense X guides for progression routes, team setup, and mode unlock flow.",
+      "metaTitle": "All Star Tower Defense X Guide - Beginner to Endgame Progression",
+      "metaDescription": "Use All Star Tower Defense X guide coverage to optimize leveling, team structure, quest flow, and mode unlock priorities.",
+      "categoryLabel": "GUIDE",
+      "whatIs": "What is the All Star Tower Defense X Guide category?",
+      "whatIsDescription": "The All Star Tower Defense X guide category collects gameplay walkthroughs that help you move from early setup to consistent endgame clears.",
+      "why": "Why read All Star Tower Defense X guides?",
       "whySteps": {
-        "step1Title": "Find Official Channels Quickly",
-        "step1Description": "Jump directly to Roblox, Discord, X, and trailer resources",
-        "step2Title": "Resolve Problems Faster",
-        "step2Description": "Use clear troubleshooting steps before escalating issues",
-        "step3Title": "Stay Update-Aligned",
-        "step3Description": "Monitor changes that affect summoning, rewards, and mode routes"
+        "step1Title": "Accelerate Early Progression",
+        "step1Description": "Use clear setup order for codes, summons, quests, and upgrades to avoid slow starts.",
+        "step2Title": "Plan Efficient Team Growth",
+        "step2Description": "Match upgrade priorities to your current goals so every resource spend pushes real progress.",
+        "step3Title": "Clear Modes More Consistently",
+        "step3Description": "Apply route-specific tactics for story stages, scaling waves, and high-pressure boss segments."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Guides"
+    },
+    "farming": {
+      "title": "All Star Tower Defense X Farming",
+      "description": "Optimize All Star Tower Defense X farming loops for EXP, Gems, materials, and long-run resource stability.",
+      "metaTitle": "All Star Tower Defense X Farming - EXP, Gems, and Materials",
+      "metaDescription": "Learn efficient All Star Tower Defense X farming routes for EXP, currency, reroll materials, and upgrade resources across core modes.",
+      "categoryLabel": "FARMING",
+      "whatIs": "What is All Star Tower Defense X Farming?",
+      "whatIsDescription": "All Star Tower Defense X farming focuses on repeatable routes that produce currency, progression items, and upgrade materials with minimal downtime.",
+      "why": "Why optimize All Star Tower Defense X farming?",
+      "whySteps": {
+        "step1Title": "Increase Resource Efficiency",
+        "step1Description": "Run the highest-value routes for your current bottleneck instead of splitting effort randomly.",
+        "step2Title": "Sustain Upgrade Momentum",
+        "step2Description": "Keep a stable material and currency flow so key units can be upgraded on schedule.",
+        "step3Title": "Support Long-Term Roster Growth",
+        "step3Description": "Align farm targets with upcoming summons, evolutions, and mode progression goals."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Farming Guides"
+    },
+    "summon": {
+      "title": "All Star Tower Defense X Summon",
+      "description": "Track All Star Tower Defense X summon banners, pity planning, and pull priorities for key units.",
+      "metaTitle": "All Star Tower Defense X Summon - Banner and Pity Planning",
+      "metaDescription": "Use All Star Tower Defense X summon coverage to evaluate active banners, plan pity spending, and target units that fit your roster.",
+      "categoryLabel": "SUMMON",
+      "whatIs": "What is All Star Tower Defense X Summon planning?",
+      "whatIsDescription": "All Star Tower Defense X summon planning helps you manage banner timing, pity thresholds, and currency allocation for stronger pull outcomes.",
+      "why": "Why plan All Star Tower Defense X summons?",
+      "whySteps": {
+        "step1Title": "Spend Gems on Better Targets",
+        "step1Description": "Prioritize banners that fill real roster gaps and improve immediate clear performance.",
+        "step2Title": "Protect Pity Progress",
+        "step2Description": "Track summon milestones carefully to avoid inefficient resets and low-value spending.",
+        "step3Title": "Align Pulls With Team Needs",
+        "step3Description": "Time banner decisions around your current mode goals, not only hype cycles."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Summon Guides"
+    },
+    "modes": {
+      "title": "All Star Tower Defense X Modes",
+      "description": "Explore All Star Tower Defense X modes with clear objective flow, reward focus, and team strategy notes.",
+      "metaTitle": "All Star Tower Defense X Modes - Story, Infinite, and More",
+      "metaDescription": "Understand All Star Tower Defense X mode differences, rewards, and strategy priorities for Story, Infinite, and other progression routes.",
+      "categoryLabel": "MODES",
+      "whatIs": "What are All Star Tower Defense X Modes?",
+      "whatIsDescription": "All Star Tower Defense X modes are distinct gameplay routes with different objectives, scaling pressure, and reward profiles.",
+      "why": "Why compare All Star Tower Defense X modes?",
+      "whySteps": {
+        "step1Title": "Pick the Right Progress Route",
+        "step1Description": "Choose mode runs that match your current need for currency, materials, or challenge progression.",
+        "step2Title": "Prepare Mode-Specific Teams",
+        "step2Description": "Adjust roster roles and placements based on enemy scaling, wave pacing, and map constraints.",
+        "step3Title": "Maximize Reward Return",
+        "step3Description": "Focus time on modes that provide the highest value for your next upgrade checkpoint."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Mode Guides"
     }
   }
 }
