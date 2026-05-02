@@ -1,5 +1,4 @@
 import { getLatestArticles } from '@/lib/getLatestArticles'
-import { buildModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { Language } from '@/lib/content'
 import HomePageClient from './HomePageClient'
 
@@ -8,6 +7,7 @@ interface PageProps {
 }
 
 const homePageConfig = {
+  // Home UI is rendered in HomePageClient (icons from `lucide-react`, themed with `hsl(var(--nav-theme))`).
   video: {
     id: 'GqIzGKXMo9c',
     title: 'All Star Tower Defense X Character Trailer',
@@ -41,7 +41,8 @@ export default async function HomePage({ params }: PageProps) {
 
   // 服务器端获取最新文章数据
   const latestArticles = await getLatestArticles(locale as Language, 30)
-  const moduleLinkMap = await buildModuleLinkMap(locale as Language)
+  // 首页模块仅展示纯文案，不在首页注入内部文章跳转链接
+  const moduleLinkMap = {} as Record<string, null>
 
   return (
     <HomePageClient
