@@ -103,22 +103,22 @@
       {
         "icon": "TrendingUp",
         "title": "All Star Tower Defense X Infinite Mode",
-        "description": "Wave scaling, reward checkpoints, and farming targets"
+        "description": "Wave milestones, 1P-4P HP scaling, and Gem checkpoints"
       },
       {
         "icon": "Star",
         "title": "All Star Tower Defense X Trials Guide",
-        "description": "Trial entry requirements, difficulty routes, and rewards"
+        "description": "Trial levels, Strategist rewards, Trial Coins, and boss notes"
       },
       {
         "icon": "ClipboardCheck",
         "title": "All Star Tower Defense X Portals Guide",
-        "description": "Portal tiers, upgrade chances, and unlock progression"
+        "description": "Portal lives, tier upgrades, modifiers, and Unbound route"
       },
       {
         "icon": "MessageCircle",
         "title": "All Star Tower Defense X Elements",
-        "description": "Element matchups and practical team counter planning"
+        "description": "Counter chart, damage multipliers, and element unit examples"
       },
       {
         "icon": "Gamepad2",
@@ -413,144 +413,401 @@
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "All Star Tower Defense X Infinite Mode",
-      "displayType": "mixedCards",
-      "intro": "All Star Tower Defense X Infinite Mode is designed for long-run wave pushing, scaling difficulty, and checkpoint-based farming efficiency.",
-      "sections": [
+      "title": "All Star Tower Defense X Infinite Mode Wave Rewards and HP Scaling",
+      "displayType": "table",
+      "subtitle": "Track All Star Tower Defense X Infinite Mode milestones, enemy HP spikes, multiplayer scaling, and Gem reward checkpoints to decide when to reset.",
+      "intro": "In All Star Tower Defense X, Infinite Mode sends endless enemy waves until base HP is depleted. Regular mode keeps Traits, Hidden Potential, and stats active, while Classic disables those bonuses for a slight Gem-gain increase. Enemy HP scales by player count at +0.9x HP per extra player, so 2P to 4P runs become much heavier than solo clears.",
+      "items": [
         {
-          "name": "All Star Tower Defense X Early Infinite Waves",
-          "description": "Focus on economy setup and stable lane control so your team scales before the first major HP spikes."
+          "wave": 1,
+          "health_1p": "67",
+          "health_2p": "127",
+          "health_3p": "188",
+          "health_4p": "248",
+          "gems": "0",
+          "note": "Starting wave and baseline HP check."
         },
         {
-          "name": "All Star Tower Defense X Mid Infinite Waves",
-          "description": "Transition from early economy into upgraded carries and support timing to sustain wave clear speed."
+          "wave": 10,
+          "health_1p": "439",
+          "health_2p": "834",
+          "health_3p": "1,229",
+          "health_4p": "1,624",
+          "gems": "14-15",
+          "note": "First listed Gem reward checkpoint."
         },
         {
-          "name": "All Star Tower Defense X Late Infinite Waves",
-          "description": "Late waves demand strong trait rolls, optimized placement, and upgrade sequencing under pressure."
+          "wave": 20,
+          "health_1p": "1,723",
+          "health_2p": "3,274",
+          "health_3p": "4,824",
+          "health_4p": "6,375",
+          "gems": "34-36",
+          "note": "Early farming checkpoint with low HP pressure."
         },
         {
-          "name": "All Star Tower Defense X Infinite Reward Targets",
-          "description": "Set wave targets based on reward efficiency instead of forcing every run to max wave attempts."
+          "wave": 30,
+          "health_1p": "14,745",
+          "health_2p": "28,016",
+          "health_3p": "41,286",
+          "health_4p": "54,557",
+          "gems": "56-57",
+          "note": "Enemy HP starts climbing much faster here."
+        },
+        {
+          "wave": 40,
+          "health_1p": "664,614",
+          "health_2p": "1,262,767",
+          "health_3p": "1,860,919",
+          "health_4p": "2,459,072",
+          "gems": "77-78",
+          "note": "High-effort checkpoint where team scaling is very visible."
+        },
+        {
+          "wave": 45,
+          "health_1p": "5,046,267",
+          "health_2p": "9,587,907",
+          "health_3p": "14,129,548",
+          "health_4p": "18,671,186",
+          "gems": "No checkpoint",
+          "note": "Major HP wall before post-45 slowdown."
+        },
+        {
+          "wave": 46,
+          "health_1p": "5,096,197",
+          "health_2p": "9,682,774",
+          "health_3p": "14,269,352",
+          "health_4p": "18,855,927",
+          "gems": "No checkpoint",
+          "note": "Scaling slows down after the Wave 45 spike."
+        },
+        {
+          "wave": 50,
+          "health_1p": "5,328,290",
+          "health_2p": "10,123,752",
+          "health_3p": "14,919,213",
+          "health_4p": "19,714,674",
+          "gems": "99",
+          "note": "Highest listed Gem checkpoint in the chart."
+        },
+        {
+          "wave": 58,
+          "health_1p": "5,834,145",
+          "health_2p": "11,084,875",
+          "health_3p": "16,335,605",
+          "health_4p": "21,586,335",
+          "gems": "No checkpoint",
+          "note": "Deep-wave benchmark for high-end teams."
         }
       ],
-      "growthMilestones": [
-        "All Star Tower Defense X Infinite economy stabilization",
-        "All Star Tower Defense X Infinite carry scaling",
-        "All Star Tower Defense X Infinite support timing",
-        "All Star Tower Defense X Infinite reward checkpoint planning"
+      "highlights": [
+        "All Star Tower Defense X Void Bags can drop EXP items, Trait Burners, Stat Dice, Bounded Cubes, Summon Tickets, and Kujo.",
+        "All Star Tower Defense X Void Bag inventory cap is 199, so clear or open bags regularly during long sessions.",
+        "All Star Tower Defense X 2P to 4P scaling is steep, so choose wave targets by reward efficiency, not only max-wave ambition."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "All Star Tower Defense X Trials Guide",
-      "displayType": "priorityCards",
-      "intro": "All Star Tower Defense X Trials require better coordination than early Story clears, so use entry requirements and difficulty tiers to plan your lineup.",
-      "priorities": [
+      "title": "All Star Tower Defense X Trials Rewards, Strategist Mode, Coins, and Clear Notes",
+      "displayType": "accordion",
+      "subtitle": "Review All Star Tower Defense X Trials by level requirement, reward pool, element, coin drops, and boss mechanics across Regular and Strategist.",
+      "intro": "All Star Tower Defense X Trials unlock at level gates and reward Gold, Gems, trial-specific coins, materials, and unit drops. Regular clears usually have 5% unit chances, while Strategist usually has 25% unit chances and better coin drops, but removes unit Hidden Potential, Traits, and Stats.",
+      "items": [
         {
-          "name": "All Star Tower Defense X Trial Entry Requirements",
-          "priority": "Essential",
-          "description": "Meet level and roster checkpoints before committing to repeated Trial runs."
+          "title": "All Star Tower Defense X In-Game Trial Cards",
+          "meta": "System Rules",
+          "summary": "Cards appear at the beginning of waves 4, 8, and 12 so players can trade safety for higher reward bonuses.",
+          "details": [
+            "Green cards grant beneficial effects such as speed, damage, or range and add 0% reward bonus.",
+            "Blue cards strengthen enemies with effects such as speed, HP, or shields and add 20% reward bonus.",
+            "Red cards apply harsher negatives, such as removing all Traits, and add 40% reward bonus.",
+            "Reward bonuses stack after a successful clear and increase unit drop chance."
+          ]
         },
         {
-          "name": "All Star Tower Defense X Regular Trials Route",
-          "priority": "Very High",
-          "description": "Regular Trials are the stable path for consistent progression and baseline reward farming."
+          "title": "All Star Tower Defense X Trial Shop and Trial Coins",
+          "meta": "Economy Route",
+          "summary": "Trial Coins are spent at the Trial Shop beside the yellow Trials entrance, and each Trial uses a different coin type.",
+          "details": [
+            "Regular clears usually drop 5-8 trial coins; Strategist clears usually drop 10-14.",
+            "Shops include Star Scrolls, Roka Fruit, Doma Fruit, Luck Boosters, Star Statue (Gold), Trait Burners, Stat Dice, Bounded Cubes, and Summon Tickets.",
+            "Star Scrolls are consumed from inventory to automatically obtain the linked character.",
+            "Trial 1 uses Etri Coins and Trial 2 uses Magma Coins."
+          ]
         },
         {
-          "name": "All Star Tower Defense X Strategist Trials Route",
-          "priority": "Very High",
-          "description": "Strategist variants increase challenge and reward potential when your core team is ready."
+          "title": "All Star Tower Defense X Trial 1",
+          "meta": "Level 25+ • Blue Element",
+          "summary": "Trial 1 rewards Etri progression and introduces stun-heavy pressure.",
+          "regularRewards": "Etri (5%), Etri's Rapier (50%), 5-8 Etri Coins",
+          "strategistRewards": "Etri (25%), Etri's Rapier (100%), 10-14 Etri Coins",
+          "bossHp": "1,000,000",
+          "details": [
+            "Bring a shield breaker; Airren's Titan Form is a recommended option.",
+            "Boss stuns can disrupt carries, so place non-DPS units to absorb stuns away from core damage.",
+            "On the final wave, two invincible side-lane bosses spawn; focus the middle lane boss."
+          ]
         },
         {
-          "name": "All Star Tower Defense X Trial Coins and Shop Planning",
-          "priority": "High",
-          "description": "Prioritize Trial Coin spending on upgrades that improve both Story and Infinite performance."
+          "title": "All Star Tower Defense X Trial 2",
+          "meta": "Level 35+ • Red Element",
+          "summary": "Trial 2 mirrors Trial 1 reward structure but shifts to Magma Coin routing.",
+          "regularRewards": "Magma Marine (5%), Spade Hat (50%), 5-8 Magma Coins",
+          "strategistRewards": "Magma Marine (25%), Spade Hat (100%), 10-14 Magma Coins",
+          "bossHp": "1,750,000",
+          "details": [
+            "Bring a shield breaker because Wave 5 enemies regenerate shields.",
+            "Invaders and bosses can stun frequently, so prioritize deleting them quickly.",
+            "Rewards track Trial 1 patterns but use Magma Coins."
+          ]
         },
         {
-          "name": "All Star Tower Defense X Trial Team Composition",
-          "priority": "High",
-          "description": "Bring a balanced roster with burst, lane control, and utility support for varied trial objectives."
+          "title": "All Star Tower Defense X Trial 3 - Arc 1",
+          "meta": "Level 40+ • Orange Element",
+          "summary": "Arc 1 is a timed pressure trial with heavy shield checks.",
+          "regularRewards": "3-5 Supreme Coins",
+          "strategistRewards": "6-8 Supreme Coins",
+          "bossHp": "2,500,000",
+          "details": [
+            "Wave 11 boss has 100 shields, making shield break mandatory.",
+            "After Wave 15 begins, players have 5 minutes to clear all enemies or fail.",
+            "Frequent stuns reduce uptime, and the final boss spawns inside a dome where units cannot be placed."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 3 - Arc 2",
+          "meta": "Level 40+ • Three-Lane Map",
+          "summary": "Arc 2 emphasizes lane distribution and boss control timing.",
+          "regularRewards": "Supreme Leader (5%), Supreme Helmet (50%), 5-8 Supreme Coins",
+          "strategistRewards": "Supreme Leader (25%), Supreme Helmet (100%), 10-14 Supreme Coins",
+          "bossHp": "1,750,000 middle boss; 650,000 left and right bosses",
+          "details": [
+            "Split unit coverage across three lanes, or assign one player to each lane in team runs.",
+            "Bosses appear on Waves 5, 10, and 15, with a very fast Wave 10 boss.",
+            "The final boss can delete towers while easier side-path bosses also appear."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 3 - Arc 3",
+          "meta": "Level 40+ • Purple Element",
+          "summary": "Arc 3 combines timed routing with double-boss wave pressure.",
+          "regularRewards": "Supreme Leader (5%), Freezer (20%), Freezer Mask (50%), 5-8 Supreme Coins",
+          "strategistRewards": "Supreme Leader (25%), Freezer (35%), Freezer Mask (100%), 10-14 Supreme Coins",
+          "bossHp": "1,500,000 x2",
+          "details": [
+            "Map has three paths with a 16-minute clear timer.",
+            "Supreme Leader appears on Wave 6, Freezer on Wave 11, and both on Wave 15.",
+            "On Wave 15, Supreme Leader is invincible for a while, so focus Freezer first."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 4 - Arc 1",
+          "meta": "Level 40+ • Neutral Element",
+          "summary": "Neutral element means this trial favors stable DPS and control more than element counters.",
+          "regularRewards": "Flaming Tiger (5%), Flame Cape (50%), 5-8 Flame Coins",
+          "strategistRewards": "Flaming Tiger (25%), Flame Cape (100%), 10-14 Flame Coins",
+          "details": [
+            "Neutral matchups reduce the value of elemental counter damage.",
+            "Prioritize raw DPS, clean path coverage, and reliable boss control."
+          ]
+        },
+        {
+          "title": "All Star Tower Defense X Trial 5 - Arc 1",
+          "meta": "Level 40+ • Green Element",
+          "summary": "Trial 5 is a key progression route for Crow and Limiter Switch targets.",
+          "regularRewards": "Crow (5%), Assistant Glasses (50%), 5-8 Reanimation Coins, Limiter Switch (50%)",
+          "strategistRewards": "Crow (25%), Assistant Glasses (100%), 10-14 Reanimation Coins, Limiter Switch (100%)",
+          "details": [
+            "Green element lineups should counter Blue enemies and avoid Purple disadvantage paths.",
+            "Crow and Limiter Switch rewards make this trial valuable for long-term roster growth."
+          ]
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "All Star Tower Defense X Portals Guide",
-      "displayType": "achievementGrid",
-      "intro": "All Star Tower Defense X Portals add tiered challenge progression with upgrade chances, failure limits, and high-value rewards for prepared teams.",
-      "groups": [
+      "title": "All Star Tower Defense X Portals Guide from Tier 1 to Unbound",
+      "displayType": "step-by-step",
+      "subtitle": "Follow the All Star Tower Defense X Portal route: buy a portal, clear tiers, manage lives, and push for Unbound special rewards.",
+      "intro": "All Star Tower Defense X Portals were introduced in Update 6 and are purchased from NPC Nakime near the Trials entrance. Each portal has 3 lives and disappears after three defeats. Portal runs use tier difficulty and modifiers, with the long-term route climbing from Tier 1 to Tier 5 and then chasing Unbound.",
+      "steps": [
         {
-          "name": "All Star Tower Defense X Portal Basics",
-          "achievements": [
-            {
-              "title": "All Star Tower Defense X Portal Access",
-              "description": "Use portal entry items and requirements to begin your first tier runs."
-            },
-            {
-              "title": "All Star Tower Defense X Portal Difficulty Tiers",
-              "description": "Portal tiers scale enemy pressure and reward potential as you advance."
-            },
-            {
-              "title": "All Star Tower Defense X Portal Team Setup",
-              "description": "Balanced carries and support units improve consistency across tier jumps."
-            }
-          ]
+          "step": 1,
+          "title": "All Star Tower Defense X Buy a Portal",
+          "action": "Purchase a portal from NPC Nakime near the Trials entrance.",
+          "details": "Cost: 250 Gems.",
+          "result": "You receive a portal with 3 lives."
         },
         {
-          "name": "All Star Tower Defense X Portal Upgrade Path",
-          "achievements": [
-            {
-              "title": "All Star Tower Defense X Tier Upgrade Chance",
-              "description": "Upgrades can fail, so run planning should include fallback farming routes."
-            },
-            {
-              "title": "All Star Tower Defense X Tier Failure Limits",
-              "description": "Manage failed upgrade counts to avoid losing progression momentum."
-            },
-            {
-              "title": "All Star Tower Defense X Tier Progression Loop",
-              "description": "Move from lower tiers into advanced tiers only when your team can clear reliably."
-            }
-          ]
+          "step": 2,
+          "title": "All Star Tower Defense X Start at Tier 1",
+          "action": "Begin with the lowest portal difficulty and build consistency.",
+          "details": "Tier path: Tier 1 > Tier 2 > Tier 3 > Tier 4 > Tier 5 > Unbound.",
+          "result": "Tier 1 is easiest, while Unbound is the highest challenge."
         },
         {
-          "name": "All Star Tower Defense X Portal Rewards",
-          "achievements": [
-            {
-              "title": "All Star Tower Defense X Advanced Reward Targets",
-              "description": "Higher portal tiers unlock stronger progression rewards and long-term roster value."
-            },
-            {
-              "title": "All Star Tower Defense X Farming Efficiency",
-              "description": "Repeat the highest tier you can clear consistently for sustainable growth."
-            },
-            {
-              "title": "All Star Tower Defense X Build Validation",
-              "description": "Use portal outcomes to validate trait, hidden potential, and support choices."
-            }
-          ]
+          "step": 3,
+          "title": "All Star Tower Defense X Clear with Modifiers",
+          "action": "Read active modifiers before locking your lineup.",
+          "details": "Portal modifiers can buff or debuff elements similar to Challenges.",
+          "result": "Element shifts can change which units are safest for each run."
+        },
+        {
+          "step": 4,
+          "title": "All Star Tower Defense X Upgrade the Portal",
+          "action": "Complete a portal run to roll the next tier result.",
+          "details": "Before Tier 5, clears have 90% chance to upgrade and 10% chance to stay same tier.",
+          "result": "Most successful clears move upward until Tier 5."
+        },
+        {
+          "step": 5,
+          "title": "All Star Tower Defense X Protect Your 3 Lives",
+          "action": "Avoid repeated failed attempts on the same portal.",
+          "details": "Each portal has 3 lives and disappears after three defeats.",
+          "result": "A failed streak forces a restart with a new purchased portal."
+        },
+        {
+          "step": 6,
+          "title": "All Star Tower Defense X Farm Tier 5 for Unbound",
+          "action": "Keep clearing Tier 5 portals after reaching Tier 5.",
+          "details": "Tier 5 stays Tier 5 at 100%.",
+          "extra": "Each Tier 5 clear has a 2% chance to grant an Unbound Portal.",
+          "result": "Unbound portals are the rare high-end target for portal progression."
+        },
+        {
+          "step": 7,
+          "title": "All Star Tower Defense X Claim Portal Rewards",
+          "action": "Clear portals for base rewards and Unbound unit goals.",
+          "details": "Base clear reward is 235 Gems and 25 Gold.",
+          "extra": "Frost Moon Unbound Portal grants Frost Moon; Patternine Unbound Portal grants Patternine.",
+          "result": "Portal farming combines steady currency with rare late-game unit targets."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "All Star Tower Defense X Elements",
-      "displayType": "accordion",
-      "intro": "All Star Tower Defense X element matchups influence damage output and lineup choices across Story, Trials, and Infinite waves.",
-      "faqs": [
+      "title": "All Star Tower Defense X Elements Counters, Damage Multipliers, and Unit Examples",
+      "displayType": "table",
+      "subtitle": "Use the All Star Tower Defense X element chart to pick counters before Story, Endless, Trials, and modifier-heavy Portal runs.",
+      "intro": "In All Star Tower Defense X, element advantage deals 2x damage while element disadvantage deals 0.25x damage. Matching elements, neutral enemies, no-element enemies, and unrelated element pairs use standard damage.",
+      "items": [
         {
-          "question": "How do All Star Tower Defense X elements affect damage?",
-          "answer": "All Star Tower Defense X elements apply matchup advantages and disadvantages, so counters can improve wave clear speed and boss damage."
+          "element": "Blue",
+          "strongAgainst": "Red",
+          "weakAgainst": "Green",
+          "advantageDamage": "2x vs Red",
+          "disadvantageDamage": "0.25x vs Green",
+          "storyExamples": [
+            "Innovation Island"
+          ],
+          "trialExamples": [
+            "Trial 1"
+          ],
+          "sampleUnits": [
+            "Etri",
+            "Frost Moon",
+            "Patternine",
+            "Sky God",
+            "Tony Stark",
+            "Underwater God"
+          ]
         },
         {
-          "question": "How should I build an All Star Tower Defense X element-balanced team?",
-          "answer": "For All Star Tower Defense X, keep mixed-element coverage so your roster can answer different enemy compositions without stalling progression."
+          "element": "Green",
+          "strongAgainst": "Blue",
+          "weakAgainst": "Purple",
+          "advantageDamage": "2x vs Blue",
+          "disadvantageDamage": "0.25x vs Purple",
+          "storyExamples": [
+            "Hidden Storm Village"
+          ],
+          "trialExamples": [
+            "Trial 5 - Arc 1"
+          ],
+          "sampleUnits": [
+            "Spider Boss",
+            "Flower Trainer",
+            "Airren",
+            "Dark Wing",
+            "Kuroma (Yoko)",
+            "Onwin"
+          ]
         },
         {
-          "question": "When should I prioritize All Star Tower Defense X element counters over rarity?",
-          "answer": "In All Star Tower Defense X, element advantage can outperform raw rarity in specific waves, especially when your upgrade budget is limited."
+          "element": "Red",
+          "strongAgainst": "Orange",
+          "weakAgainst": "Blue",
+          "advantageDamage": "2x vs Orange",
+          "disadvantageDamage": "0.25x vs Blue",
+          "storyExamples": [
+            "Giant Island"
+          ],
+          "trialExamples": [
+            "Trial 2"
+          ],
+          "sampleUnits": [
+            "Magma Marine",
+            "Devil",
+            "Flaming Tiger",
+            "Cyber Psycho",
+            "Blood Commander",
+            "Kujo"
+          ]
         },
         {
-          "question": "Do All Star Tower Defense X element matchups matter in Infinite and Trials?",
-          "answer": "Yes, All Star Tower Defense X element planning improves consistency in long Infinite runs and higher-difficulty Trials."
+          "element": "Orange",
+          "strongAgainst": "Purple",
+          "weakAgainst": "Red",
+          "advantageDamage": "2x vs Purple",
+          "disadvantageDamage": "0.25x vs Red",
+          "storyExamples": [
+            "Future City (Ruins)"
+          ],
+          "trialExamples": [
+            "Trial 3 - Arc 1"
+          ],
+          "sampleUnits": [
+            "Supreme Leader",
+            "Alligator",
+            "Expert Sorcerer (Serious)",
+            "Fire Officer",
+            "Red Servant",
+            "Venus"
+          ]
+        },
+        {
+          "element": "Purple",
+          "strongAgainst": "Green",
+          "weakAgainst": "Orange",
+          "advantageDamage": "2x vs Green",
+          "disadvantageDamage": "0.25x vs Orange",
+          "storyExamples": [
+            "City of Voldstandig"
+          ],
+          "trialExamples": [
+            "Trial 3 - Arc 3"
+          ],
+          "sampleUnits": [
+            "Michishibo",
+            "Blackstache",
+            "Freezer (Final Form)",
+            "Jin Sung",
+            "Killer (Serious)",
+            "Super God Vegu"
+          ]
+        },
+        {
+          "element": "Neutral",
+          "strongAgainst": "None",
+          "weakAgainst": "None",
+          "advantageDamage": "Standard damage",
+          "disadvantageDamage": "Standard damage",
+          "storyExamples": [
+            "City of York Endless enemies"
+          ],
+          "trialExamples": [
+            "Trial 4 - Arc 1"
+          ],
+          "sampleUnits": [
+            "MiniYou"
+          ]
         }
       ]
     },
