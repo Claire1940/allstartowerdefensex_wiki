@@ -38,8 +38,8 @@
     "badge": "Anime Tower Defense Roblox Experience",
     "title": "All Star Tower Defense X Wiki",
     "description": "Track All Star Tower Defense X codes, units, tier lists, traits, banners, items, and game modes for Roblox players who want faster progression and stronger teams.",
-    "getFreeCodesCTA": "Play All Star Tower Defense X on Roblox",
-    "playOnRobloxCTA": "Join All Star Tower Defense X Discord",
+    "getFreeCodesCTA": "Play on Roblox",
+    "playOnRobloxCTA": "Join Discord",
     "stats": {
       "stat1": {
         "value": "940.7M+",
@@ -60,13 +60,13 @@
     }
   },
   "gameFeature": {
-    "title": "All Star Tower Defense X Gameplay",
-    "description": "Watch the All Star Tower Defense X character trailer and plan your codes, summons, trait rolls, and mode progression routes."
+    "title": "Gameplay Trailer",
+    "description": "Watch the character trailer and plan codes, summons, trait rolls, and mode progression routes."
   },
   "tools": {
     "title": "All Star Tower Defense X",
     "titleHighlight": "Homepage Tools",
-    "subtitle": "Navigate every All Star Tower Defense X homepage module from codes to official links",
+    "subtitle": "Navigate every homepage module from codes to official links.",
     "cards": [
       {
         "icon": "BookOpen",
@@ -154,43 +154,43 @@
     "lucidBlocksBeginnerGuide": {
       "title": "All Star Tower Defense X Codes",
       "displayType": "steps",
-      "intro": "Redeem active All Star Tower Defense X codes for Gems, Trait Burners, Bounded Cubes, Stat Dice, and extra progression resources before you summon or reroll.",
+      "intro": "Redeem active codes for Gems, Trait Burners, Bounded Cubes, Stat Dice, and extra progression resources before you summon or reroll.",
       "steps": [
         {
-          "title": "All Star Tower Defense X Code: LIMITEDTIMECODEX",
+          "title": "Code: LIMITEDTIMECODEX",
           "description": "Reward bundle: 2,500 Gems, 85 Trait Burners, and 20 Bounded Cubes. Best for high-value summons and trait rerolls."
         },
         {
-          "title": "All Star Tower Defense X Code: THANKYOUFORPLAYINGLOVE",
+          "title": "Code: THANKYOUFORPLAYINGLOVE",
           "description": "Reward bundle: 2,500 Gems, 85 Trait Burners, and 20 Bounded Cubes. Best for summon and reroll preparation."
         },
         {
-          "title": "All Star Tower Defense X Code: UPDATE9",
+          "title": "Code: UPDATE9",
           "description": "Reward bundle: 2,500 Gems, 85 Trait Burners, and 20 Bounded Cubes. Best for update-week progression."
         },
         {
-          "title": "All Star Tower Defense X Code: SPRINGOWEENRELEASED",
+          "title": "Code: SPRINGOWEENRELEASED",
           "description": "Reward bundle: 2,500 Gems, 85 Trait Burners, and 20 Bounded Cubes. Best for event-cycle resource stock."
         },
         {
-          "title": "All Star Tower Defense X Code: NEWUPDATESTUFF",
+          "title": "Code: NEWUPDATESTUFF",
           "description": "Reward bundle: 1,500 Gems, 50 Trait Burners, and 20 Bounded Cubes. Best for extra summon sessions."
         },
         {
-          "title": "All Star Tower Defense X Code: SORRY4BREAK",
+          "title": "Code: SORRY4BREAK",
           "description": "Reward bundle: 2,000 Gems, 150 Trait Burners, and 50 Bounded Cubes. Best for aggressive trait rerolling."
         },
         {
-          "title": "All Star Tower Defense X Code: UPDATE7ORISIT8",
+          "title": "Code: UPDATE7ORISIT8",
           "description": "Reward bundle: 2,000 Gems, 100 Trait Burners, and 40 Bounded Cubes. Best for roster rebuilding."
         },
         {
-          "title": "All Star Tower Defense X Code: THANKYOUFOR570KLIKES",
+          "title": "Code: THANKYOUFOR570KLIKES",
           "description": "Reward bundle: 3,000 Gems, 40 Trait Burners, 20 Stat Dice, 3 Bounded Cubes, and 1 Roka Fruit. Requirement: level 8+."
         }
       ],
       "quickTips": [
-        "Open All Star Tower Defense X, tap the bird icon, paste the code, and press Redeem.",
+        "Open the game, tap the bird icon, paste the code, and press Redeem.",
         "Redeem all active codes before pulling on banners so pity and resources line up.",
         "If a code fails, check spelling and level requirements, then retry in a new lobby.",
         "Use large bundles first when you plan to summon and reroll in the same session."
@@ -199,63 +199,63 @@
     "lucidBlocksApotheosisCrafting": {
       "title": "All Star Tower Defense X Tier List",
       "displayType": "cards",
-      "intro": "All Star Tower Defense X tier rankings are grouped by placement role and mode utility so you can invest in units that hold value across Story, Infinite, and Trials.",
+      "intro": "These tier rankings are grouped by placement role and mode utility so you can invest in units that hold value across Story, Infinite, and Trials.",
       "cards": [
         {
-          "name": "All Star Tower Defense X All Star Tier",
+          "name": "All Star Tier",
           "description": "Highest overall value picks: Kosuke (Eternal), Zaruto (Beast Cloak II), Crow, Flaming Tiger, Enraged-Swordman, and Frost Moon."
         },
         {
-          "name": "All Star Tower Defense X Meta Overall Tier",
+          "name": "Meta Overall Tier",
           "description": "Strong universal units for multi-mode progression: Maniac, Blood Queen, Tomi, Meduka, Paper Beauty, Shirtless Devil, and Etri."
         },
         {
-          "name": "All Star Tower Defense X Early Game Tier",
+          "name": "Early Game Tier",
           "description": "Fast-start units that stabilize early clears: Shirtless Devil, Zaruto (Beast Cloak II), Crow, Frost Moon, and Maniac."
         },
         {
-          "name": "All Star Tower Defense X Support Tier",
+          "name": "Support Tier",
           "description": "Core support and economy value: Bellma (Money Corp), Ramen Grill-Master, Toad Sage, Paper Beauty, and Star Boy."
         }
       ],
       "milestones": [
-        "All Star Tower Defense X Meta Hybrid and Ground picks for lane coverage",
-        "All Star Tower Defense X Meta Hill picks for elevation-heavy maps",
-        "All Star Tower Defense X Sub Meta picks for flexible roster fill-ins"
+        "Meta Hybrid and Ground picks for lane coverage",
+        "Meta Hill picks for elevation-heavy maps",
+        "Sub Meta picks for flexible roster fill-ins"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
       "title": "All Star Tower Defense X Units",
       "displayType": "itemCards",
-      "intro": "Use this All Star Tower Defense X unit database summary to filter by rarity, release group, and upgrade priority before building your core team.",
+      "intro": "Use this unit database summary to filter by rarity, release group, and upgrade priority before building your core team.",
       "items": [
         {
-          "name": "All Star Tower Defense X New Primal Units",
+          "name": "New Primal Units",
           "type": "Primal",
           "description": "Latest primal additions include Zaruto (Beast Cloak II) for high-tier damage scaling."
         },
         {
-          "name": "All Star Tower Defense X New Unbound Units",
+          "name": "New Unbound Units",
           "type": "Unbound",
           "description": "Recent unbound additions include Crow for elite progression rosters."
         },
         {
-          "name": "All Star Tower Defense X New 5 Star Units",
+          "name": "New 5 Star Units",
           "type": "5 Star",
           "description": "Recent 5 Star additions include Bellma (Money Corp), Kosuke (Eternal), Paper Beauty, and Snake Assistant."
         },
         {
-          "name": "All Star Tower Defense X Primal Units",
+          "name": "Primal Units",
           "type": "Primal",
           "description": "Core primal lineup currently includes Flaming Tiger and Zaruto (Beast Cloak II)."
         },
         {
-          "name": "All Star Tower Defense X Unbound Units",
+          "name": "Unbound Units",
           "type": "Unbound",
           "description": "Unbound pool includes Crow, Etri, Michishibo, Supreme Leader, Spider Boss, and Magma Marine."
         },
         {
-          "name": "All Star Tower Defense X Exclusive and Team-Up Units",
+          "name": "Exclusive and Team-Up Units",
           "type": "Exclusive / Team-Up",
           "description": "Exclusive picks include Frost Moon, Flower Trainer, and Patternine, with multiple Team-Up combinations for synergy builds."
         }
@@ -264,31 +264,31 @@
     "lucidBlocksStorageAndInventory": {
       "title": "All Star Tower Defense X Beginner Guide",
       "displayType": "solutionCards",
-      "intro": "Follow this All Star Tower Defense X beginner flow to start with free resources, build a summon-ready roster, and progress through Story and farming modes efficiently.",
+      "intro": "Follow this beginner flow to start with free resources, build a summon-ready roster, and progress through Story and farming modes efficiently.",
       "solutions": [
         {
-          "name": "All Star Tower Defense X Step 1: Enter the Official Roblox Experience",
+          "name": "Step 1: Enter the Official Roblox Experience",
           "role": "Starter Step",
-          "description": "Start inside All Star Tower Defense X and learn placement, upgrades, and wave pacing before spending premium resources."
+          "description": "Start inside the game and learn placement, upgrades, and wave pacing before spending premium resources."
         },
         {
-          "name": "All Star Tower Defense X Step 2: Redeem Codes Before Summoning",
+          "name": "Step 2: Redeem Codes Before Summoning",
           "role": "Resource Setup",
           "description": "Claim active codes first so your first banner cycle has enough Gems, Trait Burners, and Stat Dice."
         },
         {
-          "name": "All Star Tower Defense X Step 3: Summon and Build Core Slots",
+          "name": "Step 3: Summon and Build Core Slots",
           "role": "Roster Build",
           "description": "Use banner refresh windows and pity progress to secure dependable 5 Star and support options early."
         },
         {
-          "name": "All Star Tower Defense X Step 4: Push Story Mode and Farm",
+          "name": "Step 4: Push Story Mode and Farm",
           "role": "Progression Loop",
           "description": "Use Story clears for stable rewards, then expand into Infinite, Trials, and Portal farming routes."
         }
       ],
       "managementTips": [
-        "Track All Star Tower Defense X banner refresh timing before committing Gems.",
+        "Track banner refresh timing before committing Gems.",
         "Mix damage, support, and economy units instead of stacking one role.",
         "Use traits and hidden potential on your highest-value core units first.",
         "Keep one farming team and one push team for different mode goals."
@@ -297,54 +297,54 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "All Star Tower Defense X Summon Banner",
       "displayType": "cards",
-      "intro": "Summoning is the main way to obtain most units in All Star Tower Defense X. Use Banner X and Banner Y timing, rates, and pity math to plan every Gem session.",
+      "intro": "Summoning is the main way to obtain most units in the game. Use Banner X and Banner Y timing, rates, and pity math to plan every Gem session.",
       "cards": [
         {
-          "name": "All Star Tower Defense X Banner Refresh Schedule",
+          "name": "Banner Refresh Schedule",
           "description": "Banner X refreshes at XX:00 and Banner Y refreshes at XX:30 every hour, giving two pull windows each cycle."
         },
         {
-          "name": "All Star Tower Defense X Banner Rates",
+          "name": "Banner Rates",
           "description": "Visible pool uses 1 Five-Star (1%), 2 Four-Stars (8%), and 3 Three-Stars (27%), while Unbound remains a hidden 0.01% chase."
         },
         {
-          "name": "All Star Tower Defense X Summon Costs",
+          "name": "Summon Costs",
           "description": "Single summons cost 50 Gems, while 10x costs 450 Gems and lowers full 5-Star pity to 4,500 Gems."
         },
         {
-          "name": "All Star Tower Defense X Pity and Unbound Targets",
+          "name": "Pity and Unbound Targets",
           "description": "5-Star pity triggers at 100 summons and Unbound pity at 2,000 summons, with Spider Boss on Banner X and Michishibo on Banner Y."
         }
       ],
       "highlights": [
-        "Check All Star Tower Defense X Banner X and Banner Y before every summon session",
-        "Treat All Star Tower Defense X Unbound pulls as long-term pity goals, not short-term odds",
-        "Use All Star Tower Defense X 10x summons to save Gems during full pity cycles",
-        "Match All Star Tower Defense X featured units to your current team gaps before spending"
+        "Check Banner X and Banner Y before every summon session",
+        "Treat Unbound pulls as long-term pity goals, not short-term odds",
+        "Use 10x summons to save Gems during full pity cycles",
+        "Match featured units to your current team gaps before spending"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "All Star Tower Defense X Traits",
       "displayType": "regionCards",
-      "intro": "Traits can change a unit role in All Star Tower Defense X by improving damage, range, speed, economy, durability, placement count, and special effects.",
+      "intro": "Traits can change a unit role by improving damage, range, speed, economy, durability, placement count, and special effects.",
       "regions": [
         {
-          "name": "All Star Tower Defense X Core Damage Traits",
+          "name": "Core Damage Traits",
           "type": "Carry Priority",
           "description": "Zenkai, Dexterity, Sharpshooter, and Tempest improve carry output and are strong keeps when your DPS units already have stable placement and uptime."
         },
         {
-          "name": "All Star Tower Defense X Utility and Economy Traits",
+          "name": "Utility and Economy Traits",
           "type": "Support Value",
           "description": "Midas, Companion, Tank, and Perception improve farming consistency, placement flexibility, or frontline stability for long maps."
         },
         {
-          "name": "All Star Tower Defense X Rare Trait Pity",
+          "name": "Rare Trait Pity",
           "type": "High-End Rerolls",
           "description": "Bloodlust (500 pity), Corrupted (450 pity), Genesis (650 pity), and All Star (1000 pity) are build-defining outcomes worth planned reroll budgets."
         },
         {
-          "name": "All Star Tower Defense X Reroll Order",
+          "name": "Reroll Order",
           "type": "Upgrade Route",
           "description": "Reroll your main carry first, then shield-break or support units, and avoid burning Trait Burners on temporary roster slots."
         }
@@ -353,30 +353,30 @@
     "lucidBlocksCreaturesAndEnemies": {
       "title": "All Star Tower Defense X Gems Guide",
       "displayType": "creatureCards",
-      "intro": "Gems are the core summon currency in All Star Tower Defense X. Start with one-time rewards, then move into repeatable Story, Infinite, and Portal farming loops.",
+      "intro": "Gems are the core summon currency in the game. Start with one-time rewards, then move into repeatable Story, Infinite, and Portal farming loops.",
       "creatures": [
         {
-          "name": "All Star Tower Defense X Code Redemption Route",
+          "name": "Code Redemption Route",
           "role": "Immediate Gems",
           "description": "Codes like THANKYOUFOR570KLIKES, DELAYYY5, and SORRY4BREAK give fast Gems plus Trait Burners, Stat Dice, and Bounded Cubes."
         },
         {
-          "name": "All Star Tower Defense X Story Casual and Hard Clears",
+          "name": "Story Casual and Hard Clears",
           "role": "First-Clear Income",
           "description": "Casual first clears give 60 Gems per Arc and Hard first clears give 70, while both routes unlock stronger maps and better farm options."
         },
         {
-          "name": "All Star Tower Defense X Infinite Wave Milestones",
+          "name": "Infinite Wave Milestones",
           "role": "Repeatable Farming",
           "description": "Infinite Gem rewards scale by wave checkpoints, from around 14-15 at wave 10 up to about 99 by wave 50 for stable repeat income."
         },
         {
-          "name": "All Star Tower Defense X Classic and Void Bag Value",
+          "name": "Classic and Void Bag Value",
           "role": "Resource Efficiency",
           "description": "Classic Infinite improves Gem efficiency for strong base teams, and Void Bags add Trait Burners, Stat Dice, Bounded Cubes, and Summon Tickets."
         },
         {
-          "name": "All Star Tower Defense X Portal and Pity Planning",
+          "name": "Portal and Pity Planning",
           "role": "Late-Game Route",
           "description": "Portals cost 250 Gems and can return 235 Gems per clear plus special drops, so combine portal runs with 10x summon pity planning."
         }
@@ -385,46 +385,46 @@
     "lucidBlocksMobilityGear": {
       "title": "All Star Tower Defense X Story Mode",
       "displayType": "itemCards",
-      "intro": "Story Mode is the core progression route in All Star Tower Defense X. Each area has 6 Arcs with 15 waves, boss pressure, and first-clear rewards.",
+      "intro": "Story Mode is the core progression route in the game. Each area has 6 Arcs with 15 waves, boss pressure, and first-clear rewards.",
       "items": [
         {
-          "name": "All Star Tower Defense X Story System Overview",
+          "name": "Story System Overview",
           "type": "Mode Structure",
           "description": "Each Story area has 6 Arcs with 15 waves each, and Arc clears unlock the next area plus Endless access for that region."
         },
         {
-          "name": "All Star Tower Defense X Innovation to Voldstandig",
+          "name": "Innovation to Voldstandig",
           "type": "Early Route",
           "description": "Innovation Island (Blue, weak to Green) and City of Voldstandig (Purple, weak to Orange) establish early progression and elemental planning."
         },
         {
-          "name": "All Star Tower Defense X Future City and Hidden Storm",
+          "name": "Future City and Hidden Storm",
           "type": "Mid Route",
           "description": "Future City (Orange, weak to Red) and Hidden Storm Village (Green, weak to Purple) add harder boss mechanics and tighter team checks."
         },
         {
-          "name": "All Star Tower Defense X Giant Island and City of York",
+          "name": "Giant Island and City of York",
           "type": "Late Route",
           "description": "Giant Island (Red, weak to Blue) and City of York (Green, weak to Purple) demand burst damage for complex boss behavior and final-wave pressure."
         },
         {
-          "name": "All Star Tower Defense X Story Reward Planning",
+          "name": "Story Reward Planning",
           "type": "Reward Path",
           "description": "Casual and Hard clears provide Gems, Gold, food, map drops, and mount or VFX rewards, so route clears by both progression and farm value."
         }
       ],
       "unlockMilestones": [
-        "All Star Tower Defense X Story Arc first-clear Gem routing",
-        "All Star Tower Defense X Casual-to-Hard transition timing",
-        "All Star Tower Defense X element counter team preparation",
-        "All Star Tower Defense X Arc 6 boss mechanic planning"
+        "Story Arc first-clear Gem routing",
+        "Casual-to-Hard transition timing",
+        "Element counter team preparation",
+        "Arc 6 boss mechanic planning"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
       "title": "All Star Tower Defense X Infinite Mode Wave Rewards and HP Scaling",
       "displayType": "table",
-      "subtitle": "Track All Star Tower Defense X Infinite Mode milestones, enemy HP spikes, multiplayer scaling, and Gem reward checkpoints to decide when to reset.",
-      "intro": "In All Star Tower Defense X, Infinite Mode sends endless enemy waves until base HP is depleted. Regular mode keeps Traits, Hidden Potential, and stats active, while Classic disables those bonuses for a slight Gem-gain increase. Enemy HP scales by player count at +0.9x HP per extra player, so 2P to 4P runs become much heavier than solo clears.",
+      "subtitle": "Track Infinite Mode milestones, enemy HP spikes, multiplayer scaling, and Gem reward checkpoints to decide when to reset.",
+      "intro": "Infinite Mode sends endless enemy waves until base HP is depleted. Regular mode keeps Traits, Hidden Potential, and stats active, while Classic disables those bonuses for a slight Gem-gain increase. Enemy HP scales by player count at +0.9x HP per extra player, so 2P to 4P runs become much heavier than solo clears.",
       "items": [
         {
           "wave": 1,
@@ -509,19 +509,19 @@
         }
       ],
       "highlights": [
-        "All Star Tower Defense X Void Bags can drop EXP items, Trait Burners, Stat Dice, Bounded Cubes, Summon Tickets, and Kujo.",
-        "All Star Tower Defense X Void Bag inventory cap is 199, so clear or open bags regularly during long sessions.",
-        "All Star Tower Defense X 2P to 4P scaling is steep, so choose wave targets by reward efficiency, not only max-wave ambition."
+        "Void Bags can drop EXP items, Trait Burners, Stat Dice, Bounded Cubes, Summon Tickets, and Kujo.",
+        "Void Bag inventory cap is 199, so clear or open bags regularly during long sessions.",
+        "2P to 4P scaling is steep, so choose wave targets by reward efficiency, not only max-wave ambition."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "All Star Tower Defense X Trials Rewards, Strategist Mode, Coins, and Clear Notes",
       "displayType": "accordion",
-      "subtitle": "Review All Star Tower Defense X Trials by level requirement, reward pool, element, coin drops, and boss mechanics across Regular and Strategist.",
-      "intro": "All Star Tower Defense X Trials unlock at level gates and reward Gold, Gems, trial-specific coins, materials, and unit drops. Regular clears usually have 5% unit chances, while Strategist usually has 25% unit chances and better coin drops, but removes unit Hidden Potential, Traits, and Stats.",
+      "subtitle": "Review Trials by level requirement, reward pool, element, coin drops, and boss mechanics across Regular and Strategist.",
+      "intro": "Trials unlock at level gates and reward Gold, Gems, trial-specific coins, materials, and unit drops. Regular clears usually have 5% unit chances, while Strategist usually has 25% unit chances and better coin drops, but removes unit Hidden Potential, Traits, and Stats.",
       "items": [
         {
-          "title": "All Star Tower Defense X In-Game Trial Cards",
+          "title": "In-Game Trial Cards",
           "meta": "System Rules",
           "summary": "Cards appear at the beginning of waves 4, 8, and 12 so players can trade safety for higher reward bonuses.",
           "details": [
@@ -532,7 +532,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial Shop and Trial Coins",
+          "title": "Trial Shop and Trial Coins",
           "meta": "Economy Route",
           "summary": "Trial Coins are spent at the Trial Shop beside the yellow Trials entrance, and each Trial uses a different coin type.",
           "details": [
@@ -543,7 +543,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial 1",
+          "title": "Trial 1",
           "meta": "Level 25+ • Blue Element",
           "summary": "Trial 1 rewards Etri progression and introduces stun-heavy pressure.",
           "regularRewards": "Etri (5%), Etri's Rapier (50%), 5-8 Etri Coins",
@@ -556,7 +556,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial 2",
+          "title": "Trial 2",
           "meta": "Level 35+ • Red Element",
           "summary": "Trial 2 mirrors Trial 1 reward structure but shifts to Magma Coin routing.",
           "regularRewards": "Magma Marine (5%), Spade Hat (50%), 5-8 Magma Coins",
@@ -569,7 +569,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial 3 - Arc 1",
+          "title": "Trial 3 - Arc 1",
           "meta": "Level 40+ • Orange Element",
           "summary": "Arc 1 is a timed pressure trial with heavy shield checks.",
           "regularRewards": "3-5 Supreme Coins",
@@ -582,7 +582,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial 3 - Arc 2",
+          "title": "Trial 3 - Arc 2",
           "meta": "Level 40+ • Three-Lane Map",
           "summary": "Arc 2 emphasizes lane distribution and boss control timing.",
           "regularRewards": "Supreme Leader (5%), Supreme Helmet (50%), 5-8 Supreme Coins",
@@ -595,7 +595,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial 3 - Arc 3",
+          "title": "Trial 3 - Arc 3",
           "meta": "Level 40+ • Purple Element",
           "summary": "Arc 3 combines timed routing with double-boss wave pressure.",
           "regularRewards": "Supreme Leader (5%), Freezer (20%), Freezer Mask (50%), 5-8 Supreme Coins",
@@ -608,7 +608,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial 4 - Arc 1",
+          "title": "Trial 4 - Arc 1",
           "meta": "Level 40+ • Neutral Element",
           "summary": "Neutral element means this trial favors stable DPS and control more than element counters.",
           "regularRewards": "Flaming Tiger (5%), Flame Cape (50%), 5-8 Flame Coins",
@@ -619,7 +619,7 @@
           ]
         },
         {
-          "title": "All Star Tower Defense X Trial 5 - Arc 1",
+          "title": "Trial 5 - Arc 1",
           "meta": "Level 40+ • Green Element",
           "summary": "Trial 5 is a key progression route for Crow and Limiter Switch targets.",
           "regularRewards": "Crow (5%), Assistant Glasses (50%), 5-8 Reanimation Coins, Limiter Switch (50%)",
@@ -634,47 +634,47 @@
     "lucidBlocksAchievementTracker": {
       "title": "All Star Tower Defense X Portals Guide from Tier 1 to Unbound",
       "displayType": "step-by-step",
-      "subtitle": "Follow the All Star Tower Defense X Portal route: buy a portal, clear tiers, manage lives, and push for Unbound special rewards.",
-      "intro": "All Star Tower Defense X Portals were introduced in Update 6 and are purchased from NPC Nakime near the Trials entrance. Each portal has 3 lives and disappears after three defeats. Portal runs use tier difficulty and modifiers, with the long-term route climbing from Tier 1 to Tier 5 and then chasing Unbound.",
+      "subtitle": "Follow the Portal route: buy a portal, clear tiers, manage lives, and push for Unbound special rewards.",
+      "intro": "Portals were introduced in Update 6 and are purchased from NPC Nakime near the Trials entrance. Each portal has 3 lives and disappears after three defeats. Portal runs use tier difficulty and modifiers, with the long-term route climbing from Tier 1 to Tier 5 and then chasing Unbound.",
       "steps": [
         {
           "step": 1,
-          "title": "All Star Tower Defense X Buy a Portal",
+          "title": "Buy a Portal",
           "action": "Purchase a portal from NPC Nakime near the Trials entrance.",
           "details": "Cost: 250 Gems.",
           "result": "You receive a portal with 3 lives."
         },
         {
           "step": 2,
-          "title": "All Star Tower Defense X Start at Tier 1",
+          "title": "Start at Tier 1",
           "action": "Begin with the lowest portal difficulty and build consistency.",
           "details": "Tier path: Tier 1 > Tier 2 > Tier 3 > Tier 4 > Tier 5 > Unbound.",
           "result": "Tier 1 is easiest, while Unbound is the highest challenge."
         },
         {
           "step": 3,
-          "title": "All Star Tower Defense X Clear with Modifiers",
+          "title": "Clear with Modifiers",
           "action": "Read active modifiers before locking your lineup.",
           "details": "Portal modifiers can buff or debuff elements similar to Challenges.",
           "result": "Element shifts can change which units are safest for each run."
         },
         {
           "step": 4,
-          "title": "All Star Tower Defense X Upgrade the Portal",
+          "title": "Upgrade the Portal",
           "action": "Complete a portal run to roll the next tier result.",
           "details": "Before Tier 5, clears have 90% chance to upgrade and 10% chance to stay same tier.",
           "result": "Most successful clears move upward until Tier 5."
         },
         {
           "step": 5,
-          "title": "All Star Tower Defense X Protect Your 3 Lives",
+          "title": "Protect Your 3 Lives",
           "action": "Avoid repeated failed attempts on the same portal.",
           "details": "Each portal has 3 lives and disappears after three defeats.",
           "result": "A failed streak forces a restart with a new purchased portal."
         },
         {
           "step": 6,
-          "title": "All Star Tower Defense X Farm Tier 5 for Unbound",
+          "title": "Farm Tier 5 for Unbound",
           "action": "Keep clearing Tier 5 portals after reaching Tier 5.",
           "details": "Tier 5 stays Tier 5 at 100%.",
           "extra": "Each Tier 5 clear has a 2% chance to grant an Unbound Portal.",
@@ -682,7 +682,7 @@
         },
         {
           "step": 7,
-          "title": "All Star Tower Defense X Claim Portal Rewards",
+          "title": "Claim Portal Rewards",
           "action": "Clear portals for base rewards and Unbound unit goals.",
           "details": "Base clear reward is 235 Gems and 25 Gold.",
           "extra": "Frost Moon Unbound Portal grants Frost Moon; Patternine Unbound Portal grants Patternine.",
@@ -693,8 +693,8 @@
     "lucidBlocksSingleplayerAndPlatformFAQ": {
       "title": "All Star Tower Defense X Elements Counters, Damage Multipliers, and Unit Examples",
       "displayType": "table",
-      "subtitle": "Use the All Star Tower Defense X element chart to pick counters before Story, Endless, Trials, and modifier-heavy Portal runs.",
-      "intro": "In All Star Tower Defense X, element advantage deals 2x damage while element disadvantage deals 0.25x damage. Matching elements, neutral enemies, no-element enemies, and unrelated element pairs use standard damage.",
+      "subtitle": "Use the element chart to pick counters before Story, Endless, Trials, and modifier-heavy Portal runs.",
+      "intro": "Element advantage deals 2x damage while element disadvantage deals 0.25x damage. Matching elements, neutral enemies, no-element enemies, and unrelated element pairs use standard damage.",
       "items": [
         {
           "element": "Blue",
@@ -822,99 +822,99 @@
     "lucidBlocksSteamDeckAndController": {
       "title": "All Star Tower Defense X Hidden Potential",
       "displayType": "accordion",
-      "intro": "All Star Tower Defense X Hidden Potential is an advanced growth system for 5-Star and Unbound units. Use it to lock one build tree, spend Skill Orbs and duplicate nodes, and push long-term stat scaling beyond base upgrades.",
+      "intro": "Hidden Potential is an advanced growth system for 5-Star and Unbound units. Use it to lock one build tree, spend Skill Orbs and duplicate nodes, and push long-term stat scaling beyond base upgrades.",
       "faqs": [
         {
-          "question": "How do I access All Star Tower Defense X Hidden Potential?",
-          "answer": "All Star Tower Defense X Hidden Potential is available for 5-Star and Unbound units. Open it from the Guru in the Grand Elder Building or from the three-dot menu on the unit display."
+          "question": "How do I access Hidden Potential?",
+          "answer": "Hidden Potential is available for 5-Star and Unbound units. Open it from the Guru in the Grand Elder Building or from the three-dot menu on the unit display."
         },
         {
-          "question": "What is the All Star Tower Defense X Hidden Potential tree choice rule?",
-          "answer": "Each All Star Tower Defense X unit can commit to only one tree: Power, Range, or Speed. Once you invest in one tree, the other two trees are locked for that unit."
+          "question": "What is the Hidden Potential tree choice rule?",
+          "answer": "Each unit can commit to only one tree: Power, Range, or Speed. Once you invest in one tree, the other two trees are locked for that unit."
         },
         {
-          "question": "What does the All Star Tower Defense X Power Tree provide?",
-          "answer": "The All Star Tower Defense X Power Tree gives +15% damage, +5% range, and -5% speed. It includes Critical, Marker, Element Boost, and Disruption, and uses Skill Orb I and Skill Orb II costs for progression."
+          "question": "What does the Power Tree provide?",
+          "answer": "The Power Tree gives +15% damage, +5% range, and -5% speed. It includes Critical, Marker, Element Boost, and Disruption, and uses Skill Orb I and Skill Orb II costs for progression."
         },
         {
-          "question": "What does the All Star Tower Defense X Range Tree provide?",
-          "answer": "The All Star Tower Defense X Range Tree gives +5% damage, +12.5% range, and -5% speed. Its skills include Assassin, Overload, Ricochet, and Surge for map coverage and multi-target pressure."
+          "question": "What does the Range Tree provide?",
+          "answer": "The Range Tree gives +5% damage, +12.5% range, and -5% speed. Its skills include Assassin, Overload, Ricochet, and Surge for map coverage and multi-target pressure."
         },
         {
-          "question": "What does the All Star Tower Defense X Speed Tree provide?",
-          "answer": "The All Star Tower Defense X Speed Tree gives +5% damage, +5% range, and -10% speed. It adds Additional, Dodge, Employment, and Element Resist for tempo, utility, and team economy value."
+          "question": "What does the Speed Tree provide?",
+          "answer": "The Speed Tree gives +5% damage, +5% range, and -10% speed. It adds Additional, Dodge, Employment, and Element Resist for tempo, utility, and team economy value."
         },
         {
-          "question": "How is All Star Tower Defense X Hidden Potential different from traits?",
-          "answer": "All Star Tower Defense X traits are roll-based modifiers that consume Trait Burners, while Hidden Potential is a permanent tree investment using Skill Orbs and dupe nodes. Both systems stack for final unit performance."
+          "question": "How is Hidden Potential different from traits?",
+          "answer": "Traits are roll-based modifiers that consume Trait Burners, while Hidden Potential is a permanent tree investment using Skill Orbs and dupe nodes. Both systems stack for final unit performance."
         },
         {
-          "question": "Which reset items are used in All Star Tower Defense X Hidden Potential?",
-          "answer": "All Star Tower Defense X Roka Fruit resets broad Hidden Potential progress, while Doma Fruit resets special nodes only. Use reset items when a tree no longer fits your roster role."
+          "question": "Which reset items are used in Hidden Potential?",
+          "answer": "Roka Fruit resets broad Hidden Potential progress, while Doma Fruit resets special nodes only. Use reset items when a tree no longer fits your roster role."
         },
         {
-          "question": "Which All Star Tower Defense X units should get Hidden Potential first?",
-          "answer": "Prioritize All Star Tower Defense X Hidden Potential on your primary carry and your most-used support unit, then expand into secondary units after your core team is stable."
+          "question": "Which units should get Hidden Potential first?",
+          "answer": "Prioritize Hidden Potential on your primary carry and your most-used support unit, then expand into secondary units after your core team is stable."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "All Star Tower Defense X Items",
       "displayType": "settingCards",
-      "intro": "All Star Tower Defense X item routing spans NPC materials, Story drops, Trial rewards, Dungeon currency, Challenge resources, XP food, boosters, and accessories. Use this module as a compact item database for usage and farming decisions.",
+      "intro": "Item routing spans NPC materials, Story drops, Trial rewards, Dungeon currency, Challenge resources, XP food, boosters, and accessories. Use this module as a compact item database for usage and farming decisions.",
       "settings": [
         {
-          "name": "All Star Tower Defense X NPC Materials",
+          "name": "NPC Materials",
           "type": "Evolution Path",
           "description": "Items like Omni Sword Gear, Quake Fruit, Borul's Necklace, and Jin Dagger are used for evolution and ascension, and are obtained from NPC quests in the main lobby."
         },
         {
-          "name": "All Star Tower Defense X Story Items",
+          "name": "Story Items",
           "type": "Story Progression",
           "description": "Hover Boot, Q Officer Hat, Z Ball, Ninja Headband, Survey Cloak, Scarlet Eye, and Beast Sphere come from Story missions and support progression materials."
         },
         {
-          "name": "All Star Tower Defense X Hard Story Drops",
+          "name": "Hard Story Drops",
           "type": "High Difficulty",
           "description": "Mimic Juice, Sword Of Ikki, Kai Sword, Ninja Shuriken, Survey Spear, and Slayer Earring come from hard-difficulty Story routes for stronger progression requirements."
         },
         {
-          "name": "All Star Tower Defense X Portal Items",
+          "name": "Portal Items",
           "type": "Portal Rewards",
           "description": "Portal-exclusive rewards such as Frost Moon's Hat are tied to specific portal clears, with listed drop rates and late-game farming value."
         },
         {
-          "name": "All Star Tower Defense X Trial Items",
+          "name": "Trial Items",
           "type": "Trial Rewards",
           "description": "Etri's Rapier, Spade's Hat, Supreme Helmet, Freezer Mask, and Flame Cape come from Trial routes, with regular and Strategist reward differences."
         },
         {
-          "name": "All Star Tower Defense X Trial Shop",
+          "name": "Trial Shop",
           "type": "Coin Economy",
           "description": "Trial Coins are spent on Star Scrolls, Roka Fruit, Doma Fruit, Luck Booster, Trait Burner, Stat Dice, Bounded Cube, and Summon Ticket at the Trial Shop."
         },
         {
-          "name": "All Star Tower Defense X Dungeon Items",
+          "name": "Dungeon Items",
           "type": "Dungeon Currency",
           "description": "Dungeon Coin, Dungeon Loot, Water Essence, and Maso Essence support dungeon shop purchases, reward rolls, and ascension material planning."
         },
         {
-          "name": "All Star Tower Defense X Challenge Items",
+          "name": "Challenge Items",
           "type": "Hidden Potential Resources",
           "description": "Skill Orb I and II, Ghost rewards, Demon Fruit, and map-specific materials are challenge-sourced resources for Hidden Potential, evolution, and ascension."
         },
         {
-          "name": "All Star Tower Defense X XP and Food Items",
+          "name": "XP and Food Items",
           "type": "Unit Leveling",
           "description": "EXP tiers and food items such as Meat Stick, Sweet Bun, Rice Bowl, and Hearty Ramen are used to feed units and accelerate roster leveling."
         },
         {
-          "name": "All Star Tower Defense X Bags, Capsules, and Boosts",
+          "name": "Bags, Capsules, and Boosts",
           "type": "Reward Pools",
           "description": "Void Bag, Skill Orb Bag, Basic Capsule, Premium Capsule, Luck Booster, and shiny boosters come from Infinite, weekly quests, shops, and market routes."
         },
         {
-          "name": "All Star Tower Defense X Unit Accessories",
+          "name": "Unit Accessories",
           "type": "Cosmetic Gear",
           "description": "Challenge Crown and Winged Halo are equippable accessories obtained from daily event placements and Royal Drop reward pools."
         }
@@ -923,65 +923,65 @@
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "All Star Tower Defense X Updates",
       "displayType": "timeline",
-      "intro": "Track All Star Tower Defense X new units, release systems, Trials snapshots, and official play links so your team planning stays aligned with the latest content cycle.",
+      "intro": "Track new units, release systems, Trials snapshots, and official play links so your team planning stays aligned with the latest content cycle.",
       "entries": [
         {
-          "title": "All Star Tower Defense X New Primal Unit: Zaruto (Beast Cloak II)",
+          "title": "New Primal Unit: Zaruto (Beast Cloak II)",
           "type": "New Units",
           "description": "The update feed lists Zaruto (Beast Cloak II) as a new Primal unit and a high-priority build candidate for late-game rosters."
         },
         {
-          "title": "All Star Tower Defense X New Unbound Unit: Crow",
+          "title": "New Unbound Unit: Crow",
           "type": "New Units",
           "description": "Crow is listed as a new Unbound unit and is a key watch target for advanced progression teams."
         },
         {
-          "title": "All Star Tower Defense X New 5-Star Unit Group",
+          "title": "New 5-Star Unit Group",
           "type": "New Units",
           "description": "Bellma (Money Corp), Boulder Li (TS), Kosuke (Eternal), Paper Beauty, Snake Assistant, Toad Sage, and Yellow Boat are listed in the new 5-Star group."
         },
         {
-          "title": "All Star Tower Defense X New 4-Star Unit Group",
+          "title": "New 4-Star Unit Group",
           "type": "New Units",
           "description": "Boulder Li and The Assistant are listed in the new 4-Star group for early and mid-game collection planning."
         },
         {
-          "title": "All Star Tower Defense X Release Mechanics Hub",
+          "title": "Release Mechanics Hub",
           "type": "Game Systems",
           "description": "The release hub maps core areas such as Lobby, Summons, Ancient Temple, Story, Infinite, Challenges, Trials, and AFK zones."
         },
         {
-          "title": "All Star Tower Defense X Trials Snapshot",
+          "title": "Trials Snapshot",
           "type": "Trials",
           "description": "Early Trials highlight Trial 1 Etri routing at level 25 and Trial 2 Magma routing at level 35 with coin and unit progression notes."
         },
         {
-          "title": "All Star Tower Defense X Main Screen Systems",
+          "title": "Main Screen Systems",
           "type": "Interface",
           "description": "Main-screen systems include Units, Royal Drop, Arena, and Updates, helping players route management and progression menus faster."
         },
         {
-          "title": "All Star Tower Defense X Official Roblox Game Page",
+          "title": "Official Roblox Game Page",
           "type": "Official Game",
-          "description": "Use the Roblox game page as the primary play destination and live listing reference for All Star Tower Defense X."
+          "description": "Use the Roblox game page as the primary play destination and live listing reference for the game."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "All Star Tower Defense X Official Links",
       "displayType": "steps",
-      "intro": "Use these All Star Tower Defense X official links to jump directly into the game, community announcements, and the main ASTDX wiki navigation hub.",
+      "intro": "Use these official links to jump directly into the game, community announcements, and the main ASTDX wiki navigation hub.",
       "steps": [
         {
-          "title": "All Star Tower Defense X Official Roblox Game Page",
+          "title": "Official Roblox Game Page",
           "description": "Primary play entry: https://www.roblox.com/games/17687504411/All-Star-Tower-Defense-X"
         },
         {
-          "title": "All Star Tower Defense X Official Discord",
+          "title": "Official Discord",
           "description": "Main community and announcements: https://discord.com/invite/allstar"
         },
         {
-          "title": "All Star Tower Defense X ASTDX Wiki Home",
+          "title": "ASTDX Wiki Home",
           "description": "Wiki navigation hub: https://astdx.fandom.com/wiki/All_Star_Tower_Defense_X_Wiki"
         }
       ]
@@ -994,39 +994,39 @@
     "questions": [
       {
         "question": "How do I redeem codes in All Star Tower Defense X?",
-        "answer": "In All Star Tower Defense X, open the game lobby, tap the bird icon, paste an active code, and press Redeem to claim rewards."
+        "answer": "Open the game lobby, tap the bird icon, paste an active code, and press Redeem to claim rewards."
       },
       {
         "question": "What is the best beginner route in All Star Tower Defense X?",
-        "answer": "For All Star Tower Defense X, redeem codes first, summon around banner timing, then clear Story Mode for stable progression rewards."
+        "answer": "Redeem codes first, summon around banner timing, then clear Story Mode for stable progression rewards."
       },
       {
-        "question": "How does pity work in All Star Tower Defense X summons?",
-        "answer": "All Star Tower Defense X summon pity guarantees a 5 Star after 100 pulls, and Unbound pity is tracked toward 2,000 pulls."
+        "question": "How does summon pity work?",
+        "answer": "Summon pity guarantees a 5 Star after 100 pulls, and Unbound pity is tracked toward 2,000 pulls."
       },
       {
-        "question": "Which resources matter most in All Star Tower Defense X?",
-        "answer": "The most important All Star Tower Defense X resources are Gems for summons, Trait Burners for rerolls, and upgrade materials for core units."
+        "question": "Which resources matter most?",
+        "answer": "The most important resources are Gems for summons, Trait Burners for rerolls, and upgrade materials for core units."
       },
       {
-        "question": "Which modes should I farm after Story Mode in All Star Tower Defense X?",
-        "answer": "After Story in All Star Tower Defense X, focus on Infinite, Trials, and Portals based on your current roster strength and reward targets."
+        "question": "Which modes should I farm after Story Mode?",
+        "answer": "After Story Mode, focus on Infinite, Trials, and Portals based on your current roster strength and reward targets."
       },
       {
-        "question": "How should I spend upgrades in All Star Tower Defense X?",
-        "answer": "In All Star Tower Defense X, prioritize one carry plus key support units, then invest traits and hidden potential into those core picks."
+        "question": "How should I spend upgrades?",
+        "answer": "Prioritize one carry plus key support units, then invest traits and hidden potential into those core picks."
       }
     ]
   },
   "cta": {
-    "title": "Join the All Star Tower Defense X Community",
-    "description": "Follow official channels for updates, reward codes, and banner announcements for All Star Tower Defense X.",
-    "joinCommunity": "Join All Star Tower Defense X Discord",
-    "joinGame": "Open All Star Tower Defense X on Roblox"
+    "title": "Join the Community",
+    "description": "Follow official channels for updates, reward codes, and banner announcements.",
+    "joinCommunity": "Join Discord",
+    "joinGame": "Open on Roblox"
   },
   "footer": {
     "title": "All Star Tower Defense X Wiki",
-    "description": "Your community hub for All Star Tower Defense X codes, tier lists, units, traits, banners, and mode guides.",
+    "description": "Your community hub for codes, tier lists, units, traits, banners, and mode guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
