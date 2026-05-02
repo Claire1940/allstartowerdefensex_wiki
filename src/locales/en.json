@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Anime Tower Defense Roblox Experience",
+    "title": "All Star Tower Defense X Wiki",
+    "description": "Track All Star Tower Defense X codes, units, tier lists, traits, banners, NPCs, and game modes for Roblox players who want faster upgrades and stronger teams.",
+    "getFreeCodesCTA": "Play All Star Tower Defense X on Roblox",
+    "playOnRobloxCTA": "Join All Star Tower Defense X Discord",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "940.7M+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "373K+",
+        "label": "Favorites"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "475",
+        "label": "Active Players"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "600K",
+        "label": "Next Code Goal"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Join the All Star Tower Defense X Community",
+    "description": "Follow official channels for updates, codes, and announcements for All Star Tower Defense X.",
+    "joinCommunity": "Join All Star Tower Defense X Discord",
+    "joinGame": "Open All Star Tower Defense X on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "All Star Tower Defense X Wiki",
+    "description": "Your community hub for All Star Tower Defense X codes, units, traits, banners, and mode guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "reddit": "Reddit",
+    "youtube": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 All Star Tower Defense X Wiki. Not affiliated with Roblox or Top Down Games.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

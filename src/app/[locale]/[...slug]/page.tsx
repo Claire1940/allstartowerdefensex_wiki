@@ -218,7 +218,8 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale, slug } = await params
   const contentType = slug[0]
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.allstartowerdefensex.wiki'
+  const wikiName = 'All Star Tower Defense X Wiki'
 
   if (!isValidContentType(contentType)) {
     return { title: 'Not Found' }
@@ -239,56 +240,39 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       }
     }
 
-    // 列表页元数据
-    const t = await getTranslations(`pages.${contentType}`)
+    const listLabel = contentType.charAt(0).toUpperCase() + contentType.slice(1)
+    const title = `${listLabel} - ${wikiName}`
+    const description = `Browse ${listLabel.toLowerCase()} content for ${wikiName}, including practical guides and updates.`
+    const path = `/${contentType}`
 
-    try {
-      const title = t('metaTitle')
-      const description = t('metaDescription')
-      const path = `/${contentType}`
-
-      return {
+    return {
+      title,
+      description,
+      alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
+      openGraph: {
+        type: 'website',
         title,
         description,
-        alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
-        openGraph: {
-          title,
-          description,
-          url: `${siteUrl}${locale === 'en' ? path : `/${locale}${path}`}`,
-        },
-        robots: {
+        url: `${siteUrl}${locale === 'en' ? path : `/${locale}${path}`}`,
+        images: [`${siteUrl}/images/hero.webp`],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: [`${siteUrl}/images/hero.webp`],
+      },
+      robots: {
+        index: true,
+        follow: true,
+        googleBot: {
           index: true,
           follow: true,
-          googleBot: {
-            index: true,
-            follow: true,
-            'max-video-preview': -1,
-            'max-image-preview': 'large',
-            'max-snippet': -1,
-          },
+          'max-video-preview': -1,
+          'max-image-preview': 'large',
+          'max-snippet': -1,
         },
-      }
-    } catch {
-      // 如果翻译不存在，使用默认值
-      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} - Lucid Blocks Wiki`
-      const path = `/${contentType}`
-
-      return {
-        title: defaultTitle,
-        description: `Browse all ${contentType} content for Lucid Blocks Wiki`,
-        alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
-        robots: {
-          index: true,
-          follow: true,
-          googleBot: {
-            index: true,
-            follow: true,
-            'max-video-preview': -1,
-            'max-image-preview': 'large',
-            'max-snippet': -1,
-          },
-        },
-      }
+      },
     }
   } else {
     // 详情页元数据（从 MDX import 获取）
@@ -304,16 +288,24 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       )
 
       const fullPath = `/${slug.join('/')}`
+      const pageTitle = `${metadata.title} - ${wikiName}`
 
       return {
-        title: `${metadata.title} - Lucid Blocks Wiki`,
+        title: pageTitle,
         description: metadata.description,
         alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
         openGraph: {
-          title: metadata.title,
+          type: 'article',
+          title: pageTitle,
           description: metadata.description,
-          images: metadata.image ? [metadata.image] : [],
+          images: metadata.image ? [metadata.image] : [`${siteUrl}/images/hero.webp`],
           url: `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`,
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: pageTitle,
+          description: metadata.description,
+          images: metadata.image ? [metadata.image] : [`${siteUrl}/images/hero.webp`],
         },
         robots: {
           index: true,
@@ -339,16 +331,24 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
           )
 
           const fullPath = `/${slug.join('/')}`
+          const pageTitle = `${metadata.title} - ${wikiName}`
 
           return {
-            title: `${metadata.title} - Lucid Blocks Wiki`,
+            title: pageTitle,
             description: metadata.description,
             alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
             openGraph: {
-              title: metadata.title,
+              type: 'article',
+              title: pageTitle,
               description: metadata.description,
-              images: metadata.image ? [metadata.image] : [],
+              images: metadata.image ? [metadata.image] : [`${siteUrl}/images/hero.webp`],
               url: `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`,
+            },
+            twitter: {
+              card: 'summary_large_image',
+              title: pageTitle,
+              description: metadata.description,
+              images: metadata.image ? [metadata.image] : [`${siteUrl}/images/hero.webp`],
             },
             robots: {
               index: true,

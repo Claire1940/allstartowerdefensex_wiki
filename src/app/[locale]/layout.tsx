@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { NextIntlClientProvider } from 'next-intl'
-import { getMessages, getTranslations } from 'next-intl/server'
+import { getMessages } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { routing, type Locale } from '@/i18n/routing'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -36,14 +36,16 @@ export function generateStaticParams() {
 // 生成元数据
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
 	const { locale } = await params
-	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
-
-	// 获取 SEO 翻译
-	const t = await getTranslations('seo.home')
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.allstartowerdefensex.wiki'
+	const siteName = 'All Star Tower Defense X Wiki'
+	const title = 'All Star Tower Defense X Wiki - Codes, Tier List & Units'
+	const description =
+		'Get the latest All Star Tower Defense X Wiki with codes, unit tier lists, traits, banners, modes, and beginner guides for Roblox players.'
+	const socialImage = `${siteUrl}/images/hero.webp`
 
 	return {
-		title: t('title'),
-		description: t('description'),
+		title,
+		description,
 		robots: {
 			index: true,
 			follow: true,
@@ -59,24 +61,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 			type: 'website',
 			locale: locale,
 			url: locale === 'en' ? siteUrl : `${siteUrl}/${locale}`,
-			siteName: 'Lucid Blocks Wiki',
-			title: t('ogTitle'),
-			description: t('ogDescription'),
+			siteName,
+			title,
+			description,
 			images: [
 				{
-					url: `${siteUrl}/images/hero.webp`,
+					url: socialImage,
 					width: 1920,
 					height: 1080,
-					alt: 'Lucid Blocks - Surreal Voxel Sandbox',
+					alt: 'All Star Tower Defense X Wiki',
 				},
 			],
 		},
 		twitter: {
 			card: 'summary_large_image',
-			title: t('twitterTitle'),
-			description: t('twitterDescription'),
-			images: [`${siteUrl}/images/hero.webp`],
-			creator: '@lucidblocks',
+			title,
+			description,
+			images: [socialImage],
+			creator: '@AllStarTowerDef',
 		},
 		icons: {
 			icon: [
