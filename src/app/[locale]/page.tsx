@@ -30,6 +30,7 @@ const homePageConfig = {
     'https://www.roblox.com/games/17687504411/All-Star-Tower-Defense-X',
     'https://www.roblox.com/communities/5292947/Top-Down-Games',
     'https://discord.com/invite/allstar',
+    'https://astdx.fandom.com/wiki/All_Star_Tower_Defense_X_Wiki',
     'https://x.com/AllStarTowerDef',
     'https://www.reddit.com/r/astdx/',
     'https://www.youtube.com/watch?v=GqIzGKXMo9c',

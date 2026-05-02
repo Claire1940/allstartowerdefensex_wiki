@@ -123,22 +123,22 @@
       {
         "icon": "Gamepad2",
         "title": "All Star Tower Defense X Hidden Potential",
-        "description": "Node priorities, reset choices, and long-term upgrades"
+        "description": "Tree lock rules, Skill Orb costs, and reset item decisions"
       },
       {
         "icon": "Settings",
         "title": "All Star Tower Defense X Items",
-        "description": "Core consumables, currencies, and material usage guide"
+        "description": "Item categories, main uses, and where each resource is obtained"
       },
       {
         "icon": "Clock",
         "title": "All Star Tower Defense X Updates",
-        "description": "Recent patch highlights and balance-impact notes"
+        "description": "New units, release mechanics, Trials snapshot, and official play entry"
       },
       {
         "icon": "Shield",
         "title": "All Star Tower Defense X Official Links",
-        "description": "Roblox, Discord, X, YouTube, and community portals"
+        "description": "Official Roblox page, Discord server, and ASTDX wiki hub"
       }
     ]
   },
@@ -814,88 +814,155 @@
     "lucidBlocksSteamDeckAndController": {
       "title": "All Star Tower Defense X Hidden Potential",
       "displayType": "accordion",
-      "intro": "All Star Tower Defense X Hidden Potential upgrades are a major late-game system for scaling top units beyond base stats and traits.",
+      "intro": "All Star Tower Defense X Hidden Potential is an advanced growth system for 5-Star and Unbound units. Use it to lock one build tree, spend Skill Orbs and duplicate nodes, and push long-term stat scaling beyond base upgrades.",
       "faqs": [
         {
-          "question": "What is All Star Tower Defense X Hidden Potential used for?",
-          "answer": "All Star Tower Defense X Hidden Potential unlocks additional stat growth and performance boosts for high-value units."
+          "question": "How do I access All Star Tower Defense X Hidden Potential?",
+          "answer": "All Star Tower Defense X Hidden Potential is available for 5-Star and Unbound units. Open it from the Guru in the Grand Elder Building or from the three-dot menu on the unit display."
+        },
+        {
+          "question": "What is the All Star Tower Defense X Hidden Potential tree choice rule?",
+          "answer": "Each All Star Tower Defense X unit can commit to only one tree: Power, Range, or Speed. Once you invest in one tree, the other two trees are locked for that unit."
+        },
+        {
+          "question": "What does the All Star Tower Defense X Power Tree provide?",
+          "answer": "The All Star Tower Defense X Power Tree gives +15% damage, +5% range, and -5% speed. It includes Critical, Marker, Element Boost, and Disruption, and uses Skill Orb I and Skill Orb II costs for progression."
+        },
+        {
+          "question": "What does the All Star Tower Defense X Range Tree provide?",
+          "answer": "The All Star Tower Defense X Range Tree gives +5% damage, +12.5% range, and -5% speed. Its skills include Assassin, Overload, Ricochet, and Surge for map coverage and multi-target pressure."
+        },
+        {
+          "question": "What does the All Star Tower Defense X Speed Tree provide?",
+          "answer": "The All Star Tower Defense X Speed Tree gives +5% damage, +5% range, and -10% speed. It adds Additional, Dodge, Employment, and Element Resist for tempo, utility, and team economy value."
+        },
+        {
+          "question": "How is All Star Tower Defense X Hidden Potential different from traits?",
+          "answer": "All Star Tower Defense X traits are roll-based modifiers that consume Trait Burners, while Hidden Potential is a permanent tree investment using Skill Orbs and dupe nodes. Both systems stack for final unit performance."
+        },
+        {
+          "question": "Which reset items are used in All Star Tower Defense X Hidden Potential?",
+          "answer": "All Star Tower Defense X Roka Fruit resets broad Hidden Potential progress, while Doma Fruit resets special nodes only. Use reset items when a tree no longer fits your roster role."
         },
         {
           "question": "Which All Star Tower Defense X units should get Hidden Potential first?",
-          "answer": "In All Star Tower Defense X, prioritize your main carry and your most-used support unit before investing in secondary options."
-        },
-        {
-          "question": "How does All Star Tower Defense X Hidden Potential work with traits?",
-          "answer": "All Star Tower Defense X traits and Hidden Potential stack together, so strong trait rolls gain even more value after node upgrades."
-        },
-        {
-          "question": "When should I reset All Star Tower Defense X Hidden Potential with Roka Fruit?",
-          "answer": "Use resets in All Star Tower Defense X when a build path no longer matches your team role, and preserve progress on key nodes."
-        },
-        {
-          "question": "Is All Star Tower Defense X Hidden Potential worth early resources?",
-          "answer": "For All Star Tower Defense X, it is usually best after your core roster is stable, then invest to push higher-tier modes."
+          "answer": "Prioritize All Star Tower Defense X Hidden Potential on your primary carry and your most-used support unit, then expand into secondary units after your core team is stable."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "All Star Tower Defense X Items",
       "displayType": "settingCards",
-      "intro": "All Star Tower Defense X item management is central to progression, especially for summon currency, reroll tools, and long-session farming resources.",
+      "intro": "All Star Tower Defense X item routing spans NPC materials, Story drops, Trial rewards, Dungeon currency, Challenge resources, XP food, boosters, and accessories. Use this module as a compact item database for usage and farming decisions.",
       "settings": [
         {
-          "name": "All Star Tower Defense X Gems",
-          "type": "Currency",
-          "description": "Gems are the core All Star Tower Defense X summon currency and should be budgeted around target banners and pity goals."
+          "name": "All Star Tower Defense X NPC Materials",
+          "type": "Evolution Path",
+          "description": "Items like Omni Sword Gear, Quake Fruit, Borul's Necklace, and Jin Dagger are used for evolution and ascension, and are obtained from NPC quests in the main lobby."
         },
         {
-          "name": "All Star Tower Defense X Trait Burners",
-          "type": "Trait Resource",
-          "description": "All Star Tower Defense X Trait Burners are consumed per reroll, so reserve bulk usage for long-term carry units."
+          "name": "All Star Tower Defense X Story Items",
+          "type": "Story Progression",
+          "description": "Hover Boot, Q Officer Hat, Z Ball, Ninja Headband, Survey Cloak, Scarlet Eye, and Beast Sphere come from Story missions and support progression materials."
         },
         {
-          "name": "All Star Tower Defense X Stat Dice",
-          "type": "Optimization Resource",
-          "description": "All Star Tower Defense X Stat Dice are best used when your core team is set and you need targeted stat improvements."
+          "name": "All Star Tower Defense X Hard Story Drops",
+          "type": "High Difficulty",
+          "description": "Mimic Juice, Sword Of Ikki, Kai Sword, Ninja Shuriken, Survey Spear, and Slayer Earring come from hard-difficulty Story routes for stronger progression requirements."
         },
         {
-          "name": "All Star Tower Defense X Bounded Cubes",
-          "type": "Progression Resource",
-          "description": "All Star Tower Defense X Bounded Cubes are strong mid-to-late progression items that should be aligned with upgrade timing."
+          "name": "All Star Tower Defense X Portal Items",
+          "type": "Portal Rewards",
+          "description": "Portal-exclusive rewards such as Frost Moon's Hat are tied to specific portal clears, with listed drop rates and late-game farming value."
         },
         {
-          "name": "All Star Tower Defense X Roka Fruit",
-          "type": "Reset Resource",
-          "description": "All Star Tower Defense X Roka Fruit supports Hidden Potential reset planning and should be saved for major build pivots."
+          "name": "All Star Tower Defense X Trial Items",
+          "type": "Trial Rewards",
+          "description": "Etri's Rapier, Spade's Hat, Supreme Helmet, Freezer Mask, and Flame Cape come from Trial routes, with regular and Strategist reward differences."
+        },
+        {
+          "name": "All Star Tower Defense X Trial Shop",
+          "type": "Coin Economy",
+          "description": "Trial Coins are spent on Star Scrolls, Roka Fruit, Doma Fruit, Luck Booster, Trait Burner, Stat Dice, Bounded Cube, and Summon Ticket at the Trial Shop."
+        },
+        {
+          "name": "All Star Tower Defense X Dungeon Items",
+          "type": "Dungeon Currency",
+          "description": "Dungeon Coin, Dungeon Loot, Water Essence, and Maso Essence support dungeon shop purchases, reward rolls, and ascension material planning."
+        },
+        {
+          "name": "All Star Tower Defense X Challenge Items",
+          "type": "Hidden Potential Resources",
+          "description": "Skill Orb I and II, Ghost rewards, Demon Fruit, and map-specific materials are challenge-sourced resources for Hidden Potential, evolution, and ascension."
+        },
+        {
+          "name": "All Star Tower Defense X XP and Food Items",
+          "type": "Unit Leveling",
+          "description": "EXP tiers and food items such as Meat Stick, Sweet Bun, Rice Bowl, and Hearty Ramen are used to feed units and accelerate roster leveling."
+        },
+        {
+          "name": "All Star Tower Defense X Bags, Capsules, and Boosts",
+          "type": "Reward Pools",
+          "description": "Void Bag, Skill Orb Bag, Basic Capsule, Premium Capsule, Luck Booster, and shiny boosters come from Infinite, weekly quests, shops, and market routes."
+        },
+        {
+          "name": "All Star Tower Defense X Unit Accessories",
+          "type": "Cosmetic Gear",
+          "description": "Challenge Crown and Winged Halo are equippable accessories obtained from daily event placements and Royal Drop reward pools."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "All Star Tower Defense X Updates",
       "displayType": "timeline",
-      "intro": "Track All Star Tower Defense X patch notes, event rewards, and roster-impact changes so your summons and upgrades stay aligned with the current meta.",
+      "intro": "Track All Star Tower Defense X new units, release systems, Trials snapshots, and official play links so your team planning stays aligned with the latest content cycle.",
       "entries": [
         {
-          "title": "All Star Tower Defense X Update 9 Reward Codes",
-          "type": "Update Reward",
-          "description": "Recent update cycles include high-value code bundles that boost Gems, Trait Burners, and Bounded Cubes."
+          "title": "All Star Tower Defense X New Primal Unit: Zaruto (Beast Cloak II)",
+          "type": "New Units",
+          "description": "The update feed lists Zaruto (Beast Cloak II) as a new Primal unit and a high-priority build candidate for late-game rosters."
         },
         {
-          "title": "All Star Tower Defense X Banner and Meta Rotation",
-          "type": "Meta Shift",
-          "description": "Banner availability and role-based tier shifts can change upgrade priorities between major update windows."
+          "title": "All Star Tower Defense X New Unbound Unit: Crow",
+          "type": "New Units",
+          "description": "Crow is listed as a new Unbound unit and is a key watch target for advanced progression teams."
         },
         {
-          "title": "All Star Tower Defense X Mode Progression Adjustments",
-          "type": "Balance Note",
-          "description": "Story, Trials, and Infinite tuning updates can change the best farming route for your current roster depth."
+          "title": "All Star Tower Defense X New 5-Star Unit Group",
+          "type": "New Units",
+          "description": "Bellma (Money Corp), Boulder Li (TS), Kosuke (Eternal), Paper Beauty, Snake Assistant, Toad Sage, and Yellow Boat are listed in the new 5-Star group."
+        },
+        {
+          "title": "All Star Tower Defense X New 4-Star Unit Group",
+          "type": "New Units",
+          "description": "Boulder Li and The Assistant are listed in the new 4-Star group for early and mid-game collection planning."
+        },
+        {
+          "title": "All Star Tower Defense X Release Mechanics Hub",
+          "type": "Game Systems",
+          "description": "The release hub maps core areas such as Lobby, Summons, Ancient Temple, Story, Infinite, Challenges, Trials, and AFK zones."
+        },
+        {
+          "title": "All Star Tower Defense X Trials Snapshot",
+          "type": "Trials",
+          "description": "Early Trials highlight Trial 1 Etri routing at level 25 and Trial 2 Magma routing at level 35 with coin and unit progression notes."
+        },
+        {
+          "title": "All Star Tower Defense X Main Screen Systems",
+          "type": "Interface",
+          "description": "Main-screen systems include Units, Royal Drop, Arena, and Updates, helping players route management and progression menus faster."
+        },
+        {
+          "title": "All Star Tower Defense X Official Roblox Game Page",
+          "type": "Official Game",
+          "description": "Use the Roblox game page as the primary play destination and live listing reference for All Star Tower Defense X."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "All Star Tower Defense X Official Links",
       "displayType": "steps",
-      "intro": "Use these All Star Tower Defense X official and community links for game access, announcements, trailers, and major community discussions.",
+      "intro": "Use these All Star Tower Defense X official links to jump directly into the game, community announcements, and the main ASTDX wiki navigation hub.",
       "steps": [
         {
           "title": "All Star Tower Defense X Official Roblox Game Page",
@@ -906,16 +973,8 @@
           "description": "Main community and announcements: https://discord.com/invite/allstar"
         },
         {
-          "title": "All Star Tower Defense X Official X / Twitter",
-          "description": "Social updates and announcements: https://x.com/AllStarTowerDef"
-        },
-        {
-          "title": "All Star Tower Defense X Character Trailer",
-          "description": "Trailer video: https://www.youtube.com/watch?v=GqIzGKXMo9c"
-        },
-        {
-          "title": "All Star Tower Defense X Community Reddit",
-          "description": "Community discussion hub: https://www.reddit.com/r/astdx/"
+          "title": "All Star Tower Defense X ASTDX Wiki Home",
+          "description": "Wiki navigation hub: https://astdx.fandom.com/wiki/All_Star_Tower_Defense_X_Wiki"
         }
       ]
     }
