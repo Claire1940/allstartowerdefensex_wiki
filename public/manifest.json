@@ -1,12 +1,26 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-  "start_url": "/",
+  "name": "All Star Tower Defense X Wiki - Codes, Tier List & Units",
+  "short_name": "ASTDX Wiki",
+  "description": "Get the latest All Star Tower Defense X Wiki with codes, unit tier lists, traits, banners, NPCs, modes, and beginner guides for Roblox players.",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "scope": "/",
   "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "lang": "en",
+  "dir": "ltr",
+  "theme_color": "#facc15",
+  "background_color": "#0b1020",
+  "categories": [
+    "games",
+    "entertainment",
+    "reference"
+  ],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
