@@ -1,0 +1,152 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X summon rates: Odds and Pity System Guide",
+  description: "Master the All Star Tower Defense X summon rates. Learn about banner odds, pity mechanics, and the best strategies to pull your favorite units in 2026.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/3b82f6/fff?text=ASTD+X+Summon+Guide",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- The **All Star Tower Defense X summon rates** vary by banner, with 5-star units typically sitting at a 2% base chance.
+- **Pity systems** exist for banners X, Y, and Z, guaranteeing high-rarity units after a specific number of unsuccessful spins.
+- **Banner rotation** occurs every hour, so tracking the current banner is essential for targeting specific units.
+- Always prioritize **Multi-Summons** when possible to save gems and utilize the 10% discount on bulk spins.
+</Callout>
+
+<Section icon={Target} title="Understanding Summon Banners">
+
+In All Star Tower Defense X, the summoning gate is the primary method for expanding your roster. Understanding how the **All Star Tower Defense X summon rates** function is crucial for efficient resource management. Banners are categorized by their location and the quality of units they provide.
+
+**Video Highlights:**
+- Demonstrating optimal summoning strategies for new players.
+- Exploring the impact of evolving units like Kosuke to their final forms.
+- Understanding how to maximize efficiency during raid events.
+
+<YouTubeEmbed videoId="WTsZQuUZX0M" title="Evolving KOSUKE to His FINAL FORM (Eternal) 🔥 Strongest Unit in ASTD X!" />
+
+There are several distinct banner types available in the lobby. Banner X is universally accessible, while Banner Y becomes available after completing the Ant Kingdom story mission. World 2 introduces the specialized Banner Z, which features higher-tier units but requires a more significant investment of gems.
+
+| Banner Type | Availability | Primary Currency |
+| :--- | :--- | :--- |
+| Banner X | Always | Gems |
+| Banner Y | After Ant Kingdom | Gems |
+| Banner Z | World 2 Only | Gems |
+| Special | Rotating | Stardust |
+
+<Callout type="tip">
+Always check the official Discord or in-game announcements for banner rotations. Summoning right before a rotation can sometimes result in missing out on a featured unit you were aiming for.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Breakdown of Summoning Odds">
+
+The probability of pulling specific rarities is fixed, but it differs significantly between standard banners and special events. Knowing these percentages helps you calculate the expected value of your gem expenditure.
+
+| Rarity | Banner X Odds | Banner Y Odds | Banner Z Odds |
+| :--- | :--- | :--- | :--- |
+| 6-Star | N/A | N/A | 1% |
+| 5-Star | 2% | 2% | 7-9% |
+| 4-Star | 8% | 10% | 25-30% |
+| 3-Star | 25-30% | 23-28% | N/A |
+
+As shown in the table above, Banner Z is significantly more generous for higher-rarity units, though it carries a higher cost per spin. For those utilizing the Special Summon banner, featured units have a static 1.5% chance, while the global rate for other units is 98.5%.
+
+<Callout type="warning" title="Pity Reset Warning">
+Pity systems do not reset between banner switches for the same type (e.g., X and Y). However, leaving the server will reset your pity count. Always perform your full sequence of summons in a single session to avoid losing progress toward a guaranteed unit.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Mastering the Pity System">
+
+The pity system is your safety net in All Star Tower Defense X. It ensures that even the unluckiest players eventually obtain powerful units. For standard banners, the pity threshold is 80 summons, while Banner Z requires 140 summons for a guaranteed 6-star unit.
+
+<Steps>
+  <Step num="1" title="Accumulate Resources">
+    Save at least 3,600 gems for standard banners or 12,600 gems for Banner Z to ensure you hit the pity threshold.
+  </Step>
+  <Step num="2" title="Select Your Banner">
+    Verify the current banner rotation to ensure it contains the units you currently need for your loadout.
+  </Step>
+  <Step num="3" title="Perform Multi-Summons">
+    Use the 10x summon option to benefit from the 10% gem savings, which drastically lowers the total cost of reaching pity.
+  </Step>
+  <Step num="4" title="Track Your Progress">
+    Count your spins carefully. If you reach the pity limit, the game will automatically grant you the guaranteed rarity.
+  </Step>
+</Steps>
+
+<CardGrid cols={3}>
+  <Card title="Standard Pity">
+    - 80 summons required
+    - Applies to Banners X & Y
+    - Guarantees 5-star unit
+  </Card>
+  <Card title="Banner Z Pity">
+    - 140 summons required
+    - Exclusive to World 2
+    - Guarantees 6-star unit
+  </Card>
+  <Card title="Special Summons">
+    - No pity system
+    - Bonus free spin every 3rd multi
+    - Uses Stardust currency
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Sparkles} title="Optimization Strategies">
+
+Efficiency is key when dealing with RNG. Beyond just understanding the **All Star Tower Defense X summon rates**, you should focus on how you spend your currencies. Gold summons, for example, are essential for obtaining fodder units used in the evolution process.
+
+<Checklist
+  id="summon-optimization"
+  title="Summoning Best Practices:"
+  items={[
+    "Only use gems on banners with high-tier units you need.",
+    "Always perform 10x spins to maximize gem efficiency.",
+    "Save Stardust for limited-time banners with 7-star potential.",
+    "Keep a reserve of Gold for evolving your primary units."
+  ]}
+/>
+
+<Callout type="success" title="Smart Spending">
+Spending 150 Stardust on three multi-summons in the Special Banner grants you an extra 10x summon for free. This is the most efficient way to hunt for top-tier units without burning through your entire resource cache.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "Do the All Star Tower Defense X summon rates change during events?",
+    answer: "Generally, the base rates for standard rarities remain constant. However, featured units in Special Summons often have boosted individual odds during specific event windows."
+  },
+  {
+    question: "Does leaving the game reset my pity count?",
+    answer: "Yes. All pity progress is tied to your current server session. If you disconnect or switch servers, your pity count for that banner will reset to zero."
+  },
+  {
+    question: "Is it worth pulling on Banner X if I have access to Banner Y?",
+    answer: "Banner Y generally offers better 5-star units. Unless you are specifically hunting a unit exclusive to the current Banner X rotation, Banner Y is usually the better investment."
+  },
+  {
+    question: "Can I get secret units from Special Summons?",
+    answer: "No. Secret units, which have a 1/2000 chance per spin, can currently only be obtained via standard banners and are not available in the Special Summon pool."
+  }
+]} />
+
+</Section>

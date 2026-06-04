@@ -1,0 +1,142 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X Banner: 2026 Summoning Guide & Pity System",
+  description: "Master the All Star Tower Defense X banner system with our 2026 guide, covering pity mechanics, summon rates, and tips for obtaining Unbound units.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Banner+Summoning+Guide",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **Banner Mechanics**: Understand the hourly rotation of **All Star Tower Defense X banner** options.
+- **Pity System**: Secure your **guaranteed 5-star units** by tracking your summon count.
+- **Unbound Units**: Learn the extremely low **0.01% drop rate** for top-tier secret characters.
+- **Gem Efficiency**: Use multi-summons to maximize your **gem savings** and increase efficiency.
+</Callout>
+
+<Section icon={Target} title="Understanding the Banner System">
+
+The summon system is the heart of character progression in All Star Tower Defense X. By navigating to the lobby's summon area, players can spend gems to expand their roster. The banners refresh every hour, offering a rotating selection of units.
+
+**Video Highlights:**
+- Detailed look at the hardcore grind for Unbound units.
+- Reality check on 0.01% drop rates and the importance of pity.
+- Strategy for managing gems and summon tickets for banner events.
+
+<YouTubeEmbed videoId="W5YTC8UcLBA" title="I Spent 100,000+ ROBUX for 0.01% SECRET Units in All Star Tower Defense X" />
+
+<Callout type="tip" title="Pro Tip">
+Always check the official [All Star Tower Defense X Wiki](https://astdx.fandom.com/wiki/Summon) to see which units are currently featured in Banner X and Banner Y before spending your hard-earned gems.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Summon Rates and Pity Mechanics">
+
+Success in summoning requires understanding the math behind the game. While the allure of secret units is strong, the pity system provides a safety net for your investment.
+
+| Rarity | Drop Rate | Quantity |
+| :--- | :--- | :--- |
+| **Unbound** | 0.01% | 1x Unbound |
+| **5-Star** | 1% | 1x 5-Star |
+| **4-Star** | 8% | 2x 4-Stars |
+| **3-Star** | 27% | 3x 3-Stars |
+
+<Callout type="warning" title="Pity Warning">
+The 5-star pity resets after 100 summons. Always perform 10x summons to take advantage of the 10% gem savings compared to single pulls.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Strategic Summoning Steps">
+
+Following a structured approach ensures you don't waste resources during banner rotations. Use this workflow to optimize your character acquisition.
+
+<Steps>
+  <Step num="1" title="Check Rotation">
+    Verify the current featured units in Banner X and Y to ensure they align with your team's element requirements.
+  </Step>
+  <Step num="2" title="Calculate Pity">
+    Check your current pity count in the summon menu. Never pull if you are close to a pity threshold on a banner you don't need.
+  </Step>
+  <Step num="3" title="Batch Summon">
+    Always save enough gems for 10x summons to benefit from the built-in cost reduction.
+  </Step>
+  <Step num="4" title="Inventory Management">
+    Ensure your inventory has enough space for new units to avoid interruptions during mass summoning sessions.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Efficiency Note">
+Multi-summons cost 450 gems for 10 pulls, totaling 4,500 gems for a full pity cycle. This is significantly more efficient than individual pulls.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Comparison of Summoning Costs">
+
+Different banners carry different costs and benefits. Understanding these helps you prioritize your spending during limited-time events.
+
+| Summon Type | Pity Threshold | 10x Cost | Savings |
+| :--- | :--- | :--- | :--- |
+| **Standard Banner** | 100 | 450 Gems | 10% |
+| **Unbound Pity** | 2000 | 90,000 Gems | 10% |
+| **Gold Summon** | N/A | 1,100 Gold | 0% |
+
+<CardGrid cols={2}>
+  <Card title="Banner X Strategy">
+    - Best for general player progression.
+    - Features essential 3 to 5-star units.
+    - Resets hourly at :00.
+  </Card>
+  <Card title="Banner Y Strategy">
+    - Unlocked after Ant Kingdom.
+    - Often contains superior 5-star units.
+    - Resets hourly at :30.
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="Resource Management">
+If you are chasing an Unbound unit, focus your resources on the banner with the lower pity count to minimize total gem expenditure.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "Do I keep my pity progress when the banner rotates?",
+    answer: "Yes, pity progress for the All Star Tower Defense X banner system carries over between rotations, allowing you to reach your guaranteed 5-star unit over multiple sessions."
+  },
+  {
+    question: "Is there a trick to getting Unbound units?",
+    answer: "Unbound units have a flat 0.01% drop rate. There is no secret trick, only patience and utilizing the pity system to guarantee progression."
+  },
+  {
+    question: "Should I prioritize Banner X or Y?",
+    answer: "Banner Y is generally recommended for players who have completed the Ant Kingdom, as it often features stronger 5-star units compared to Banner X."
+  }
+]} />
+
+<Checklist
+  id="summon-checklist"
+  title="Final Preparation Checklist:"
+  items={[
+    "Clear inventory slots before summoning",
+    "Verify current banner rotation timing",
+    "Ensure 4,500+ gems for a full 5-star pity",
+    "Equip luck-boosting items if available"
+  ]}
+/>
+
+</Section>

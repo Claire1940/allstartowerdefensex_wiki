@@ -1,0 +1,143 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Star } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X Blood Queen: Guía de Unidad y Estadísticas",
+  description: "Domina a la unidad Blood Queen en All Star Tower Defense X con nuestro desglose detallado de estadísticas, estrategias de despliegue y utilidad en combate.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/7c2d12/fff?text=Blood+Queen+Guide",
+  date: "2026-06-04",
+  author: "Equipo de Wiki de All Star Tower Defense X"
+}
+
+<Callout type="info" title="Guía Rápida">
+- La **Blood Queen de All Star Tower Defense X** es una unidad poderosa basada en el personaje Retsu Unohana.
+- El posicionamiento estratégico es **esencial** para maximizar el daño de área (AoE) único de la Blood Queen.
+- Mejorar la unidad temprano aumenta significativamente la **velocidad de ataque** y el control general del campo de batalla.
+- Emparejar esta unidad con personajes de apoyo puede mejorar aún más su **potencial de DPS** durante las oleadas del juego tardío.
+</Callout>
+
+<Section icon={Swords} title="Descripción General de Blood Queen">
+
+La Blood Queen, inspirada en la formidable Retsu Unohana, destaca en el meta actual de All Star Tower Defense X como una unidad de alto nivel. Conocida por su precisión letal y sus habilidades temáticas de sangre, es un pilar fundamental para los jugadores que buscan optimizar sus configuraciones defensivas.
+
+| Atributo | Detalle |
+| :--- | :--- |
+| Nombre de la Unidad | Blood Queen |
+| Personaje de origen | Retsu Unohana |
+| Tipo de Unidad | Terrestre / Híbrido |
+| Rol | Daño de Área / Debuff |
+
+<Callout type="tip" title="Consejo Profesional">
+Prioriza siempre a la Blood Queen en carriles con alta densidad de enemigos. Sus patrones de ataque están diseñados específicamente para manejar grupos en lugar de objetivos individuales con mucha salud.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Despliegue y Crecimiento">
+
+El uso efectivo de la Blood Queen requiere una comprensión clara de su trayectoria de crecimiento. A continuación, se presenta un desglose de la ruta de mejora y los recursos necesarios para llevarla a su máximo potencial.
+
+<Steps>
+  <Step num="1" title="Invocación Inicial">
+    Despliega la unidad en una ubicación central para cubrir la mayor cantidad de casillas de trayectoria enemiga.
+  </Step>
+  <Step num="2" title="Escalado de Juego Medio">
+    Invierte en los primeros tres niveles de mejora para desbloquear sus habilidades principales de daño de área.
+  </Step>
+  <Step num="3" title="Evolución Final">
+    Maximiza la unidad para obtener el rango de ataque completo y los multiplicadores de daño necesarios para el contenido final.
+  </Step>
+</Steps>
+
+| Nivel de Mejora | Beneficio | Eficiencia de Costo |
+| :--- | :--- | :--- |
+| Niveles 1-2 | Aumento de Rango de Ataque | Alta |
+| Niveles 3-4 | Multiplicador de Daño | Moderada |
+| Nivel Máximo | Desbloqueo de Habilidad Especial | Esencial |
+
+<Callout type="warning" title="Advertencia de Posicionamiento">
+No coloques a la Blood Queen demasiado lejos del camino principal. Su rango es impresionante, pero pierde efectividad si no puede alcanzar el centro del grupo de enemigos.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Comparación de Unidades">
+
+Para entender dónde encaja la Blood Queen en tu equipo actual, compárala con otros atacantes terrestres populares en All Star Tower Defense X.
+
+<CardGrid cols={3}>
+  <Card title="Blood Queen">
+    - **Alto daño de área (AoE)**
+    - Excelente escalado de rango
+    - Ideal para control de oleadas
+  </Card>
+  <Card title="Terrestre Estándar">
+    - Bajo costo
+    - Rango limitado
+    - Ideal para el juego temprano
+  </Card>
+  <Card title="Unidades de Apoyo">
+    - Mejora a los aliados
+    - Sin daño directo
+    - Necesarias para el final del juego
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Éxito Estratégico">
+Combinar a la Blood Queen con una unidad que ralentice a los enemigos crea una "zona de muerte" que puede negar incluso las oleadas más difíciles en misiones de nivel superior.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Lista de Verificación de Progresión">
+
+Sigue esta lista de verificación para asegurarte de aprovechar al máximo tu unidad Blood Queen durante tu sesión de juego.
+
+<Checklist
+  id="blood-queen-goals"
+  title="Objetivos de Progresión:"
+  items={[
+    "Desbloquear a Blood Queen mediante invocación",
+    "Subir de nivel a su capacidad máxima",
+    "Probar su posicionamiento en el Modo Infinito",
+    "Integrarla en tu equipo principal"
+  ]}
+/>
+
+| Hito | Resultado Esperado |
+| :--- | :--- |
+| Nivel 50 | Desbloquea nodos de daño principales |
+| Nivel 80 | Velocidad de ataque optimizada |
+| Nivel Máximo | Rendimiento máximo en el campo de batalla |
+
+</Section>
+
+<Section icon={Star} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Vale la pena la inversión en Blood Queen de All Star Tower Defense X?",
+    answer: "Sí, sus capacidades superiores de daño de área la convierten en una opción de primer nivel para limpiar oleadas de manera eficiente."
+  },
+  {
+    question: "¿Cuál es el mejor posicionamiento para Blood Queen?",
+    answer: "Colócala en las curvas del camino enemigo para maximizar el tiempo que los enemigos pasan dentro de su radio de ataque."
+  },
+  {
+    question: "¿Puedo usar a Blood Queen en peleas contra jefes?",
+    answer: "Aunque destaca en la limpieza de oleadas, puede proporcionar un daño sostenido decente contra jefes si se mejora al máximo."
+  }
+]} />
+
+<Callout type="info" title="Nota de la Comunidad">
+Para obtener más actualizaciones sobre el equilibrio de unidades y cambios en el meta, consulta siempre la [Wiki oficial de All Star Tower Defense X](https://astdx.fandom.com/wiki/Blood_Queen) para obtener la información más reciente sobre los parches.
+</Callout>
+
+</Section>

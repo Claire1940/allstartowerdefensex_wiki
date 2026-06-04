@@ -1,0 +1,147 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, TrendingUp } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X PvP: Strategy & Meta Guide 2026",
+  description: "Master All Star Tower Defense X PvP with our expert guide covering meta setups, unit tiers, and winning strategies to climb the ranks in 2026.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=ASTDX+PvP+Guide",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **All Star Tower Defense X PvP** utilizes a pre-built unit system to ensure fair competition.
+- **Freeze and Crowd Control** are essential mechanics for locking down enemy waves effectively.
+- **Resource Management** through abilities like Dragon Wish is critical for scaling your defense.
+- **Meta Awareness** involves banning high-threat units like Mihawk or Blackbeard during the selection phase.
+- **Consistent Ranking** rewards players with exclusive cosmetics and currency for the seasonal shop.
+</Callout>
+
+<Section icon={Swords} title="Understanding PvP Mechanics">
+
+Competitive play in All Star Tower Defense X PvP is designed to prioritize skill over pay-to-win advantages. By using a pre-built unit pool, the game forces players to adapt to the current meta rather than relying solely on their private collection.
+
+**Video Highlights:**
+- Demonstrating high-IQ unit placement strategies.
+- Breakdown of essential crowd control units like Rukia.
+- Effective use of active abilities for economy and slowing.
+
+<YouTubeEmbed videoId="m-e41WqLEZA" title="I Did A 500 IQ Move On All Star Tower Defense X PVP" />
+
+The mode functions similarly to lane-based tower defense games where you must balance your own defense while managing the pressure applied to your opponent. Understanding when to save for upgrades versus when to spend on unit deployment is the defining factor between a bronze-tier player and a pro.
+
+| Mechanic | Description | Impact |
+| :--- | :--- | :--- |
+| **Freeze** | Stops enemy movement | High |
+| **Bleed** | Damage over time | Moderate |
+| **Dragon Wish** | Income multiplier | Critical |
+| **Stun** | Disables enemy units | High |
+
+<Callout type="tip">
+Always prioritize keeping at least one "Freeze" unit active on your longest lane to prevent enemy units from leaking through your defenses.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Meta Loadout & Unit Selection">
+
+Choosing your units is the most critical stage of any match. A balanced loadout should include a mix of high-damage dealers, crowd control specialists, and economic support.
+
+<CardGrid cols={3}>
+  <Card title="Crowd Control">
+    - **Rukia**: Essential for freezing waves.
+    - **Gray**: Alternative for freeze utility.
+    - **Blackbeard**: Best for stunning high-HP targets.
+  </Card>
+  <Card title="Damage Dealers">
+    - **Ulquiorra**: Reliable line AoE damage.
+    - **Ichigo**: Fast attack speed for cleanup.
+    - **Sukuna**: Effective for bleed damage.
+  </Card>
+  <Card title="Utility & Support">
+    - **Whitebeard**: Strong quake-based AoE.
+    - **Nezuko**: Versatile all-around AoE.
+    - **Bandit**: Good for early-game pressure.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Drafting Advice">
+Pay close attention to your opponent's bans. If they remove your primary freeze unit, you must pivot your strategy immediately to use alternative stunners like Blackbeard.
+</Callout>
+
+</Section>
+
+<Section icon={TrendingUp} title="Step-by-Step Match Strategy">
+
+To climb the ranks, you need a repeatable process for every match. Follow this progression to maintain a strong presence on the field.
+
+<Steps>
+  <Step num="1" title="Initial Deployment">
+    Place your primary damage dealer and one freeze unit immediately to handle the early waves.
+  </Step>
+  <Step num="2" title="Economic Scaling">
+    Activate your income ability (e.g., Dragon Wish) as soon as it is available to snowball your economy.
+  </Step>
+  <Step num="3" title="Lane Reinforcement">
+    Add secondary units to long lanes, prioritizing "Last" targeting for freeze units to maximize AoE coverage.
+  </Step>
+  <Step num="4" title="Counter-Play">
+    Save your active abilities to counter your opponent's pressure or to slow down massive waves during the late game.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Seasonal Rewards and Shop">
+
+Ranking up in PvP isn't just about pride; it grants access to exclusive rewards that are highly sought after by the community.
+
+| Rank | Reward Category | Potential Loot |
+| :--- | :--- | :--- |
+| **Bronze** | Entry Tier | Seasonal Coins |
+| **Silver** | Intermediate | Trait Burners |
+| **Gold** | High Tier | Zaruto Blaze Cloak |
+| **Diamond** | Elite | Exclusive Skins |
+
+<Checklist
+  id="pvp-progression"
+  title="Your PvP Checklist:"
+  items={[
+    "Complete 5 placement matches",
+    "Identify your top 3 meta units",
+    "Save 100+ coins for trait rerolls",
+    "Reach Silver rank by season end"
+  ]}
+/>
+
+<Callout type="success" title="Pro Tip">
+Converting purple coins in the shop can yield significant rewards, including rare character outfits. Save your high-value currency for these limited-time shop rotations.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "How does the All Star Tower Defense X PvP matchmaking work?",
+    answer: "Matchmaking uses an ELO-based system to pair you with players of similar skill levels, ensuring that your journey to the top is fair."
+  },
+  {
+    question: "Can I use my own units in PvP?",
+    answer: "No, the PvP mode uses a pre-built unit system to keep the playing field level, preventing pay-to-win scenarios."
+  },
+  {
+    question: "What is the best way to get more PvP coins?",
+    answer: "The best way to earn coins is by winning matches and climbing the seasonal rank ladder. Consistent play is key to maximizing your rewards."
+  }
+]} />
+
+</Section>

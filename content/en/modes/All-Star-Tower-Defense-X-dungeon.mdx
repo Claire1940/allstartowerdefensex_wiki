@@ -1,0 +1,150 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Clock, Gem } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X Dungeon: Farming Guide & Event Tips",
+  description: "Master the All Star Tower Defense X dungeon events with our expert guide to farming gems, limited units, and navigating the Ancient Temple.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e40af/fff?text=ASTDX+Dungeon+Guide",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- The **All Star Tower Defense X dungeon** is a high-reward, limited-time event.
+- Locate the **Ancient Temple** on the map to participate when the event is active.
+- Efficient farming can yield up to **600 gems** per session and exclusive **dungeon bags**.
+- Keep an eye on the **in-game chat** for the "something is stirring" notification to join.
+</Callout>
+
+<Section icon={Map} title="Finding the Ancient Temple">
+
+The dungeon system in All Star Tower Defense X serves as a primary source for mid-to-late game progression, offering players a chance to secure limited-edition units and significant currency bonuses. Unlike standard stages, the dungeon is an event-based activity that requires players to be alert to server notifications.
+
+**Video Highlights:**
+- Identifying the Ancient Temple location on the main map.
+- Understanding the "something is stirring" chat notification.
+- Overview of the 30-minute event structure.
+
+<YouTubeEmbed videoId="LKQUwiMDq3Q" title="How To Find The Dungeon Area In All Star Tower Defense X" />
+
+Navigating to the dungeon area is straightforward once you know where to look. Head toward the Ancient Temple, which acts as the hub for all dungeon-related activities. Because these events are time-sensitive, players must be ready to deploy their best loadouts as soon as the notification appears.
+
+<Callout type="tip" title="Pro Tip">
+Always maintain a balanced team composition before heading to the Ancient Temple, as dungeon difficulty can spike unexpectedly during the final waves of the 30-minute window.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Rewards and Farming Strategy">
+
+Farming the All Star Tower Defense X dungeon is arguably the most efficient way to bolster your gem reserves. By participating in these events, you gain access to dungeon bags, which contain rare, limited-time units that will be highly valuable once the trading system is fully implemented.
+
+| Reward Type | Quantity/Value | Frequency |
+| :--- | :--- | :--- |
+| Gems | 100 per completion | Per run |
+| Dungeon Bags | 2 bags | Per event completion |
+| Limited Units | Variable | RNG based |
+
+<Callout type="success" title="Farming Efficiency">
+Focusing on the 30-minute event window allows active players to farm approximately 600 gems by coordinating multiple runs. Prioritize speed-clearing units to maximize the number of bags collected per event cycle.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Step-by-Step Dungeon Entry">
+
+Follow these steps to ensure you never miss an active dungeon event when it triggers in your server.
+
+<Steps>
+  <Step num="1" title="Monitor Chat">
+    Stay attentive to the global chat for the system message: "Something is stirring." This indicates the dungeon event has begun.
+  </Step>
+  <Step num="2" title="Locate Temple">
+    Immediately navigate your character to the Ancient Temple area on the game map.
+  </Step>
+  <Step num="3" title="Prepare Loadout">
+    Equip your highest DPS units and ensure your support characters are ready to handle crowd control.
+  </Step>
+  <Step num="4" title="Engage Event">
+    Enter the dungeon zone and complete the 30-minute challenge to claim your rewards.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Event Limitation">
+The dungeon is a limited-time event. If you enter the area after the timer expires or the event concludes, you will not be able to claim the rewards for that session.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Comparison: Dungeon vs Standard Modes">
+
+Understanding how the All Star Tower Defense X dungeon differs from standard modes helps in optimizing your daily routine.
+
+<CardGrid cols={2}>
+  <Card title="Standard Story Mode">
+    - Consistent progression
+    - Predictable difficulty
+    - Lower gem payout
+  </Card>
+  <Card title="Dungeon Event">
+    - High-stakes rewards
+    - Time-limited availability
+    - Exclusive limited units
+  </Card>
+</CardGrid>
+
+<Callout type="info" title="Strategic Priority">
+When a dungeon event is active, prioritize it over standard story mode progression to ensure you secure the limited-time units before they are rotated out of the event pool.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Dungeon Preparation Checklist">
+
+Use this checklist to prepare your account for the next dungeon event.
+
+<Checklist
+  id="dungeon-prep"
+  title="Preparation Checklist:"
+  items={[
+    "Upgrade primary DPS units to max level",
+    "Stock up on necessary consumables",
+    "Join a reliable party for faster clears",
+    "Clear inventory space for dungeon bags"
+  ]}
+/>
+
+| Requirement | Priority | Impact |
+| :--- | :--- | :--- |
+| High DPS | High | Essential for wave clear |
+| Crowd Control | Medium | Keeps enemies contained |
+| Inventory Space | High | Prevents reward loss |
+| Party Coordination | Medium | Increases clearing speed |
+
+</Section>
+
+<Section icon={Trophy} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "How often does the All Star Tower Defense X dungeon spawn?",
+    answer: "The dungeon event typically spawns every few hours. Keep an eye on the in-game chat notifications for the 'something is stirring' alert."
+  },
+  {
+    question: "Can I trade the units I get from the dungeon?",
+    answer: "Yes, once the trading system is fully implemented in the game, the limited units obtained from dungeon bags will be tradable."
+  },
+  {
+    question: "Is it better to solo or party for the dungeon?",
+    answer: "Grouping with a reliable party is generally recommended to maximize efficiency and ensure you clear the dungeon waves within the 30-minute time limit."
+  }
+]} />
+
+</Section>

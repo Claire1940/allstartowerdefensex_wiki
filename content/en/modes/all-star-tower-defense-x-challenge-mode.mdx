@@ -1,0 +1,156 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X Challenge Mode: Expert Strategy Guide",
+  description: "Master the All Star Tower Defense X challenge mode with our expert guide. Learn optimal unit compositions, farming layouts, and wave-clearing tactics for 2026.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/2563eb/fff?text=ASTDX+Challenge+Guide",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **All Star Tower Defense X challenge mode** requires precise resource management and unit placement.
+- **Money farming** is the foundation for success; prioritize your eco-units early in every run.
+- **Support units** like Blackbeard are essential for slowing enemies and maximizing DPS uptime.
+- **Strategic placement** is more effective than raw power; utilize your unit's attack range efficiently.
+- **Wave management** depends on balancing your ground and air defense to avoid being overwhelmed.
+</Callout>
+
+<Section icon={Map} title="Understanding Challenge Mode Mechanics">
+
+The challenge mode in All Star Tower Defense X presents a unique test of your tactical skills. Unlike standard story missions, challenges often restrict your resources or introduce specific environmental modifiers that require you to adapt your playstyle. Whether you are tackling a daily challenge or random mission rooms, understanding the core gameplay loop is key to climbing the leaderboards.
+
+**Video Highlights:**
+- Demonstrating a One Piece unit-only team composition.
+- Effective money-farming techniques for early game stabilization.
+- Strategic placement of support units like Blackbeard for crowd control.
+
+<YouTubeEmbed videoId="ZOuT7LVnVac" title="Using Only One Piece Units Challenge On All Star Tower Defense X" />
+
+Success in this mode often comes down to your ability to maximize the efficiency of your limited unit slots. Without the luxury of infinite space or resources, every unit must serve a clear purpose—be it DPS, air defense, or essential support.
+
+| Feature | Regular Mode | Challenge Mode |
+| :--- | :--- | :--- |
+| **Resource Scaling** | Standard | Often Restricted |
+| **Unit Limits** | Standard | Frequently Lowered |
+| **Strategy Requirement** | Moderate | High |
+| **Difficulty Spike** | Predictable | Dynamic |
+
+<Callout type="tip" title="Pro Tip">
+Always check the specific modifiers of a challenge before starting. Some challenges may disable specific unit abilities or increase enemy health, requiring you to swap your standard loadout for more specialized units.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Strategic Unit Setup">
+
+Building a balanced team is the most critical step for any challenge run. You need a mix of high-damage dealers and utility units to handle diverse enemy types. While meta picks are powerful, synergy between your units—such as combining slow effects with high-damage AoE attacks—will carry you much further than raw stats alone.
+
+<CardGrid cols={3}>
+  <Card title="DPS Units">
+    - Focus on high damage per second
+    - Essential for boss waves
+    - Position at main intersections
+  </Card>
+  <Card title="Support Units">
+    - Provide slow or debuff effects
+    - Crucial for controlling enemy flow
+    - Place near the start of the path
+  </Card>
+  <Card title="Farming Units">
+    - Generate gold for upgrades
+    - Non-negotiable for late-game
+    - Maximize as early as possible
+  </Card>
+</CardGrid>
+
+When selecting your team, consider the following priority list for unit roles:
+
+| Role | Priority | Purpose |
+| :--- | :--- | :--- |
+| **Money Farm** | Critical | Fund your main defenses |
+| **Slow/Support** | High | Keep enemies in range longer |
+| **Main DPS** | High | Clear heavy mobs quickly |
+| **Air Defense** | Medium | Prevent leaks on aerial waves |
+
+<Callout type="warning" title="Important">
+Do not neglect your air defense. Many players focus entirely on ground units, only to be caught off guard by early air waves that can bypass your primary kill zones.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Execution Steps for Success">
+
+Executing a perfect run requires a disciplined approach to your economy and deployment. Follow these steps to ensure you maintain pressure on your enemies without running out of funds.
+
+<Steps>
+  <Step num="1" title="Initial Farming">
+    Deploy your money-farming units immediately. Do not place combat units until your income stream is established, unless you are in immediate danger of losing.
+  </Step>
+  <Step num="2" title="Early Defense">
+    Place a low-cost, high-efficiency unit to handle the first 10 waves. This allows you to continue funneling gold into your farming upgrades.
+  </Step>
+  <Step num="3" title="Support Deployment">
+    Position your slow-effect units near the entrance of the enemy path. This maximizes the time enemies spend under fire from your DPS units.
+  </Step>
+  <Step num="4" title="Scaling DPS">
+    Once your economy is stable, begin upgrading your main DPS units. Focus on maxing out one or two strong units rather than having many weak ones.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Success Factor">
+The key to deep wave progression is the "stacking" of effects. Ensure your slow-support units have overlapping ranges to keep enemies stuck in your highest-damage zones for as long as possible.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Progression Checklist">
+
+To master the challenge mode, keep track of your performance against these essential milestones. Using this list will help you identify areas where your strategy might be failing.
+
+<Checklist
+  id="challenge-milestones"
+  title="Progression Goals:"
+  items={[
+    "Master early-game money management",
+    "Identify optimal placement for support units",
+    "Successfully clear 40+ waves consistently",
+    "Optimize unit traits for maximum damage",
+    "Learn the attack patterns of major boss units"
+  ]}
+/>
+
+| Milestone | Difficulty | Benefit |
+| :--- | :--- | :--- |
+| **Eco Mastery** | Easy | Faster unit upgrades |
+| **Placement Precision** | Medium | Higher wave survival |
+| **Trait Optimization** | Hard | Increased late-game scaling |
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "How do I deal with fast enemies in All Star Tower Defense X challenge mode?",
+    answer: "Use units with strong slow or stun abilities. Placing these units early in the path is crucial to force fast enemies to stay within your DPS units' range for a longer period."
+  },
+  {
+    question: "Is it better to have many weak units or a few maxed-out units?",
+    answer: "In most challenge scenarios, a few maxed-out units are significantly more effective. High-level units provide better damage-to-cost ratios and take up fewer precious placement slots."
+  },
+  {
+    question: "Does the challenge mode change regularly?",
+    answer: "Yes, challenges in the game refresh periodically. Always check the current modifiers as your team composition may need to shift to counter new environmental or enemy restrictions."
+  }
+]} />
+
+</Section>

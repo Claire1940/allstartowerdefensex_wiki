@@ -1,0 +1,143 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Star } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Panduan & Statistik Unit Blood Queen di All Star Tower Defense X",
+  description: "Kuasai unit Blood Queen di All Star Tower Defense X dengan rincian statistik, strategi penempatan, dan utilitas tempur kami.",
+  category: "Panduan",
+  image: "https://placehold.co/800x400/7c2d12/fff?text=Blood+Queen+Guide",
+  date: "2026-06-04",
+  author: "Tim Wiki All Star Tower Defense X"
+}
+
+<Callout type="info" title="Panduan Singkat">
+- **Blood Queen di All Star Tower Defense X** adalah unit kuat yang didasarkan pada karakter Retsu Unohana.
+- Penempatan strategis sangat **penting** untuk memaksimalkan output kerusakan area (AoE) unik milik Blood Queen.
+- Melakukan upgrade pada unit ini sejak awal secara signifikan meningkatkan **kecepatan serangan** dan kendali medan perang secara keseluruhan.
+- Memasangkan unit ini dengan karakter pendukung (support) dapat lebih meningkatkan **potensi DPS** selama wave permainan akhir.
+</Callout>
+
+<Section icon={Swords} title="Gambaran Umum Blood Queen">
+
+Blood Queen, yang terinspirasi oleh Retsu Unohana yang tangguh, menonjol dalam meta All Star Tower Defense X saat ini sebagai unit tingkat tinggi. Dikenal karena presisinya yang mematikan dan kemampuan bertema darah, ia adalah landasan bagi pemain yang ingin mengoptimalkan pengaturan pertahanan mereka.
+
+| Atribut | Detail |
+| :--- | :--- |
+| Nama Unit | Blood Queen |
+| Karakter Sumber | Retsu Unohana |
+| Tipe Unit | Ground / Hybrid |
+| Peran | Damage Area / Debuff |
+
+<Callout type="tip" title="Tips Pro">
+Selalu prioritaskan Blood Queen di jalur dengan kepadatan musuh yang tinggi. Pola serangannya dirancang khusus untuk menangani kelompok musuh, bukan target tunggal dengan HP tinggi.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Penempatan dan Pertumbuhan">
+
+Penggunaan efektif Blood Queen memerlukan pemahaman yang jelas tentang lintasan pertumbuhannya. Berikut adalah rincian jalur upgrade dan sumber daya yang diperlukan untuk mencapai potensi maksimalnya.
+
+<Steps>
+  <Step num="1" title="Pemanggilan Awal">
+    Tempatkan unit di lokasi sentral untuk mencakup jumlah ubin jalur musuh terbanyak.
+  </Step>
+  <Step num="2" title="Scaling Mid-Game">
+    Berinvestasilah pada tiga tingkat upgrade pertama untuk membuka kemampuan area-of-effect utamanya.
+  </Step>
+  <Step num="3" title="Evolusi Akhir">
+    Maksimalkan unit untuk mendapatkan jangkauan serangan penuh dan pengganda kerusakan yang diperlukan untuk konten endgame.
+  </Step>
+</Steps>
+
+| Tingkat Upgrade | Manfaat | Efisiensi Biaya |
+| :--- | :--- | :--- |
+| Tier 1-2 | Peningkatan Jangkauan Serangan | Tinggi |
+| Tier 3-4 | Pengganda Kerusakan | Sedang |
+| Tier Maks | Membuka Kemampuan Khusus | Penting |
+
+<Callout type="warning" title="Peringatan Penempatan">
+Jangan menempatkan Blood Queen terlalu jauh dari jalur utama. Jangkauannya memang impresif, tetapi ia kehilangan efektivitas jika tidak dapat mengenai pusat kelompok musuh.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Perbandingan Unit">
+
+Untuk memahami di mana posisi Blood Queen dalam loadout Anda saat ini, bandingkan ia dengan penyerang berbasis darat lainnya yang populer di All Star Tower Defense X.
+
+<CardGrid cols={3}>
+  <Card title="Blood Queen">
+    - **Damage AoE tinggi**
+    - Scaling jangkauan luar biasa
+    - Terbaik untuk kontrol wave
+  </Card>
+  <Card title="Ground Standar">
+    - Biaya rendah
+    - Jangkauan terbatas
+    - Terbaik untuk awal permainan
+  </Card>
+  <Card title="Unit Support">
+    - Memberikan buff pada sekutu
+    - Tidak ada damage langsung
+    - Diperlukan untuk endgame
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Kesuksesan Strategi">
+Menggabungkan Blood Queen dengan unit pemberi efek lambat (slow) menciptakan "zona pembunuhan" yang dapat menetralkan gelombang musuh tersulit sekalipun di misi tingkat tinggi.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Daftar Periksa Progresi">
+
+Ikuti daftar periksa ini untuk memastikan Anda mendapatkan hasil maksimal dari unit Blood Queen selama sesi permainan Anda.
+
+<Checklist
+  id="blood-queen-goals"
+  title="Tujuan Progresi:"
+  items={[
+    "Membuka Blood Queen melalui pemanggilan",
+    "Menaikkan level hingga kapasitas maksimal",
+    "Menguji penempatan di Endless Mode",
+    "Mengintegrasikan ke dalam loadout utama"
+  ]}
+/>
+
+| Milestone | Hasil yang Diharapkan |
+| :--- | :--- |
+| Level 50 | Membuka node damage inti |
+| Level 80 | Optimalisasi kecepatan serangan |
+| Level Maks | Performa medan perang puncak |
+
+</Section>
+
+<Section icon={Star} title="Pertanyaan yang Sering Diajukan">
+
+<FAQ items={[
+  {
+    question: "Apakah Blood Queen di All Star Tower Defense X layak untuk diinvestasikan?",
+    answer: "Ya, kemampuan area-of-effect miliknya yang superior menjadikannya pilihan tingkat atas untuk membersihkan gelombang musuh secara efisien."
+  },
+  {
+    question: "Apa penempatan terbaik untuk Blood Queen?",
+    answer: "Tempatkan dia di tikungan jalur musuh untuk memaksimalkan waktu yang dihabiskan musuh dalam radius serangannya."
+  },
+  {
+    question: "Bisakah saya menggunakan Blood Queen untuk pertarungan bos?",
+    answer: "Meskipun ia unggul dalam membersihkan gelombang musuh, ia dapat memberikan damage berkelanjutan yang layak terhadap bos jika di-upgrade sepenuhnya."
+  }
+]} />
+
+<Callout type="info" title="Catatan Komunitas">
+Untuk pembaruan lebih lanjut tentang penyeimbangan unit dan perubahan meta, selalu periksa [Wiki resmi All Star Tower Defense X](https://astdx.fandom.com/wiki/Blood_Queen) untuk informasi patch terbaru.
+</Callout>
+
+</Section>

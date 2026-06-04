@@ -1,0 +1,160 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X Infinite Mode: Strategy & Rewards Guide",
+  description: "Master All Star Tower Defense X Infinite Mode with our expert guide. Learn wave scaling, reward optimization, and top-tier strategies for 2026.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e40af/fff?text=Infinite+Mode+Strategy",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **All Star Tower Defense X Infinite Mode** is the ultimate test of endurance and unit synergy.
+- **Wave scaling** increases enemy HP significantly after wave 30, requiring optimized damage output.
+- **Void Bags** provide essential progression items like Trait Burners and Stat Dice for your units.
+- **Auto-skipping** management is critical to balance clear speed with base defense during late-game waves.
+</Callout>
+
+<Section icon={Map} title="Understanding Infinite Mode Mechanics">
+
+Infinite Mode is the core survival challenge in All Star Tower Defense X. Unlike story missions, this mode features continuous waves that push your defense to the absolute limit. Your primary goal is to survive as long as possible while maximizing resource collection and damage output.
+
+**Video Highlights:**
+- Essential unit positioning for optimal AOE coverage.
+- How to manage economy units during early waves.
+- Advanced tips for handling high-health wave bosses.
+
+<YouTubeEmbed videoId="dQw4w9WgXcQ" title="All Star Tower Defense X Infinite Mode Pro Strategy" />
+
+In this mode, enemy health scales dynamically based on the number of players in the lobby. This scaling (+0.9x per additional player) makes coordination vital for team-based runs. Whether you are playing solo or with a squad, understanding the health thresholds is key to success.
+
+| Feature | Regular Infinite | Classic Infinite |
+| :--- | :--- | :--- |
+| **Unit Stats** | Enabled | Disabled |
+| **Hidden Potential** | Enabled | Disabled |
+| **Gem Gain** | Standard | Slightly Increased |
+| **Primary Goal** | Survival | Farming Void Bags |
+
+<Callout type="tip" title="Pro Tip">
+Always prioritize placing economy units during the first 10 waves. Establishing a strong cash flow early allows you to transition into high-damage meta units before the health scaling spikes at wave 30.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Wave Scaling and Reward Data">
+
+As you progress deeper into the waves, the difficulty curve shifts dramatically. Monitoring the enemy HP is essential for knowing when to upgrade your units or deploy new ones.
+
+| Wave Range | Health Increase Trend | Recommended Strategy |
+| :--- | :--- | :--- |
+| **1-29** | Gradual scaling | Economy building |
+| **30-45** | Significant spike | Focus on DPS units |
+| **46+** | Slower growth | Maximize crowd control |
+
+The following table summarizes the health scaling for single-player runs to help you plan your unit upgrades accordingly:
+
+| Wave | Health (1P) | Gem Reward |
+| :--- | :--- | :--- |
+| **10** | 439 | 14-15 |
+| **20** | 1,723 | 34-36 |
+| **30** | 14,745 | 56-57 |
+| **40** | 664,614 | 77-78 |
+| **50** | 5,328,290 | 99 |
+
+<Callout type="warning" title="Difficulty Spike Warning">
+Be prepared for a massive jump in enemy health around wave 30. If your current setup struggles to clear units efficiently at this stage, consider adjusting your unit loadout to include more armor-piercing or high-damage elemental units.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Strategic Execution Steps">
+
+Success in high-wave runs requires a disciplined approach to deployment and resource management. Follow these steps to optimize your Infinite Mode performance.
+
+<Steps>
+  <Step num="1" title="Initial Loadout">
+    Bring a balanced team consisting of an economy unit, a crowd-control unit, and at least two high-DPS main attackers.
+  </Step>
+  <Step num="2" title="Early Wave Farming">
+    Enable auto-skip to speed up early waves. Focus on maxing out your economy units to secure a stable income for the mid-game.
+  </Step>
+  <Step num="3" title="Mid-Game Transition">
+    Disable auto-skip around wave 25-30. This allows you to manually manage unit placement and upgrades as the enemies become significantly faster.
+  </Step>
+  <Step num="4" title="Late-Game Survival">
+    Use your crowd-control units to slow or stun enemies near the base. Prioritize upgrading your primary DPS units to handle the massive HP pools of later waves.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Efficiency Boost">
+Players can also gain experience for the Star Pass by participating in Infinite Mode, making it one of the most efficient ways to grind both rewards and account progress simultaneously.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Progression Checklist">
+
+To master the mode, ensure you are hitting these key milestones during your sessions.
+
+<Checklist
+  id="infinite-mode-goals"
+  title="Infinite Mode Mastery Checklist:"
+  items={[
+    "Clear wave 30 in a single session",
+    "Max out your economy unit by wave 15",
+    "Collect at least 50 Void Bags for stat rerolls",
+    "Successfully coordinate with a team to reach wave 50",
+    "Complete the weekly damage task in Infinite Mode"
+  ]}
+/>
+
+<CardGrid cols={3}>
+  <Card title="Void Bags">
+    - Contain EXP items
+    - Trait Burners
+    - Stat Dice
+  </Card>
+  <Card title="Rewards">
+    - Gem drops every 10 waves
+    - Gold coins
+    - Player EXP
+  </Card>
+  <Card title="Meta Units">
+    - High-DPS focus
+    - Full AOE capabilities
+    - Hybrid/Hill units
+  </Card>
+</CardGrid>
+
+</Section>
+
+<Section icon={Sparkles} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "What is the best way to farm gems in All Star Tower Defense X Infinite Mode?",
+    answer: "Focus on clearing waves in multiples of 10, as gem drops increase significantly at these intervals. Aim for wave 50+ for the best efficiency."
+  },
+  {
+    question: "Are units' traits active in all Infinite modes?",
+    answer: "No, in Classic Infinite mode, unit traits, hidden potential, and stats are disabled. However, you receive slightly increased gem gains as a trade-off."
+  },
+  {
+    question: "Why should I use manual skipping instead of auto-skipping?",
+    answer: "Manual skipping allows you to control the pace of waves during late-game stages. When enemies get close to your base, turning off auto-skip gives you extra time to react and deploy defensive measures."
+  },
+  {
+    question: "Can I use ground units on the Air Infinite map?",
+    answer: "No, ground units are ineffective on the Air map. You must bring Hybrid or Hill units to deal damage to flying enemies."
+  }
+]} />
+
+</Section>

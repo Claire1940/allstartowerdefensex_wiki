@@ -1,0 +1,143 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, BookOpen } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X Infinite: Strategies & Rewards Guide",
+  description: "Master All Star Tower Defense X Infinite mode with our expert guide covering health scaling, reward tables, and essential survival strategies for 2026.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Infinite+Mode+Strategy",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **All Star Tower Defense X infinite** mode challenges players to survive endless waves of progressively stronger enemies.
+- Managing your **base health** and unit placement is crucial for long-term survival and high-wave clears.
+- Players can earn **Void Bags** containing rare items like EXP, Trait Burners, and even the exclusive Kujo unit.
+- Efficiently using the **Auto-Skip** feature allows for faster grinding and optimal Star Pass experience gains.
+- Understanding **health scaling** per player count is vital for team-based infinite runs.
+</Callout>
+
+<Section icon={Map} title="Infinite Mode Overview">
+
+Infinite mode serves as the ultimate test of your unit loadout and tactical planning in All Star Tower Defense X. Unlike story missions, this mode features continuous enemy spawns that increase in speed and health, requiring precise crowd control and high-DPS output.
+
+**Video Highlights:**
+- Understanding the core mechanics of infinite wave progression.
+- Managing your economy to maximize unit deployment.
+- Optimal placement strategies for area-of-effect (AOE) damage.
+
+<YouTubeEmbed videoId="dQw4w9WgXcQ" title="All Star Tower Defense X Infinite Gameplay Overview" />
+
+Whether you are playing solo or in a team, the primary goal remains to defend your base until the inevitable end. Regular updates to the game have introduced various sub-modes, such as the challenging "Random Unit" map or the "Elemental" specific maps, each requiring a tailored approach.
+
+</Section>
+
+<Section icon={Target} title="Reward and Health Scaling">
+
+Enemy health scales significantly with the wave number. Notably, difficulty spikes around wave 30, requiring advanced units to handle the increased HP pool. When playing with others, health scales by +0.9x per additional player.
+
+| Wave | 1-Player HP | 2-Player HP | 3-Player HP | 4-Player HP |
+| :--- | :--- | :--- | :--- | :--- |
+| 10 | 439 | 834 | 1,229 | 1,624 |
+| 20 | 1,723 | 3,274 | 4,824 | 6,375 |
+| 30 | 14,745 | 28,016 | 41,286 | 54,557 |
+| 40 | 664,614 | 1,262,767 | 1,860,919 | 2,459,072 |
+| 50 | 5,328,290 | 10,123,752 | 14,919,213 | 19,714,674 |
+
+<Callout type="tip" title="Pro Tip">
+Always check the enemy type before starting. Using units with elemental effects is mandatory in Elemental-specific infinite maps, as standard ground units will struggle to deal meaningful damage.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Strategic Loadouts and Gameplay">
+
+To reach higher waves, you must balance your economy units with high-damage carries. Using the right combination of units ensures you can handle both swarms and boss-type enemies.
+
+<CardGrid cols={3}>
+  <Card title="Economy Units">
+    - Essential for early-game gold generation.
+    - Prioritize placement in the first 5 waves.
+    - Allows for rapid upgrades of carry units.
+  </Card>
+  <Card title="Crowd Control">
+    - Slows down fast-moving enemies.
+    - Crucial for waves 30+.
+    - Prevents base overrun during boss spawns.
+  </Card>
+  <Card title="Main DPS">
+    - High single-target or AOE damage.
+    - Must be upgraded throughout the run.
+    - The backbone of your late-game survival.
+  </Card>
+</CardGrid>
+
+| Feature | Regular Mode | Classic Mode |
+| :--- | :--- | :--- |
+| Traits | Enabled | Disabled |
+| Stats | Enabled | Disabled |
+| Gem Gain | Standard | Slightly Increased |
+| Void Bags | Obtainable | Obtainable |
+
+</Section>
+
+<Section icon={Shield} title="Survival Steps">
+
+<Steps>
+  <Step num="1" title="Early Game Setup">
+    Place your economy units immediately. Focus on generating enough cash to support high-tier unit summons before wave 10.
+  </Step>
+  <Step num="2" title="Mid-Game Stabilization">
+    Deploy AOE units to handle standard swarms. Start upgrading your primary damage dealers to prepare for the wave 25-30 difficulty spike.
+  </Step>
+  <Step num="3" title="Late-Game Management">
+    Toggle Auto-Skip off when enemies approach the base to ensure you clear each wave manually. Re-enable it once the path is clear to save time.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Important Note">
+You cannot use Auto-Skip after wave 60 if there are 60 or more enemies currently on the map. Plan your cooldowns accordingly to avoid being overwhelmed.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Progression Checklist">
+
+<Checklist
+  id="infinite-mode-goals"
+  title="Infinite Mode Milestones:"
+  items={[
+    "Survive past wave 30 in any infinite map",
+    "Collect 50 Void Bags for stat dice and items",
+    "Complete the weekly damage task in infinite mode",
+    "Reach top 20 on the public leaderboards"
+  ]}
+/>
+
+</Section>
+
+<Section icon={BookOpen} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "Can I get gems in Infinite Mode?",
+    answer: "While you don't get gems directly from waves, completing infinite mode is the most efficient way to grind damage for weekly gem-rewarding tasks."
+  },
+  {
+    question: "What is the best map for beginners?",
+    answer: "The standard 'Infinite Regular 2' map is recommended for beginners due to its longer length and absence of complex enemy types like Air or Elemental."
+  },
+  {
+    question: "How do I get the Kujo unit?",
+    answer: "Kujo is a rare drop found inside Void Bags, which are earned by progressing through waves in All Star Tower Defense X infinite mode."
+  }
+]} />
+
+</Section>

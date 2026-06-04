@@ -1,0 +1,142 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "All Star Tower Defense X Ace: Character Guide & Ascension Tactics",
+  description: "Master the Fire Fist in All Star Tower Defense X. Learn how to ascend Ace, optimize his build, and dominate story mode with our expert guide.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/e11d48/fff?text=Ace+Guide",
+  date: "2026-06-04",
+  author: "All Star Tower Defense X Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- **All Star Tower Defense X Ace** is a powerful unit known for high multi-hit damage and burn utility.
+- **Ascension** requires specific items like hats and blue units, best achieved through trial farming.
+- Use **Auto-clickers** to optimize stat rolling to ensure you hit the required SS-tier ratings.
+- Ace excels in **Story Mode** content rather than infinite modes due to his specific damage scaling.
+- Always prioritize **All-Star** traits on Ace to maximize his effectiveness in your loadout.
+</Callout>
+
+<Section icon={Swords} title="Understanding Ace's Role">
+
+Ace, often referred to as Spade, has received significant balancing in the latest updates, making him a staple for players focusing on story progression. While he might not replace top-tier infinite mode units, his utility in clearing waves with burn damage is unparalleled for his cost.
+
+**Video Highlights:**
+- Detailed breakdown of the recent AoE buff for Ace.
+- Comparison between Ace and other top-tier units like Goku.
+- Demonstration of the "Flame Pillar" ability scaling.
+
+<YouTubeEmbed videoId="Lil344q6kNw" title="Spade BUFFED Showcase ASCENDED (Ace One Piece) All Star Tower Defense X ASTD X" />
+
+Ace is best utilized when you need a consistent multi-hit dealer. His burn damage provides a 40% damage boost over four ticks, which significantly helps in melting down shielded enemies during trials.
+
+| Ability | Effect | Utility |
+| :--- | :--- | :--- |
+| Basic Attack | Firefly strikes | Constant damage |
+| Flame Pillar | AoE expansion | Crowd control |
+| Burn Passive | 40% bonus damage | Boss melting |
+
+<Callout type="tip" title="Pro Tip">
+If you are struggling with shield enemies in trials, place Ace early to capitalize on his burn damage, which bypasses some of the standard damage reduction mechanics.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Ascension Process">
+
+Ascending Ace in All Star Tower Defense X is a multi-step process that demands patience and resource management. You will need to farm trials effectively to gather the necessary hats and blue units.
+
+<Steps>
+  <Step num="1" title="Gather Materials">
+    Collect Ace's hats and specific blue units from trial rewards. You will need at least three hats and several blue units to initiate the process.
+  </Step>
+  <Step num="2" title="Stat Rolling">
+    Use your gold to roll for SS-tier stats. Using an auto-clicker is highly recommended to save time and reach the desired stats efficiently.
+  </Step>
+  <Step num="3" title="Final Ascension">
+    Once stats are locked and materials are ready, navigate to the upgrade menu to complete the ascension. Ensure you have at least 5,000 gold on hand.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Crucial Warning">
+Avoid selling your primary units by mistake during intense trial waves. Always keep your economy management separate from your main combat layout.
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="Optimal Loadout Strategies">
+
+Building the right team around Ace is essential for clearing high-difficulty trials. You should pair him with units that can handle air enemies, as Ace’s focus is primarily on ground-based crowd control.
+
+<CardGrid cols={3}>
+  <Card title="Support Units">
+    - **Slowers**: Essential for keeping enemies in Ace's AoE.
+    - **Buffers**: Increase his attack speed.
+    - **Stunners**: Maximize his uptime.
+  </Card>
+  <Card title="Stat Priorities">
+    - **All-Star**: Primary trait.
+    - **Bloodlust**: Secondary option.
+    - **Genesis**: For late-game scaling.
+  </Card>
+  <Card title="Economy Units">
+    - **Money Makers**: Crucial for early placement.
+    - **Wave Clearers**: To protect your base.
+  </Card>
+</CardGrid>
+
+| Stat Priority | Recommended | Reason |
+| :--- | :--- | :--- |
+| Primary | All-Star | Best DPS increase |
+| Secondary | Bloodlust | Good for raw damage |
+| Tertiary | Genesis | Useful for versatility |
+
+</Section>
+
+<Section icon={Shield} title="Trial Survival Tips">
+
+Trials are where Ace truly shines, but they are also the most difficult content to master. The key is to manage your targeting and ensure your units aren't getting stunned by boss abilities.
+
+<Checklist
+  id="trial-survival"
+  title="Survival Checklist:"
+  items={[
+    "Position Ace to cover multiple paths",
+    "Use auto-freeze to manage shielded enemies",
+    "Keep a dedicated unit for air-only threats",
+    "Max out economy before wave 15",
+    "Sell and replace stunned units immediately"
+  ]}
+/>
+
+<Callout type="success" title="Success Strategy">
+When facing bosses with high shield counts, prioritize upgrading Ace's "Flame Pillar" to its maximum potential to strip away shields faster than standard attacks.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Frequently Asked Questions">
+
+<FAQ items={[
+  {
+    question: "Is Ace better than Goku in All Star Tower Defense X?",
+    answer: "They serve different roles. While Goku has better range and speed, Ace provides superior burn utility and multi-hit capabilities, making him better for certain story scenarios."
+  },
+  {
+    question: "Do I need to be max level to ascend Ace?",
+    answer: "No, but it is highly recommended to level him to 80+ before using him in high-difficulty trials to ensure he survives and outputs enough damage."
+  },
+  {
+    question: "What is the best trait for Ace?",
+    answer: "The All-Star trait is widely considered the best for Ace to maximize his total DPS output across all game modes."
+  }
+]} />
+
+</Section>
