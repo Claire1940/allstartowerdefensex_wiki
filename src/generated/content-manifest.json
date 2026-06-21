@@ -1,0 +1,1330 @@
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "All-Star-Tower-Defense-X-codes",
+        "file": "All-Star-Tower-Defense-X-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "All-Star-Tower-Defense-X-afk",
+        "file": "All-Star-Tower-Defense-X-afk"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-way-to-get-xp",
+        "file": "All-Star-Tower-Defense-X-best-way-to-get-xp"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-evo-materials",
+        "file": "All-Star-Tower-Defense-X-evo-materials"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-exp-farm",
+        "file": "All-Star-Tower-Defense-X-exp-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-money",
+        "file": "All-Star-Tower-Defense-X-farm-money"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gem-farm",
+        "file": "All-Star-Tower-Defense-X-gem-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gold-farm",
+        "file": "All-Star-Tower-Defense-X-gold-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-items",
+        "file": "All-Star-Tower-Defense-X-items"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-booster",
+        "file": "All-Star-Tower-Defense-X-luck-booster"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-potion",
+        "file": "All-Star-Tower-Defense-X-luck-potion"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orb-crafting",
+        "file": "All-Star-Tower-Defense-X-orb-crafting"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orbs",
+        "file": "All-Star-Tower-Defense-X-orbs"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-reroll-farming-guide",
+        "file": "All-Star-Tower-Defense-X-reroll-farming-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-void-loot",
+        "file": "All-Star-Tower-Defense-X-void-loot"
+      },
+      {
+        "slug": "all-star-tower-defense-x-farming-guide",
+        "file": "all-star-tower-defense-x-farming-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "All-Star-Tower-Defense-X-beginner-guide",
+        "file": "All-Star-Tower-Defense-X-beginner-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-skill-tree",
+        "file": "All-Star-Tower-Defense-X-best-skill-tree"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-team",
+        "file": "All-Star-Tower-Defense-X-best-team"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-daily-quests",
+        "file": "All-Star-Tower-Defense-X-daily-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dark-wing-quest",
+        "file": "All-Star-Tower-Defense-X-dark-wing-quest"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-element",
+        "file": "All-Star-Tower-Defense-X-element"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-guide",
+        "file": "All-Star-Tower-Defense-X-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-ascend",
+        "file": "All-Star-Tower-Defense-X-how-to-ascend"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-emote",
+        "file": "All-Star-Tower-Defense-X-how-to-emote"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-play",
+        "file": "All-Star-Tower-Defense-X-how-to-play"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-trade",
+        "file": "All-Star-Tower-Defense-X-how-to-trade"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-use-mount",
+        "file": "All-Star-Tower-Defense-X-how-to-use-mount"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-level-rewards",
+        "file": "All-Star-Tower-Defense-X-level-rewards"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-noob-to-pro",
+        "file": "All-Star-Tower-Defense-X-noob-to-pro"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-location",
+        "file": "All-Star-Tower-Defense-X-npc-location"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-quests",
+        "file": "All-Star-Tower-Defense-X-npc-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-spider-boss",
+        "file": "All-Star-Tower-Defense-X-spider-boss"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-trait-reroll",
+        "file": "All-Star-Tower-Defense-X-trait-reroll"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-update",
+        "file": "All-Star-Tower-Defense-X-update"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-vampire-mask",
+        "file": "All-Star-Tower-Defense-X-vampire-mask"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-weekly-quest",
+        "file": "All-Star-Tower-Defense-X-weekly-quest"
+      },
+      {
+        "slug": "all-star-tower-defense-x-account",
+        "file": "all-star-tower-defense-x-account"
+      },
+      {
+        "slug": "all-star-tower-defense-x-ascend",
+        "file": "all-star-tower-defense-x-ascend"
+      }
+    ],
+    "modes": [
+      {
+        "slug": "All-Star-Tower-Defense-X-dungeon",
+        "file": "All-Star-Tower-Defense-X-dungeon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-endless-mode",
+        "file": "All-Star-Tower-Defense-X-endless-mode"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-infinite",
+        "file": "All-Star-Tower-Defense-X-infinite"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-pvp",
+        "file": "All-Star-Tower-Defense-X-pvp"
+      },
+      {
+        "slug": "all-star-tower-defense-x-challenge-mode",
+        "file": "all-star-tower-defense-x-challenge-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-infinite-mode",
+        "file": "all-star-tower-defense-x-infinite-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-raid-mode",
+        "file": "all-star-tower-defense-x-raid-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-story-mode",
+        "file": "all-star-tower-defense-x-story-mode"
+      }
+    ],
+    "summon": [
+      {
+        "slug": "All-Star-Tower-Defense-X-alchemy-summon",
+        "file": "All-Star-Tower-Defense-X-alchemy-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-banner-live",
+        "file": "All-Star-Tower-Defense-X-banner-live"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-banner",
+        "file": "All-Star-Tower-Defense-X-banner"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-live-banner",
+        "file": "All-Star-Tower-Defense-X-live-banner"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-og-summon",
+        "file": "All-Star-Tower-Defense-X-og-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-pity",
+        "file": "All-Star-Tower-Defense-X-pity"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-stock",
+        "file": "All-Star-Tower-Defense-X-stock"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-summon-rates",
+        "file": "All-Star-Tower-Defense-X-summon-rates"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-warp-staff-summon",
+        "file": "All-Star-Tower-Defense-X-warp-staff-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-zip-summon",
+        "file": "All-Star-Tower-Defense-X-zip-summon"
+      },
+      {
+        "slug": "all-star-tower-defense-x-banner-schedule",
+        "file": "all-star-tower-defense-x-banner-schedule"
+      },
+      {
+        "slug": "all-star-tower-defense-x-summon-guide",
+        "file": "all-star-tower-defense-x-summon-guide"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "All-Star-Tower-Defense-X-air-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-air-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-5-star",
+        "file": "All-Star-Tower-Defense-X-best-5-star"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-money-unit",
+        "file": "All-Star-Tower-Defense-X-best-money-unit"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-units",
+        "file": "All-Star-Tower-Defense-X-best-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-character-tier-list",
+        "file": "All-Star-Tower-Defense-X-character-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dps-list",
+        "file": "All-Star-Tower-Defense-X-dps-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-meta-units",
+        "file": "All-Star-Tower-Defense-X-meta-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-tier-list",
+        "file": "All-Star-Tower-Defense-X-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-trait-tier-list",
+        "file": "All-Star-Tower-Defense-X-trait-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-value-list",
+        "file": "All-Star-Tower-Defense-X-value-list"
+      },
+      {
+        "slug": "all-star-tower-defense-x-trait-guide",
+        "file": "all-star-tower-defense-x-trait-guide"
+      }
+    ],
+    "units": [
+      {
+        "slug": "All-Star-Tower-Defense-X-ace",
+        "file": "All-Star-Tower-Defense-X-ace"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-air-units",
+        "file": "All-Star-Tower-Defense-X-air-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-broly",
+        "file": "All-Star-Tower-Defense-X-broly"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-characters",
+        "file": "All-Star-Tower-Defense-X-characters"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-units",
+        "file": "All-Star-Tower-Defense-X-farm-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gojo",
+        "file": "All-Star-Tower-Defense-X-gojo"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-goku",
+        "file": "All-Star-Tower-Defense-X-goku"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hidden-potential",
+        "file": "All-Star-Tower-Defense-X-hidden-potential"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hill-units",
+        "file": "All-Star-Tower-Defense-X-hill-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hybrid-units",
+        "file": "All-Star-Tower-Defense-X-hybrid-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-kokushibo",
+        "file": "All-Star-Tower-Defense-X-kokushibo"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-limited-units",
+        "file": "All-Star-Tower-Defense-X-limited-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-money-units",
+        "file": "All-Star-Tower-Defense-X-money-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-primal-units",
+        "file": "All-Star-Tower-Defense-X-primal-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-shiny-units",
+        "file": "All-Star-Tower-Defense-X-shiny-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-sukuna",
+        "file": "All-Star-Tower-Defense-X-sukuna"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-towers",
+        "file": "All-Star-Tower-Defense-X-towers"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unbound",
+        "file": "All-Star-Tower-Defense-X-unbound"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-units",
+        "file": "All-Star-Tower-Defense-X-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-vegeta",
+        "file": "All-Star-Tower-Defense-X-vegeta"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-zoro",
+        "file": "All-Star-Tower-Defense-X-zoro"
+      },
+      {
+        "slug": "all-star-tower-defense-x-best-traits",
+        "file": "all-star-tower-defense-x-best-traits"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blackbeard",
+        "file": "all-star-tower-defense-x-blackbeard"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blood-queen",
+        "file": "all-star-tower-defense-x-blood-queen"
+      },
+      {
+        "slug": "all-star-tower-defense-x-chrollo",
+        "file": "all-star-tower-defense-x-chrollo"
+      },
+      {
+        "slug": "all-star-tower-defense-x-evolution-guide",
+        "file": "all-star-tower-defense-x-evolution-guide"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "All-Star-Tower-Defense-X-codes",
+        "file": "All-Star-Tower-Defense-X-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "All-Star-Tower-Defense-X-best-way-to-get-xp",
+        "file": "All-Star-Tower-Defense-X-best-way-to-get-xp"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-evo-materials",
+        "file": "All-Star-Tower-Defense-X-evo-materials"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-exp-farm",
+        "file": "All-Star-Tower-Defense-X-exp-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-money",
+        "file": "All-Star-Tower-Defense-X-farm-money"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gem-farm",
+        "file": "All-Star-Tower-Defense-X-gem-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gold-farm",
+        "file": "All-Star-Tower-Defense-X-gold-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-items",
+        "file": "All-Star-Tower-Defense-X-items"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-booster",
+        "file": "All-Star-Tower-Defense-X-luck-booster"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-potion",
+        "file": "All-Star-Tower-Defense-X-luck-potion"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orb-crafting",
+        "file": "All-Star-Tower-Defense-X-orb-crafting"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orbs",
+        "file": "All-Star-Tower-Defense-X-orbs"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-reroll-farming-guide",
+        "file": "All-Star-Tower-Defense-X-reroll-farming-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-void-loot",
+        "file": "All-Star-Tower-Defense-X-void-loot"
+      },
+      {
+        "slug": "all-star-tower-defense-x-farming-guide",
+        "file": "all-star-tower-defense-x-farming-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "All-Star-Tower-Defense-X-beginner-guide",
+        "file": "All-Star-Tower-Defense-X-beginner-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-skill-tree",
+        "file": "All-Star-Tower-Defense-X-best-skill-tree"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-team",
+        "file": "All-Star-Tower-Defense-X-best-team"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-daily-quests",
+        "file": "All-Star-Tower-Defense-X-daily-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dark-wing-quest",
+        "file": "All-Star-Tower-Defense-X-dark-wing-quest"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-guide",
+        "file": "All-Star-Tower-Defense-X-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-ascend",
+        "file": "All-Star-Tower-Defense-X-how-to-ascend"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-play",
+        "file": "All-Star-Tower-Defense-X-how-to-play"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-trade",
+        "file": "All-Star-Tower-Defense-X-how-to-trade"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-use-mount",
+        "file": "All-Star-Tower-Defense-X-how-to-use-mount"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-level-rewards",
+        "file": "All-Star-Tower-Defense-X-level-rewards"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-noob-to-pro",
+        "file": "All-Star-Tower-Defense-X-noob-to-pro"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-location",
+        "file": "All-Star-Tower-Defense-X-npc-location"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-quests",
+        "file": "All-Star-Tower-Defense-X-npc-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-spider-boss",
+        "file": "All-Star-Tower-Defense-X-spider-boss"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-weekly-quest",
+        "file": "All-Star-Tower-Defense-X-weekly-quest"
+      },
+      {
+        "slug": "all-star-tower-defense-x-account",
+        "file": "all-star-tower-defense-x-account"
+      },
+      {
+        "slug": "all-star-tower-defense-x-ascend",
+        "file": "all-star-tower-defense-x-ascend"
+      }
+    ],
+    "modes": [
+      {
+        "slug": "all-star-tower-defense-x-challenge-mode",
+        "file": "all-star-tower-defense-x-challenge-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-infinite-mode",
+        "file": "all-star-tower-defense-x-infinite-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-raid-mode",
+        "file": "all-star-tower-defense-x-raid-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-story-mode",
+        "file": "all-star-tower-defense-x-story-mode"
+      }
+    ],
+    "summon": [
+      {
+        "slug": "All-Star-Tower-Defense-X-og-summon",
+        "file": "All-Star-Tower-Defense-X-og-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-pity",
+        "file": "All-Star-Tower-Defense-X-pity"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-stock",
+        "file": "All-Star-Tower-Defense-X-stock"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-warp-staff-summon",
+        "file": "All-Star-Tower-Defense-X-warp-staff-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-zip-summon",
+        "file": "All-Star-Tower-Defense-X-zip-summon"
+      },
+      {
+        "slug": "all-star-tower-defense-x-banner-schedule",
+        "file": "all-star-tower-defense-x-banner-schedule"
+      },
+      {
+        "slug": "all-star-tower-defense-x-summon-guide",
+        "file": "all-star-tower-defense-x-summon-guide"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "All-Star-Tower-Defense-X-air-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-air-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-5-star",
+        "file": "All-Star-Tower-Defense-X-best-5-star"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-money-unit",
+        "file": "All-Star-Tower-Defense-X-best-money-unit"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-units",
+        "file": "All-Star-Tower-Defense-X-best-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-character-tier-list",
+        "file": "All-Star-Tower-Defense-X-character-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dps-list",
+        "file": "All-Star-Tower-Defense-X-dps-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-meta-units",
+        "file": "All-Star-Tower-Defense-X-meta-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-tier-list",
+        "file": "All-Star-Tower-Defense-X-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-trait-tier-list",
+        "file": "All-Star-Tower-Defense-X-trait-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-value-list",
+        "file": "All-Star-Tower-Defense-X-value-list"
+      },
+      {
+        "slug": "all-star-tower-defense-x-trait-guide",
+        "file": "all-star-tower-defense-x-trait-guide"
+      }
+    ],
+    "units": [
+      {
+        "slug": "All-Star-Tower-Defense-X-air-units",
+        "file": "All-Star-Tower-Defense-X-air-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-characters",
+        "file": "All-Star-Tower-Defense-X-characters"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-units",
+        "file": "All-Star-Tower-Defense-X-farm-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hidden-potential",
+        "file": "All-Star-Tower-Defense-X-hidden-potential"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hill-units",
+        "file": "All-Star-Tower-Defense-X-hill-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hybrid-units",
+        "file": "All-Star-Tower-Defense-X-hybrid-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-limited-units",
+        "file": "All-Star-Tower-Defense-X-limited-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-money-units",
+        "file": "All-Star-Tower-Defense-X-money-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-shiny-units",
+        "file": "All-Star-Tower-Defense-X-shiny-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-towers",
+        "file": "All-Star-Tower-Defense-X-towers"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unbound",
+        "file": "All-Star-Tower-Defense-X-unbound"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-units",
+        "file": "All-Star-Tower-Defense-X-units"
+      },
+      {
+        "slug": "all-star-tower-defense-x-best-traits",
+        "file": "all-star-tower-defense-x-best-traits"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blackbeard",
+        "file": "all-star-tower-defense-x-blackbeard"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blood-queen",
+        "file": "all-star-tower-defense-x-blood-queen"
+      },
+      {
+        "slug": "all-star-tower-defense-x-chrollo",
+        "file": "all-star-tower-defense-x-chrollo"
+      },
+      {
+        "slug": "all-star-tower-defense-x-evolution-guide",
+        "file": "all-star-tower-defense-x-evolution-guide"
+      }
+    ]
+  },
+  "id": {
+    "codes": [
+      {
+        "slug": "All-Star-Tower-Defense-X-codes",
+        "file": "All-Star-Tower-Defense-X-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "All-Star-Tower-Defense-X-best-way-to-get-xp",
+        "file": "All-Star-Tower-Defense-X-best-way-to-get-xp"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-evo-materials",
+        "file": "All-Star-Tower-Defense-X-evo-materials"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-exp-farm",
+        "file": "All-Star-Tower-Defense-X-exp-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-money",
+        "file": "All-Star-Tower-Defense-X-farm-money"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gem-farm",
+        "file": "All-Star-Tower-Defense-X-gem-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gold-farm",
+        "file": "All-Star-Tower-Defense-X-gold-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-items",
+        "file": "All-Star-Tower-Defense-X-items"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-booster",
+        "file": "All-Star-Tower-Defense-X-luck-booster"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-potion",
+        "file": "All-Star-Tower-Defense-X-luck-potion"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orb-crafting",
+        "file": "All-Star-Tower-Defense-X-orb-crafting"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orbs",
+        "file": "All-Star-Tower-Defense-X-orbs"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-reroll-farming-guide",
+        "file": "All-Star-Tower-Defense-X-reroll-farming-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-void-loot",
+        "file": "All-Star-Tower-Defense-X-void-loot"
+      },
+      {
+        "slug": "all-star-tower-defense-x-farming-guide",
+        "file": "all-star-tower-defense-x-farming-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "All-Star-Tower-Defense-X-beginner-guide",
+        "file": "All-Star-Tower-Defense-X-beginner-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-skill-tree",
+        "file": "All-Star-Tower-Defense-X-best-skill-tree"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-team",
+        "file": "All-Star-Tower-Defense-X-best-team"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-daily-quests",
+        "file": "All-Star-Tower-Defense-X-daily-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dark-wing-quest",
+        "file": "All-Star-Tower-Defense-X-dark-wing-quest"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-guide",
+        "file": "All-Star-Tower-Defense-X-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-ascend",
+        "file": "All-Star-Tower-Defense-X-how-to-ascend"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-play",
+        "file": "All-Star-Tower-Defense-X-how-to-play"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-trade",
+        "file": "All-Star-Tower-Defense-X-how-to-trade"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-use-mount",
+        "file": "All-Star-Tower-Defense-X-how-to-use-mount"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-level-rewards",
+        "file": "All-Star-Tower-Defense-X-level-rewards"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-noob-to-pro",
+        "file": "All-Star-Tower-Defense-X-noob-to-pro"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-location",
+        "file": "All-Star-Tower-Defense-X-npc-location"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-quests",
+        "file": "All-Star-Tower-Defense-X-npc-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-spider-boss",
+        "file": "All-Star-Tower-Defense-X-spider-boss"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-weekly-quest",
+        "file": "All-Star-Tower-Defense-X-weekly-quest"
+      },
+      {
+        "slug": "all-star-tower-defense-x-account",
+        "file": "all-star-tower-defense-x-account"
+      },
+      {
+        "slug": "all-star-tower-defense-x-ascend",
+        "file": "all-star-tower-defense-x-ascend"
+      }
+    ],
+    "modes": [
+      {
+        "slug": "all-star-tower-defense-x-challenge-mode",
+        "file": "all-star-tower-defense-x-challenge-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-infinite-mode",
+        "file": "all-star-tower-defense-x-infinite-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-raid-mode",
+        "file": "all-star-tower-defense-x-raid-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-story-mode",
+        "file": "all-star-tower-defense-x-story-mode"
+      }
+    ],
+    "summon": [
+      {
+        "slug": "All-Star-Tower-Defense-X-og-summon",
+        "file": "All-Star-Tower-Defense-X-og-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-pity",
+        "file": "All-Star-Tower-Defense-X-pity"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-stock",
+        "file": "All-Star-Tower-Defense-X-stock"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-warp-staff-summon",
+        "file": "All-Star-Tower-Defense-X-warp-staff-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-zip-summon",
+        "file": "All-Star-Tower-Defense-X-zip-summon"
+      },
+      {
+        "slug": "all-star-tower-defense-x-banner-schedule",
+        "file": "all-star-tower-defense-x-banner-schedule"
+      },
+      {
+        "slug": "all-star-tower-defense-x-summon-guide",
+        "file": "all-star-tower-defense-x-summon-guide"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "All-Star-Tower-Defense-X-air-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-air-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-5-star",
+        "file": "All-Star-Tower-Defense-X-best-5-star"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-money-unit",
+        "file": "All-Star-Tower-Defense-X-best-money-unit"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-units",
+        "file": "All-Star-Tower-Defense-X-best-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-character-tier-list",
+        "file": "All-Star-Tower-Defense-X-character-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dps-list",
+        "file": "All-Star-Tower-Defense-X-dps-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-meta-units",
+        "file": "All-Star-Tower-Defense-X-meta-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-tier-list",
+        "file": "All-Star-Tower-Defense-X-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-trait-tier-list",
+        "file": "All-Star-Tower-Defense-X-trait-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-value-list",
+        "file": "All-Star-Tower-Defense-X-value-list"
+      },
+      {
+        "slug": "all-star-tower-defense-x-trait-guide",
+        "file": "all-star-tower-defense-x-trait-guide"
+      }
+    ],
+    "units": [
+      {
+        "slug": "All-Star-Tower-Defense-X-air-units",
+        "file": "All-Star-Tower-Defense-X-air-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-characters",
+        "file": "All-Star-Tower-Defense-X-characters"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-units",
+        "file": "All-Star-Tower-Defense-X-farm-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hidden-potential",
+        "file": "All-Star-Tower-Defense-X-hidden-potential"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hill-units",
+        "file": "All-Star-Tower-Defense-X-hill-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hybrid-units",
+        "file": "All-Star-Tower-Defense-X-hybrid-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-limited-units",
+        "file": "All-Star-Tower-Defense-X-limited-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-money-units",
+        "file": "All-Star-Tower-Defense-X-money-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-shiny-units",
+        "file": "All-Star-Tower-Defense-X-shiny-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-towers",
+        "file": "All-Star-Tower-Defense-X-towers"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unbound",
+        "file": "All-Star-Tower-Defense-X-unbound"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-units",
+        "file": "All-Star-Tower-Defense-X-units"
+      },
+      {
+        "slug": "all-star-tower-defense-x-best-traits",
+        "file": "all-star-tower-defense-x-best-traits"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blackbeard",
+        "file": "all-star-tower-defense-x-blackbeard"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blood-queen",
+        "file": "all-star-tower-defense-x-blood-queen"
+      },
+      {
+        "slug": "all-star-tower-defense-x-chrollo",
+        "file": "all-star-tower-defense-x-chrollo"
+      },
+      {
+        "slug": "all-star-tower-defense-x-evolution-guide",
+        "file": "all-star-tower-defense-x-evolution-guide"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "All-Star-Tower-Defense-X-codes",
+        "file": "All-Star-Tower-Defense-X-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "All-Star-Tower-Defense-X-best-way-to-get-xp",
+        "file": "All-Star-Tower-Defense-X-best-way-to-get-xp"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-evo-materials",
+        "file": "All-Star-Tower-Defense-X-evo-materials"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-exp-farm",
+        "file": "All-Star-Tower-Defense-X-exp-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-money",
+        "file": "All-Star-Tower-Defense-X-farm-money"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gem-farm",
+        "file": "All-Star-Tower-Defense-X-gem-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-gold-farm",
+        "file": "All-Star-Tower-Defense-X-gold-farm"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-items",
+        "file": "All-Star-Tower-Defense-X-items"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-booster",
+        "file": "All-Star-Tower-Defense-X-luck-booster"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-luck-potion",
+        "file": "All-Star-Tower-Defense-X-luck-potion"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orb-crafting",
+        "file": "All-Star-Tower-Defense-X-orb-crafting"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-orbs",
+        "file": "All-Star-Tower-Defense-X-orbs"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-reroll-farming-guide",
+        "file": "All-Star-Tower-Defense-X-reroll-farming-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-void-loot",
+        "file": "All-Star-Tower-Defense-X-void-loot"
+      },
+      {
+        "slug": "all-star-tower-defense-x-farming-guide",
+        "file": "all-star-tower-defense-x-farming-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "All-Star-Tower-Defense-X-beginner-guide",
+        "file": "All-Star-Tower-Defense-X-beginner-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-skill-tree",
+        "file": "All-Star-Tower-Defense-X-best-skill-tree"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-team",
+        "file": "All-Star-Tower-Defense-X-best-team"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-daily-quests",
+        "file": "All-Star-Tower-Defense-X-daily-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dark-wing-quest",
+        "file": "All-Star-Tower-Defense-X-dark-wing-quest"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-guide",
+        "file": "All-Star-Tower-Defense-X-guide"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-ascend",
+        "file": "All-Star-Tower-Defense-X-how-to-ascend"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-play",
+        "file": "All-Star-Tower-Defense-X-how-to-play"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-trade",
+        "file": "All-Star-Tower-Defense-X-how-to-trade"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-how-to-use-mount",
+        "file": "All-Star-Tower-Defense-X-how-to-use-mount"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-level-rewards",
+        "file": "All-Star-Tower-Defense-X-level-rewards"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-noob-to-pro",
+        "file": "All-Star-Tower-Defense-X-noob-to-pro"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-location",
+        "file": "All-Star-Tower-Defense-X-npc-location"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-npc-quests",
+        "file": "All-Star-Tower-Defense-X-npc-quests"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-spider-boss",
+        "file": "All-Star-Tower-Defense-X-spider-boss"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-weekly-quest",
+        "file": "All-Star-Tower-Defense-X-weekly-quest"
+      },
+      {
+        "slug": "all-star-tower-defense-x-account",
+        "file": "all-star-tower-defense-x-account"
+      },
+      {
+        "slug": "all-star-tower-defense-x-ascend",
+        "file": "all-star-tower-defense-x-ascend"
+      }
+    ],
+    "modes": [
+      {
+        "slug": "all-star-tower-defense-x-challenge-mode",
+        "file": "all-star-tower-defense-x-challenge-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-infinite-mode",
+        "file": "all-star-tower-defense-x-infinite-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-raid-mode",
+        "file": "all-star-tower-defense-x-raid-mode"
+      },
+      {
+        "slug": "all-star-tower-defense-x-story-mode",
+        "file": "all-star-tower-defense-x-story-mode"
+      }
+    ],
+    "summon": [
+      {
+        "slug": "All-Star-Tower-Defense-X-og-summon",
+        "file": "All-Star-Tower-Defense-X-og-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-pity",
+        "file": "All-Star-Tower-Defense-X-pity"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-stock",
+        "file": "All-Star-Tower-Defense-X-stock"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-warp-staff-summon",
+        "file": "All-Star-Tower-Defense-X-warp-staff-summon"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-zip-summon",
+        "file": "All-Star-Tower-Defense-X-zip-summon"
+      },
+      {
+        "slug": "all-star-tower-defense-x-banner-schedule",
+        "file": "all-star-tower-defense-x-banner-schedule"
+      },
+      {
+        "slug": "all-star-tower-defense-x-summon-guide",
+        "file": "all-star-tower-defense-x-summon-guide"
+      }
+    ],
+    "tier": [
+      {
+        "slug": "All-Star-Tower-Defense-X-air-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-air-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-5-star",
+        "file": "All-Star-Tower-Defense-X-best-5-star"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-money-unit",
+        "file": "All-Star-Tower-Defense-X-best-money-unit"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-best-units",
+        "file": "All-Star-Tower-Defense-X-best-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-character-tier-list",
+        "file": "All-Star-Tower-Defense-X-character-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-dps-list",
+        "file": "All-Star-Tower-Defense-X-dps-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-meta-units",
+        "file": "All-Star-Tower-Defense-X-meta-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-tier-list",
+        "file": "All-Star-Tower-Defense-X-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-trait-tier-list",
+        "file": "All-Star-Tower-Defense-X-trait-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unit-tier-list",
+        "file": "All-Star-Tower-Defense-X-unit-tier-list"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-value-list",
+        "file": "All-Star-Tower-Defense-X-value-list"
+      },
+      {
+        "slug": "all-star-tower-defense-x-trait-guide",
+        "file": "all-star-tower-defense-x-trait-guide"
+      }
+    ],
+    "units": [
+      {
+        "slug": "All-Star-Tower-Defense-X-air-units",
+        "file": "All-Star-Tower-Defense-X-air-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-characters",
+        "file": "All-Star-Tower-Defense-X-characters"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-farm-units",
+        "file": "All-Star-Tower-Defense-X-farm-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hidden-potential",
+        "file": "All-Star-Tower-Defense-X-hidden-potential"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hill-units",
+        "file": "All-Star-Tower-Defense-X-hill-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-hybrid-units",
+        "file": "All-Star-Tower-Defense-X-hybrid-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-limited-units",
+        "file": "All-Star-Tower-Defense-X-limited-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-money-units",
+        "file": "All-Star-Tower-Defense-X-money-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-shiny-units",
+        "file": "All-Star-Tower-Defense-X-shiny-units"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-towers",
+        "file": "All-Star-Tower-Defense-X-towers"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-unbound",
+        "file": "All-Star-Tower-Defense-X-unbound"
+      },
+      {
+        "slug": "All-Star-Tower-Defense-X-units",
+        "file": "All-Star-Tower-Defense-X-units"
+      },
+      {
+        "slug": "all-star-tower-defense-x-best-traits",
+        "file": "all-star-tower-defense-x-best-traits"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blackbeard",
+        "file": "all-star-tower-defense-x-blackbeard"
+      },
+      {
+        "slug": "all-star-tower-defense-x-blood-queen",
+        "file": "all-star-tower-defense-x-blood-queen"
+      },
+      {
+        "slug": "all-star-tower-defense-x-chrollo",
+        "file": "all-star-tower-defense-x-chrollo"
+      },
+      {
+        "slug": "all-star-tower-defense-x-evolution-guide",
+        "file": "all-star-tower-defense-x-evolution-guide"
+      }
+    ]
+  }
+}
